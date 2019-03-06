@@ -17,7 +17,7 @@ public class Tabou {
 
         for (int i = 0; i < this.maxIter; i++) {
             // 1. V(xi) = Liste des permutations
-            List<Permutation> permutations = permutation.getPermutations();
+            List<Permutation> permutations = permutation.getPermutations(xMin);
 
             // 2. On calcule les fitness de toutes les permutations
             List<Integer> fitness = new ArrayList<>();
