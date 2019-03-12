@@ -6,24 +6,22 @@ import java.util.List;
 
 public class Tabou {
 
-    private Permutation permutation;
-
     private int maxIter;
 
-    public Permutation tabuSearch(Permutation permutationInitial) {
-        Permutation xMin = permutationInitial;
-        int fMin = permutation.getFitness(xMin);
+    public Solution tabuSearch(Solution solutionInitial) {
+        Solution xMin = solutionInitial;
+        int fMin = xMin.getFitness();
         List<String> T = new ArrayList<>();
 
         for (int i = 0; i < this.maxIter; i++) {
             // 1. V(xi) = Liste des permutations
-            List<Permutation> permutations = permutation.getPermutations(xMin);
+            List<Solution> solutions = xMin.getPermutations();
 
             // 2. On calcule les fitness de toutes les permutations
             List<Integer> fitness = new ArrayList<>();
 
-            for(int permutation = 0; permutation < permutations.size(); permutation++) {
-                fitness.add(permutation.getFitness());
+            for(int solution = 0; solution < solutions.size(); solution++) {
+                fitness.add(solutions.get(solution).getFitness());
             }
 
             // 3. On prend la plus petite fitness et on la met dans une valeur(xi+1)
