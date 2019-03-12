@@ -1,5 +1,6 @@
 package com.quadtratic.algorithme;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -7,25 +8,25 @@ import java.util.List;
 public class Tabou {
 
     private int maxIter;
+    private Quadratic q;
+
+    public Tabou( Quadratic q, int maxIter) {
+        this.maxIter = maxIter;
+        this.q = q;
+    }
 
     public Solution tabuSearch(Solution solutionInitial) {
-        Solution xMin = solutionInitial;
-        int fMin = xMin.getFitness();
+        q.setSolution(solutionInitial);
+        int fMin = q.getSolution().getFitness();
         List<String> T = new ArrayList<>();
 
         for (int i = 0; i < this.maxIter; i++) {
             // 1. V(xi) = Liste des permutations
-            List<Solution> solutions = xMin.getPermutations();
-
-            // 2. On calcule les fitness de toutes les permutations
-            List<Integer> fitness = new ArrayList<>();
-
-            for(int solution = 0; solution < solutions.size(); solution++) {
-                fitness.add(solutions.get(solution).getFitness());
-            }
+            ArrayList<Solution> solutions = q.getPossibleSolution();
 
             // 3. On prend la plus petite fitness et on la met dans une valeur(xi+1)
-            int fitnessMin = fitness.indexOf(Collections.min(fitness));
+
+            //Solution sOptimale = // Recuperer la solution avec la fitness minimal
 
             // 4. DeltaF = valeurFitness(xi+1) - valeurFitness(xi)
 
@@ -34,7 +35,7 @@ public class Tabou {
             // 6. Si f(xi+1) < fMin alors xMin = xi+1 et fMin = f(xi+1)
         }
 
-        return xMin;
+        return q.getSolution();
     }
 
     public int getMaxIter() {

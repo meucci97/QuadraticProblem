@@ -2,12 +2,15 @@ package com.quadtratic.algorithme;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Quadratic {
+
     int size;
     private int [][] connectionsTab;
     private int [][] distancesTab;
+    private Solution solution;
 
     public Quadratic(String fileName){
         try{
@@ -69,5 +72,18 @@ public class Quadratic {
 
     public int getDistancesTab(int i, int y) {
         return distancesTab[i][y];
+    }
+
+    public Solution getSolution() {
+        return solution;
+    }
+
+    public void setSolution(Solution solution) {
+        this.solution = solution;
+    }
+
+    public ArrayList<Solution> getPossibleSolution(){
+
+        return new ArrayList<Solution>();
     }
 }

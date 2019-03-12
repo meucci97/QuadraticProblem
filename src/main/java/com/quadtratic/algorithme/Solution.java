@@ -5,11 +5,25 @@ import java.util.List;
 
 public class Solution {
 
-    public int getFitness() {
-        return 0;
+    private int fitness;
+    private int[] permutation;
+
+    public Solution() {
+        permutation = new int[2];
     }
 
-    public List<Solution> getPermutations() {
-        return new ArrayList<Solution>();
+    public int getFitness() {
+        return fitness;
+    }
+
+    public void setFitness(int fitness) {
+        this.fitness = fitness;
+    }
+
+    public int[] getPermutation(){return this.permutation;}
+
+    public void setPermutation(int i , int j){
+        this.permutation[0]=i;
+        this.permutation[1]=j;
     }
 }
