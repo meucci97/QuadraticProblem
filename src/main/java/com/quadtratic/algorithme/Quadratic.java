@@ -82,7 +82,7 @@ public class Quadratic {
         this.solution = solution;
     }
 
-    public ArrayList<Solution> getPossibleSolution(){
+    public ArrayList<Solution> getPossibleSolutions(){
 
         return new ArrayList<Solution>();
     }
