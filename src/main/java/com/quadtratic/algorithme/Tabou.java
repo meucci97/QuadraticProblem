@@ -28,7 +28,7 @@ public class Tabou {
             Solution sOptimale = solutions.stream().min(Comparator.comparing(Solution::getFitness)).get();
 
             // 4. DeltaF = valeurFitness(xi+1) - valeurFitness(xi)
-            int deltaF = sOptimale.getFitness() - q.getSolution().getFitness();
+            double deltaF = sOptimale.getFitness() - q.getSolution().getFitness();
 
             // 5. Si deltaF < 0 alors on ajoute m^-1 a T
             if (deltaF < 0) {
