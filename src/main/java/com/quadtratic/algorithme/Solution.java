@@ -5,18 +5,35 @@ import java.util.List;
 
 public class Solution {
 
-    private int fitness;
+    private double fitness;
     private int[] permutation;
+    private int[] solution;
+
+    public int[] getSolution() {
+        return solution;
+    }
+
+    public void setSolution(int[] solution) {
+        this.solution = solution;
+    }
 
     public Solution() {
         permutation = new int[2];
     }
+    public Solution(Solution s) {
+        this.fitness= s.fitness;
+        this.solution = new int[s.getSolution().length];
+        for(int i = 0 ; i<this.solution.length; i++){
+            this.solution[i] = s.getSolutionValue(i);
+        }
+        permutation = new int[2];
+    }
 
-    public int getFitness() {
+    public double  getFitness() {
         return fitness;
     }
 
-    public void setFitness(int fitness) {
+    public void setFitness(double fitness) {
         this.fitness = fitness;
     }
 
@@ -25,5 +42,12 @@ public class Solution {
     public void setPermutation(int i , int j){
         this.permutation[0]=i;
         this.permutation[1]=j;
+        int temp = this.solution[i];
+        this.solution[i]=this.solution[j];
+        this.solution[j]=temp;
+    }
+
+    public int getSolutionValue(int i ){
+        return this.solution[i];
     }
 }

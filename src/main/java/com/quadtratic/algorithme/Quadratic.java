@@ -83,7 +83,30 @@ public class Quadratic {
     }
 
     public ArrayList<Solution> getPossibleSolution(){
+        ArrayList<Solution> possibleSolution = new ArrayList<>();
+        for(int i=0; i<this.solution.getSolution().length;i++){
+            for(int j=i+1; j<this.solution.getSolution().length;j++){
+                if(i != j){
+                        Solution s = new Solution(this.solution);
+                        s.setPermutation(i,j);
+                        s.setFitness(calculateSolutionFitness(s));
+                        possibleSolution.add(s);
+                }
+            }
+        }
+        return possibleSolution;
+    }
 
-        return new ArrayList<Solution>();
+    public double calculateSolutionFitness(Solution s){
+        int fitness = 0;
+        for(int i=0; i<s.getSolution().length;i++){
+            for(int j=i+1; j<s.getSolution().length;j++){
+                int solutionValue = s.getSolutionValue(i);
+                int solutionValue2 = s.getSolutionValue(j);
+
+                fitness += this.connectionsTab[solutionValue][solutionValue2]* this.distancesTab[i%this.size][j%(this.size)];
+            }
+        }
+        return fitness;
     }
 }
