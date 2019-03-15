@@ -27,7 +27,7 @@ public class Quadratic {
                 String readline[] = (scnr.nextLine()).split("\\s+");
                 System.out.println(readline);
                 for(int j = 1 ; j<size+1;j++){
-                    connectionsTab[i][j-1] = Integer.parseInt(readline[j]);
+                    distancesTab[i][j-1] = Integer.parseInt(readline[j]);
                 }
             }
             scnr.nextLine();
@@ -36,7 +36,7 @@ public class Quadratic {
                 String readline[] = (scnr.nextLine()).split("\\s+");
                 System.out.println(readline);
                 for(int j = 1 ; j<size+1;j++){
-                    distancesTab[i][j-1] = Integer.parseInt(readline[j]);
+                    connectionsTab[i][j-1] = Integer.parseInt(readline[j]);
                 }
             }
 
@@ -83,9 +83,10 @@ public class Quadratic {
     }
 
     public ArrayList<Solution> getPossibleSolutions(){
-        ArrayList<Solution> possibleSolution = new ArrayList<>();
+        ArrayList<Solution> possibleSolution = new ArrayList();
         for(int i=0; i<this.solution.getSolution().length;i++){
             for(int j=i+1; j<this.solution.getSolution().length;j++){
+
                 if(i != j){
                         Solution s = new Solution(this.solution);
                         s.setPermutation(i,j);
@@ -101,8 +102,9 @@ public class Quadratic {
         int fitness = 0;
         for(int i=0; i<s.getSolution().length;i++){
             for(int j=i+1; j<s.getSolution().length;j++){
-                int solutionValue = s.getSolutionValue(i);
-                int solutionValue2 = s.getSolutionValue(j);
+
+                int solutionValue = s.getSolutionValue(i)-1;
+                int solutionValue2 = s.getSolutionValue(j)-1;
 
                 fitness += this.connectionsTab[solutionValue][solutionValue2]* this.distancesTab[i%this.size][j%(this.size)];
             }

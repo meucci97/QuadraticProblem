@@ -4,15 +4,14 @@ import java.util.ArrayList;
 
 public class main {
     public static void main (String[] args){
-
-        System.out.println("Hello");
+        /*
         Quadratic q = new Quadratic("test.dat");
         q.affiche();
         Solution s = new Solution();
-        int[] i= {2,0,3,4,1};
+        int[] i= {1,3,4,5,2};
         s.setSolution(i);
         q.setSolution(s);
-        ArrayList<Solution> temp = q.getPossibleSolution();
+        ArrayList<Solution> temp = q.getPossibleSolutions();
 
         temp.stream().forEach(el -> {
             for(int j=0; j<el.getSolution().length;j++){
@@ -21,6 +20,25 @@ public class main {
             System.out.print(" Fitness: "+ el.getFitness());
             System.out.println();
         });
+        */
 
+        System.out.println("Hello");
+        Quadratic q2 = new Quadratic("tai12a.dat");
+        q2.affiche();
+        Solution s2 = new Solution();
+        int[] i= {8,1,6,2,11,10,3,5,9,7,12,4};
+
+        //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
+        s2.setSolution(i);
+
+
+        Tabou t = new Tabou(q2,1000,9);
+        Solution optimale2 = t.tabuSearch(s2);
+
+        System.out.println("Fitess: "+optimale2.getFitness()*2);
+        System.out.print("Solution: ");
+        for(int x=0; x< optimale2.getSolution().length;x++){
+            System.out.print(optimale2.getSolutionValue(x)+" ");
+        }
     }
 }

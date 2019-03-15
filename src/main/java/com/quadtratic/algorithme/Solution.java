@@ -33,6 +33,14 @@ public class Solution {
         return fitness;
     }
 
+    public void affiche(){
+
+        for (int i = 0; i<this.solution.length ;i++){
+            System.out.print(this.solution[i]+" ");
+        }
+        System.out.println(" Fitness :"+ this.fitness);
+    }
+
     public void setFitness(double fitness) {
         this.fitness = fitness;
     }
