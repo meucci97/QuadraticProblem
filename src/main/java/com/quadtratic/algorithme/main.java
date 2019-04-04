@@ -22,11 +22,10 @@ public class main {
         });
         */
 
-        System.out.println("Hello");
         Quadratic q2 = new Quadratic("tai12a.dat");
         q2.affiche();
         Solution s2 = new Solution();
-        int[] i= {8,1,6,2,11,10,3,5,9,7,12,4};
+        int[] i= {1,2,3,4,5,6,7,8,9,10,11,12};
 
         //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
         s2.setSolution(i);
@@ -37,7 +36,7 @@ public class main {
 
         System.out.println("Fitess: "+optimale2.getFitness()*2);
         System.out.print("Solution: ");
-        for(int x=0; x< optimale2.getSolution().length;x++){
+        for(int x=0; x < optimale2.getSolution().length;x++){
             System.out.print(optimale2.getSolutionValue(x)+" ");
         }
     }

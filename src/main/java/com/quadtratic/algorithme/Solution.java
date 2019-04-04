@@ -8,6 +8,7 @@ public class Solution {
     private double fitness;
     private int[] permutation;
     private int[] solution;
+    private int iteration;
 
     public int[] getSolution() {
         return solution;
@@ -20,6 +21,7 @@ public class Solution {
     public Solution() {
         permutation = new int[2];
     }
+
     public Solution(Solution s) {
         this.fitness= s.fitness;
         this.solution = new int[s.getSolution().length];

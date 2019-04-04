@@ -111,7 +111,7 @@ public class Quadratic {
                 int solutionValue = s.getSolutionValue(i)-1;
                 int solutionValue2 = s.getSolutionValue(j)-1;
 
-                fitness += this.connectionsTab[solutionValue][solutionValue2]* this.distancesTab[i%this.size][j%(this.size)];
+                fitness += this.connectionsTab[solutionValue][solutionValue2]* this.distancesTab[i][j];
             }
         }
         return fitness;
