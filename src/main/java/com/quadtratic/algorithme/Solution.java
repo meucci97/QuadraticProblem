@@ -57,7 +57,7 @@ public class Solution {
         this.solution[j]=temp;
     }
 
-    public int getSolutionValue(int i ){
+    public int getSolutionValue(int i) {
         return this.solution[i];
     }
 }
