@@ -41,7 +41,9 @@ public class Tabou {
             ArrayList<Solution> solutions = q.getPossibleSolutions();
             solutions = removeExistingPermutation(solutions);
             // Solution optimale avec fitness
-            Solution sOptimale = solutions.stream().min(Comparator.comparingDouble(Solution::getFitness)).get();
+            Solution sOptimale = solutions.stream().min(Comparator.comparing(s-> s.getFitness())).get();
+
+            //Solution sOptimale = solutions.stream().min(Comparator.comparingDouble(Solution::getFitness)).get();
 
             // 5. Si deltaF < 0 alors on ajoute m^-1 a T
             if (sOptimale.getFitness() >  q.getSolution().getFitness()) {
