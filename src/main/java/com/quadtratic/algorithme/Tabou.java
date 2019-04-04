@@ -11,12 +11,22 @@ public class Tabou {
     private ArrayList<String> tabouList;
     private int tabouListSize;
     private Solution solutionMin;
+    private boolean log;
 
     public Tabou(Quadratic q, int maxIter, int tabouListSize) {
         this.maxIter = maxIter;
         this.q = q;
         this.tabouListSize = tabouListSize;
         this.tabouList = new ArrayList();
+        this.log = false;
+    }
+
+    public Tabou(Quadratic q, int maxIter, int tabouListSize, boolean log) {
+        this.maxIter = maxIter;
+        this.q = q;
+        this.tabouListSize = tabouListSize;
+        this.tabouList = new ArrayList();
+        this.log = log;
     }
 
     public Solution tabuSearch(Solution solutionInitial) {
@@ -44,9 +54,19 @@ public class Tabou {
                 solutionMin = sOptimale;
             }
             q.setSolution(sOptimale);
-            solutionMin.affiche();
-            q.getSolution().affiche();
-            System.out.println("--------------------");
+
+            if(log){
+                // write in file
+                //param (solutionMin,  q.getSolution())
+            }else{
+                System.out.println("-------- Iteration "+ i  +"-------- ");
+                System.out.print("Solution min : ");
+                solutionMin.affiche();
+                System.out.print("Solution opt : ");
+                q.getSolution().affiche();
+
+            }
+
         }
 
         return solutionMin;
@@ -65,11 +85,4 @@ public class Tabou {
         }
     }
 
-    public int getMaxIter() {
-        return maxIter;
-    }
-
-    public void setMaxIter(int maxIter) {
-        this.maxIter = maxIter;
-    }
 }

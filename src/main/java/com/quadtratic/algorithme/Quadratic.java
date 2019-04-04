@@ -11,11 +11,16 @@ public class Quadratic {
     private int [][] connectionsTab;
     private int [][] distancesTab;
     private Solution solution;
+    private String fileName;
+
+    public String getFileName() {
+        return fileName;
+    }
 
     public Quadratic(String fileName){
         try{
-
-            File file = new File("./src/main/resources/data/"+fileName);
+            this.fileName=fileName;
+            File file = new File("./src/main/resources/data/"+this.fileName);
             Scanner scnr = new Scanner(file);
 
             int size = Integer.parseInt(scnr.nextLine().trim());
