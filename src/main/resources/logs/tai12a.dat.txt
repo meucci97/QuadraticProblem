@@ -1,0 +1,800 @@
+-------- Iteration0-------- 
+Solution min : 10 2 3 4 5 6 7 8 9 1 11 12 Fitness :152224.0
+Solution opt : 10 2 3 4 5 6 7 8 9 1 11 12 Fitness :152224.0
+
+-------- Iteration1-------- 
+Solution min : 10 2 3 6 5 4 7 8 9 1 11 12 Fitness :141705.0
+Solution opt : 10 2 3 6 5 4 7 8 9 1 11 12 Fitness :141705.0
+
+-------- Iteration2-------- 
+Solution min : 10 2 3 6 5 4 7 9 8 1 11 12 Fitness :137249.0
+Solution opt : 10 2 3 6 5 4 7 9 8 1 11 12 Fitness :137249.0
+
+-------- Iteration3-------- 
+Solution min : 10 2 12 6 5 4 7 9 8 1 11 3 Fitness :133348.0
+Solution opt : 10 2 12 6 5 4 7 9 8 1 11 3 Fitness :133348.0
+
+-------- Iteration4-------- 
+Solution min : 10 12 2 6 5 4 7 9 8 1 11 3 Fitness :130695.0
+Solution opt : 10 12 2 6 5 4 7 9 8 1 11 3 Fitness :130695.0
+
+-------- Iteration5-------- 
+Solution min : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+Solution opt : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+
+-------- Iteration6-------- 
+Solution min : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+Solution opt : 10 12 2 6 4 5 9 7 8 1 11 3 Fitness :130793.0
+
+-------- Iteration7-------- 
+Solution min : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+Solution opt : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+
+-------- Iteration8-------- 
+Solution min : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+Solution opt : 10 1 2 6 4 5 7 9 8 12 11 3 Fitness :131020.0
+
+-------- Iteration9-------- 
+Solution min : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+Solution opt : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+
+-------- Iteration10-------- 
+Solution min : 10 12 2 6 4 5 7 9 8 1 11 3 Fitness :129268.0
+Solution opt : 11 12 2 6 4 5 7 9 8 1 10 3 Fitness :131216.0
+
+-------- Iteration11-------- 
+Solution min : 11 12 2 6 3 5 7 9 8 1 10 4 Fitness :126453.0
+Solution opt : 11 12 2 6 3 5 7 9 8 1 10 4 Fitness :126453.0
+
+-------- Iteration12-------- 
+Solution min : 4 12 2 6 3 5 7 9 8 1 10 11 Fitness :124804.0
+Solution opt : 4 12 2 6 3 5 7 9 8 1 10 11 Fitness :124804.0
+
+-------- Iteration13-------- 
+Solution min : 4 12 2 6 3 5 7 10 8 1 9 11 Fitness :124506.0
+Solution opt : 4 12 2 6 3 5 7 10 8 1 9 11 Fitness :124506.0
+
+-------- Iteration14-------- 
+Solution min : 4 12 2 8 3 5 7 10 6 1 9 11 Fitness :123876.0
+Solution opt : 4 12 2 8 3 5 7 10 6 1 9 11 Fitness :123876.0
+
+-------- Iteration15-------- 
+Solution min : 4 12 2 8 3 5 7 10 6 1 9 11 Fitness :123876.0
+Solution opt : 4 7 2 8 3 5 12 10 6 1 9 11 Fitness :124684.0
+
+-------- Iteration16-------- 
+Solution min : 4 7 2 8 3 5 1 10 6 12 9 11 Fitness :123205.0
+Solution opt : 4 7 2 8 3 5 1 10 6 12 9 11 Fitness :123205.0
+
+-------- Iteration17-------- 
+Solution min : 4 9 2 8 3 5 1 10 6 12 7 11 Fitness :122684.0
+Solution opt : 4 9 2 8 3 5 1 10 6 12 7 11 Fitness :122684.0
+
+-------- Iteration18-------- 
+Solution min : 4 9 2 8 1 5 3 10 6 12 7 11 Fitness :122129.0
+Solution opt : 4 9 2 8 1 5 3 10 6 12 7 11 Fitness :122129.0
+
+-------- Iteration19-------- 
+Solution min : 4 5 2 8 1 9 3 10 6 12 7 11 Fitness :121872.0
+Solution opt : 4 5 2 8 1 9 3 10 6 12 7 11 Fitness :121872.0
+
+-------- Iteration20-------- 
+Solution min : 4 5 2 8 1 7 3 10 6 12 9 11 Fitness :121283.0
+Solution opt : 4 5 2 8 1 7 3 10 6 12 9 11 Fitness :121283.0
+
+-------- Iteration21-------- 
+Solution min : 4 5 2 8 1 7 3 10 6 12 9 11 Fitness :121283.0
+Solution opt : 4 1 2 8 5 7 3 10 6 12 9 11 Fitness :122241.0
+
+-------- Iteration22-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration23-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 5 2 8 3 7 1 10 6 12 9 11 Fitness :123085.0
+
+-------- Iteration24-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration25-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 11 3 2 8 5 7 1 10 6 12 9 4 Fitness :122800.0
+
+-------- Iteration26-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration27-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 7 5 1 10 6 12 9 11 Fitness :123958.0
+
+-------- Iteration28-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration29-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 5 8 7 1 10 6 12 9 11 Fitness :124795.0
+
+-------- Iteration30-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration31-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 5 6 1 10 7 12 9 11 Fitness :124906.0
+
+-------- Iteration32-------- 
+Solution min : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration33-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration34-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration35-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration36-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration37-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration38-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration39-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration40-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration41-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration42-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration43-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration44-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration45-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration46-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration47-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration48-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration49-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration50-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration51-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration52-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration53-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration54-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration55-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration56-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration57-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration58-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration59-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration60-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration61-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration62-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration63-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration64-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration65-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration66-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration67-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration68-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration69-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration70-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration71-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration72-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration73-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration74-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration75-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration76-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration77-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration78-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration79-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration80-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration81-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration82-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration83-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration84-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration85-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration86-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration87-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration88-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration89-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration90-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration91-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration92-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration93-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration94-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration95-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration96-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration97-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration98-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration99-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration100-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration101-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration102-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration103-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration104-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration105-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration106-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration107-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration108-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration109-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration110-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration111-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration112-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration113-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration114-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration115-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration116-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration117-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration118-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration119-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration120-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration121-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration122-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration123-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration124-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration125-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration126-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration127-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration128-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration129-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration130-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration131-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration132-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration133-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration134-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration135-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration136-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration137-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration138-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration139-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration140-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration141-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration142-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration143-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration144-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration145-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration146-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration147-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration148-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration149-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration150-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration151-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration152-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration153-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration154-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration155-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration156-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration157-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration158-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration159-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration160-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration161-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration162-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration163-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration164-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration165-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration166-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration167-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration168-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration169-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration170-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration171-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration172-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration173-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration174-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration175-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration176-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration177-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration178-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration179-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration180-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 3 7 1 10 6 12 5 11 Fitness :123569.0
+
+-------- Iteration181-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration182-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 12 5 7 1 10 6 8 3 11 Fitness :123665.0
+
+-------- Iteration183-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration184-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 11 9 2 8 5 7 1 10 6 12 3 4 Fitness :120628.0
+
+-------- Iteration185-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration186-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 1 2 8 5 7 9 10 6 12 3 11 Fitness :124619.0
+
+-------- Iteration187-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration188-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 5 2 8 9 7 1 10 6 12 3 11 Fitness :124632.0
+
+-------- Iteration189-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration190-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 6 1 10 7 12 3 11 Fitness :122007.0
+
+-------- Iteration191-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration192-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 3 2 8 5 7 1 10 6 12 9 11 Fitness :120812.0
+
+-------- Iteration193-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration194-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 6 2 8 5 7 1 10 9 12 3 11 Fitness :123540.0
+
+-------- Iteration195-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration196-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 7 2 8 5 9 1 10 6 12 3 11 Fitness :122940.0
+
+-------- Iteration197-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+
+-------- Iteration198-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 3 1 10 6 12 7 11 Fitness :122440.0
+
+-------- Iteration199-------- 
+Solution min : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+Solution opt : 4 9 2 8 5 7 1 10 6 12 3 11 Fitness :119135.0
+

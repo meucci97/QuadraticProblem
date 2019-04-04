@@ -12,6 +12,7 @@ public class Tabou {
     private int tabouListSize;
     private Solution solutionMin;
     private boolean log;
+    private Logger logger = null;
 
     public Tabou(Quadratic q, int maxIter, int tabouListSize) {
         this.maxIter = maxIter;
@@ -27,6 +28,7 @@ public class Tabou {
         this.tabouListSize = tabouListSize;
         this.tabouList = new ArrayList();
         this.log = log;
+        this.logger = new Logger(q.getFileName());
     }
 
     public Solution tabuSearch(Solution solutionInitial) {
@@ -55,20 +57,20 @@ public class Tabou {
             }
             q.setSolution(sOptimale);
 
-            if(log){
-                // write in file
-                //param (solutionMin,  q.getSolution())
-            }else{
+            if(log) {
+                // On écrit les logs dans un fichier
+                this.logger.writeLogInFile(solutionMin, q.getSolution(), i);
+            } else {
                 System.out.println("-------- Iteration "+ i  +"-------- ");
                 System.out.print("Solution min : ");
                 solutionMin.affiche();
                 System.out.print("Solution opt : ");
                 q.getSolution().affiche();
-
             }
 
         }
 
+        this.logger.closeFile();
         return solutionMin;
     }
     private ArrayList<Solution> removeExistingPermutation(ArrayList<Solution> solutions){

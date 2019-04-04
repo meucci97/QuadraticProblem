@@ -26,13 +26,13 @@ public class main {
         Quadratic q2 = new Quadratic("tai12a.dat");
         q2.affiche();
         Solution s2 = new Solution();
-        int[] i= {8,1,6,2,11,10,3,5,9,7,12,4};
+        int[] i= {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
 
         //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
         s2.setSolution(i);
 
 
-        Tabou t = new Tabou(q2,1000,9);
+        Tabou t = new Tabou(q2,200, 9, true);
         Solution optimale2 = t.tabuSearch(s2);
 
         System.out.println("Fitess: "+optimale2.getFitness()*2);
