@@ -30,7 +30,6 @@ public class Quadratic {
 
             for(int i = 0; i<size; i++){
                 String readline[] = (scnr.nextLine()).split("\\s+");
-                System.out.println(readline);
                 for(int j = 1 ; j<size+1;j++){
                     distancesTab[i][j-1] = Integer.parseInt(readline[j]);
                 }
@@ -39,14 +38,13 @@ public class Quadratic {
 
             for(int i = 0; i<size; i++){
                 String readline[] = (scnr.nextLine()).split("\\s+");
-                System.out.println(readline);
                 for(int j = 1 ; j<size+1;j++){
                     connectionsTab[i][j-1] = Integer.parseInt(readline[j]);
                 }
             }
 
             this.size = size;
-
+            scnr.close();
         }catch (IOException err){
             System.out.println(err.getMessage());
         }

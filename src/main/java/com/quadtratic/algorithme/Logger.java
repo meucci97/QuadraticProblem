@@ -24,7 +24,7 @@ public class Logger {
 
     public void writeLogInFile(Solution solutionMin, Solution solutionOptimale, int iteration) {
         try {
-            fileWriter.write("-------- Iteration" + iteration + "-------- \n");
+            fileWriter.write("-------- Iteration " + iteration + " -------- \n");
 
             fileWriter.write("Solution min : ");
             for (int i = 0; i < solutionMin.getSolution().length; i++) {
