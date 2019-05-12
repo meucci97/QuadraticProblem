@@ -1,8 +1,5 @@
 package com.quadtratic.algorithme;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Solution {
 
     private double fitness;

@@ -1,0 +1,4000 @@
+-------- Iteration 0 -------- 
+Solution min : 1 2 13 4 5 6 7 8 9 10 11 12 3 14 15 Fitness :226466.0
+Solution opt : 1 2 13 4 5 6 7 8 9 10 11 12 3 14 15 Fitness :226466.0
+
+-------- Iteration 1 -------- 
+Solution min : 1 2 13 4 5 9 7 8 6 10 11 12 3 14 15 Fitness :218215.0
+Solution opt : 1 2 13 4 5 9 7 8 6 10 11 12 3 14 15 Fitness :218215.0
+
+-------- Iteration 2 -------- 
+Solution min : 1 2 13 4 5 9 7 8 6 12 11 10 3 14 15 Fitness :212935.0
+Solution opt : 1 2 13 4 5 9 7 8 6 12 11 10 3 14 15 Fitness :212935.0
+
+-------- Iteration 3 -------- 
+Solution min : 1 2 13 4 5 9 12 8 6 7 11 10 3 14 15 Fitness :209849.0
+Solution opt : 1 2 13 4 5 9 12 8 6 7 11 10 3 14 15 Fitness :209849.0
+
+-------- Iteration 4 -------- 
+Solution min : 1 2 15 4 5 9 12 8 6 7 11 10 3 14 13 Fitness :207111.0
+Solution opt : 1 2 15 4 5 9 12 8 6 7 11 10 3 14 13 Fitness :207111.0
+
+-------- Iteration 5 -------- 
+Solution min : 1 2 15 13 5 9 12 8 6 7 11 10 3 14 4 Fitness :204335.0
+Solution opt : 1 2 15 13 5 9 12 8 6 7 11 10 3 14 4 Fitness :204335.0
+
+-------- Iteration 6 -------- 
+Solution min : 1 2 15 12 5 9 13 8 6 7 11 10 3 14 4 Fitness :203251.0
+Solution opt : 1 2 15 12 5 9 13 8 6 7 11 10 3 14 4 Fitness :203251.0
+
+-------- Iteration 7 -------- 
+Solution min : 7 2 15 12 5 9 13 8 6 1 11 10 3 14 4 Fitness :202197.0
+Solution opt : 7 2 15 12 5 9 13 8 6 1 11 10 3 14 4 Fitness :202197.0
+
+-------- Iteration 8 -------- 
+Solution min : 7 2 15 12 5 14 13 8 6 1 11 10 3 9 4 Fitness :201283.0
+Solution opt : 7 2 15 12 5 14 13 8 6 1 11 10 3 9 4 Fitness :201283.0
+
+-------- Iteration 9 -------- 
+Solution min : 13 2 15 12 5 14 7 8 6 1 11 10 3 9 4 Fitness :200998.0
+Solution opt : 13 2 15 12 5 14 7 8 6 1 11 10 3 9 4 Fitness :200998.0
+
+-------- Iteration 10 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+
+-------- Iteration 11 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 13 2 15 12 5 14 7 8 6 1 11 10 3 9 4 Fitness :200998.0
+
+-------- Iteration 12 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 7 2 15 12 5 14 13 8 6 1 11 10 3 9 4 Fitness :201283.0
+
+-------- Iteration 13 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 7 2 15 12 5 9 13 8 6 1 11 10 3 14 4 Fitness :202197.0
+
+-------- Iteration 14 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 1 2 15 12 5 9 13 8 6 7 11 10 3 14 4 Fitness :203251.0
+
+-------- Iteration 15 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 1 2 15 13 5 9 12 8 6 7 11 10 3 14 4 Fitness :204335.0
+
+-------- Iteration 16 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 1 2 15 11 5 9 12 8 6 7 13 10 3 14 4 Fitness :204539.0
+
+-------- Iteration 17 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 13 2 15 11 5 9 12 8 6 7 1 10 3 14 4 Fitness :203414.0
+
+-------- Iteration 18 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 13 2 15 11 5 1 12 8 6 7 9 10 3 14 4 Fitness :203785.0
+
+-------- Iteration 19 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 13 2 15 11 5 1 12 4 6 7 9 10 3 14 8 Fitness :201349.0
+
+-------- Iteration 20 -------- 
+Solution min : 13 2 6 12 5 14 7 8 15 1 11 10 3 9 4 Fitness :200615.0
+Solution opt : 10 2 15 11 5 1 12 4 6 7 9 13 3 14 8 Fitness :200656.0
+
+-------- Iteration 21 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+
+-------- Iteration 22 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 10 2 15 11 5 1 7 4 6 13 9 12 3 14 8 Fitness :199455.0
+
+-------- Iteration 23 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 12 2 15 11 5 1 7 4 6 13 9 10 3 14 8 Fitness :198783.0
+
+-------- Iteration 24 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 10 2 15 11 5 1 7 4 6 13 9 12 3 14 8 Fitness :199455.0
+
+-------- Iteration 25 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 10 3 15 11 5 1 7 4 6 13 9 12 2 14 8 Fitness :199505.0
+
+-------- Iteration 26 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 10 3 15 8 5 1 7 4 6 13 9 12 2 14 11 Fitness :202305.0
+
+-------- Iteration 27 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 8 5 1 10 4 6 13 9 12 2 14 11 Fitness :204160.0
+
+-------- Iteration 28 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 8 5 1 13 4 6 10 9 12 2 14 11 Fitness :205142.0
+
+-------- Iteration 29 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 10 3 15 8 5 1 13 4 6 7 9 12 2 14 11 Fitness :204734.0
+
+-------- Iteration 30 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 8 5 1 13 4 6 10 9 12 2 14 11 Fitness :205142.0
+
+-------- Iteration 31 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 8 5 14 13 4 6 10 9 12 2 1 11 Fitness :206204.0
+
+-------- Iteration 32 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 8 5 14 13 4 6 10 9 11 2 1 12 Fitness :208576.0
+
+-------- Iteration 33 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 4 5 14 13 8 6 10 9 11 2 1 12 Fitness :208915.0
+
+-------- Iteration 34 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 4 5 14 13 1 6 10 9 11 2 8 12 Fitness :208306.0
+
+-------- Iteration 35 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 9 15 4 5 14 13 1 6 10 3 11 2 8 12 Fitness :208057.0
+
+-------- Iteration 36 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 9 15 4 5 10 13 1 6 14 3 11 2 8 12 Fitness :207798.0
+
+-------- Iteration 37 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 9 15 4 5 14 13 1 6 10 3 11 2 8 12 Fitness :208057.0
+
+-------- Iteration 38 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 4 5 14 13 1 6 10 9 11 2 8 12 Fitness :208306.0
+
+-------- Iteration 39 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 4 5 14 13 1 6 10 9 11 2 12 8 Fitness :208742.0
+
+-------- Iteration 40 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 4 2 14 13 1 6 10 9 11 5 12 8 Fitness :206521.0
+
+-------- Iteration 41 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 4 2 1 13 14 6 10 9 11 5 12 8 Fitness :208545.0
+
+-------- Iteration 42 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 3 15 4 2 9 13 14 6 10 1 11 5 12 8 Fitness :206074.0
+
+-------- Iteration 43 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 3 15 4 2 9 13 7 6 10 1 11 5 12 8 Fitness :206146.0
+
+-------- Iteration 44 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 3 15 4 2 9 13 10 6 7 1 11 5 12 8 Fitness :207028.0
+
+-------- Iteration 45 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 3 15 4 2 9 13 8 6 7 1 11 5 12 10 Fitness :207551.0
+
+-------- Iteration 46 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 10 15 4 2 9 13 8 6 7 1 11 5 12 3 Fitness :206425.0
+
+-------- Iteration 47 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 4 2 10 13 8 6 7 1 11 5 12 3 Fitness :204247.0
+
+-------- Iteration 48 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 3 2 10 13 8 6 7 1 11 5 12 4 Fitness :205486.0
+
+-------- Iteration 49 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 3 2 10 13 12 6 7 1 11 5 8 4 Fitness :205121.0
+
+-------- Iteration 50 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 3 2 10 13 8 6 7 1 11 5 12 4 Fitness :205486.0
+
+-------- Iteration 51 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 3 2 12 13 8 6 7 1 11 5 10 4 Fitness :206394.0
+
+-------- Iteration 52 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 3 2 12 13 8 6 7 1 4 5 10 11 Fitness :207277.0
+
+-------- Iteration 53 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 1 2 12 13 8 6 7 3 4 5 10 11 Fitness :204725.0
+
+-------- Iteration 54 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 9 15 1 2 12 13 8 6 14 3 4 5 10 11 Fitness :205413.0
+
+-------- Iteration 55 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 7 9 15 1 2 12 14 8 6 13 3 4 5 10 11 Fitness :205965.0
+
+-------- Iteration 56 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 1 2 12 7 8 6 13 3 4 5 10 11 Fitness :206571.0
+
+-------- Iteration 57 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 6 1 2 12 7 8 15 13 3 4 5 10 11 Fitness :206489.0
+
+-------- Iteration 58 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 1 2 12 7 8 6 13 3 4 5 10 11 Fitness :206571.0
+
+-------- Iteration 59 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 4 2 12 7 8 6 13 3 1 5 10 11 Fitness :207737.0
+
+-------- Iteration 60 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 4 2 12 7 8 6 13 1 3 5 10 11 Fitness :207829.0
+
+-------- Iteration 61 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 9 15 4 2 13 7 8 6 12 1 3 5 10 11 Fitness :208715.0
+
+-------- Iteration 62 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 9 13 7 8 6 12 1 3 5 10 11 Fitness :208849.0
+
+-------- Iteration 63 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 6 13 7 8 9 12 1 3 5 10 11 Fitness :205588.0
+
+-------- Iteration 64 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 3 2 15 4 6 13 7 8 9 12 1 14 5 10 11 Fitness :205378.0
+
+-------- Iteration 65 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 6 13 7 8 9 12 1 3 5 10 11 Fitness :205588.0
+
+-------- Iteration 66 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 6 10 7 8 9 12 1 3 5 13 11 Fitness :206873.0
+
+-------- Iteration 67 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 6 10 7 8 13 12 1 3 5 9 11 Fitness :204741.0
+
+-------- Iteration 68 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 6 10 7 8 3 12 1 13 5 9 11 Fitness :204466.0
+
+-------- Iteration 69 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 6 10 7 8 5 12 1 13 3 9 11 Fitness :203648.0
+
+-------- Iteration 70 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 5 10 7 8 6 12 1 13 3 9 11 Fitness :199540.0
+
+-------- Iteration 71 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 5 10 7 11 6 12 1 13 3 9 8 Fitness :201627.0
+
+-------- Iteration 72 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 11 5 10 7 4 6 12 1 13 3 9 8 Fitness :201619.0
+
+-------- Iteration 73 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 5 10 7 11 6 12 1 13 3 9 8 Fitness :201627.0
+
+-------- Iteration 74 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 15 4 5 10 12 11 6 7 1 13 3 9 8 Fitness :203658.0
+
+-------- Iteration 75 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 13 4 5 10 12 11 6 7 1 15 3 9 8 Fitness :207191.0
+
+-------- Iteration 76 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 12 4 5 10 13 11 6 7 1 15 3 9 8 Fitness :207106.0
+
+-------- Iteration 77 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 12 4 5 10 13 11 7 6 1 15 3 9 8 Fitness :206117.0
+
+-------- Iteration 78 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 12 4 5 10 13 11 6 7 1 15 3 9 8 Fitness :207106.0
+
+-------- Iteration 79 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 14 2 13 4 5 10 12 11 6 7 1 15 3 9 8 Fitness :207191.0
+
+-------- Iteration 80 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 2 13 4 5 10 12 11 14 7 1 15 3 9 8 Fitness :208019.0
+
+-------- Iteration 81 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 5 2 12 11 14 7 1 15 3 9 8 Fitness :206307.0
+
+-------- Iteration 82 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 8 2 12 11 14 7 1 15 3 9 5 Fitness :204939.0
+
+-------- Iteration 83 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 8 2 12 11 14 1 7 15 3 9 5 Fitness :203985.0
+
+-------- Iteration 84 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 11 2 12 8 14 1 7 15 3 9 5 Fitness :204174.0
+
+-------- Iteration 85 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 12 2 11 8 14 1 7 15 3 9 5 Fitness :205062.0
+
+-------- Iteration 86 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 12 2 8 11 14 1 7 15 3 9 5 Fitness :204291.0
+
+-------- Iteration 87 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 12 9 8 11 14 1 7 15 3 2 5 Fitness :204150.0
+
+-------- Iteration 88 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 2 9 8 11 14 1 7 15 3 12 5 Fitness :203239.0
+
+-------- Iteration 89 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 2 9 5 11 14 1 7 15 3 12 8 Fitness :201902.0
+
+-------- Iteration 90 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 2 9 5 11 14 7 1 15 3 12 8 Fitness :201653.0
+
+-------- Iteration 91 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 2 9 5 11 14 1 7 15 3 12 8 Fitness :201902.0
+
+-------- Iteration 92 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 2 9 5 8 14 1 7 15 3 12 11 Fitness :200551.0
+
+-------- Iteration 93 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 2 9 5 8 14 1 7 15 3 11 12 Fitness :200840.0
+
+-------- Iteration 94 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 12 2 9 5 8 14 1 7 15 3 11 4 Fitness :200833.0
+
+-------- Iteration 95 -------- 
+Solution min : 10 2 15 11 5 1 7 4 6 12 9 13 3 14 8 Fitness :198081.0
+Solution opt : 6 10 13 4 2 9 5 8 14 1 7 15 3 11 12 Fitness :200840.0
+
+-------- Iteration 96 -------- 
+Solution min : 6 10 13 4 2 9 1 8 14 5 7 15 3 11 12 Fitness :196567.0
+Solution opt : 6 10 13 4 2 9 1 8 14 5 7 15 3 11 12 Fitness :196567.0
+
+-------- Iteration 97 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+
+-------- Iteration 98 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 13 4 2 9 1 8 14 5 7 15 3 11 12 Fitness :196567.0
+
+-------- Iteration 99 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 13 4 2 9 1 5 14 8 7 15 3 11 12 Fitness :197971.0
+
+-------- Iteration 100 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 13 4 2 9 1 11 14 8 7 15 3 5 12 Fitness :199316.0
+
+-------- Iteration 101 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 13 4 2 9 1 11 14 5 7 15 3 8 12 Fitness :200596.0
+
+-------- Iteration 102 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 13 4 2 9 7 11 14 5 1 15 3 8 12 Fitness :203452.0
+
+-------- Iteration 103 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 13 4 2 9 14 11 7 5 1 15 3 8 12 Fitness :201354.0
+
+-------- Iteration 104 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 12 4 2 9 14 11 7 5 1 15 3 8 13 Fitness :197914.0
+
+-------- Iteration 105 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 12 4 2 9 5 11 7 14 1 15 3 8 13 Fitness :200115.0
+
+-------- Iteration 106 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 6 10 12 4 2 9 5 11 7 14 1 13 3 8 15 Fitness :200295.0
+
+-------- Iteration 107 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 12 4 2 9 6 11 7 14 1 13 3 8 15 Fitness :202718.0
+
+-------- Iteration 108 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 7 4 2 9 6 11 12 14 1 13 3 8 15 Fitness :202963.0
+
+-------- Iteration 109 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 7 13 2 9 6 11 12 14 1 4 3 8 15 Fitness :202856.0
+
+-------- Iteration 110 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 9 7 13 2 10 6 11 12 14 1 4 3 8 15 Fitness :201414.0
+
+-------- Iteration 111 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 9 6 13 2 10 7 11 12 14 1 4 3 8 15 Fitness :200341.0
+
+-------- Iteration 112 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 9 7 13 2 10 6 11 12 14 1 4 3 8 15 Fitness :201414.0
+
+-------- Iteration 113 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 7 13 2 9 6 11 12 14 1 4 3 8 15 Fitness :202856.0
+
+-------- Iteration 114 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 7 4 2 9 6 11 12 14 1 13 3 8 15 Fitness :202963.0
+
+-------- Iteration 115 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 7 4 2 9 6 8 12 14 1 13 3 11 15 Fitness :203001.0
+
+-------- Iteration 116 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 7 15 2 9 6 8 12 14 1 13 3 11 4 Fitness :202805.0
+
+-------- Iteration 117 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 7 4 2 9 6 8 12 14 1 13 3 11 15 Fitness :203001.0
+
+-------- Iteration 118 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 4 7 2 9 6 8 12 14 1 13 3 11 15 Fitness :204274.0
+
+-------- Iteration 119 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 4 7 2 9 13 8 12 14 1 6 3 11 15 Fitness :202928.0
+
+-------- Iteration 120 -------- 
+Solution min : 6 10 13 4 2 9 1 8 7 5 14 15 3 11 12 Fitness :195872.0
+Solution opt : 5 10 4 7 2 9 1 8 12 14 13 6 3 11 15 Fitness :199259.0
+
+-------- Iteration 121 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+
+-------- Iteration 122 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 5 10 4 13 2 9 14 8 12 1 7 6 3 11 15 Fitness :197133.0
+
+-------- Iteration 123 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 5 10 4 12 2 9 14 8 13 1 7 6 3 11 15 Fitness :198072.0
+
+-------- Iteration 124 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 5 10 4 12 2 9 14 8 13 1 7 15 3 11 6 Fitness :199198.0
+
+-------- Iteration 125 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 12 2 9 14 8 13 1 7 15 3 11 5 Fitness :202464.0
+
+-------- Iteration 126 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 12 2 9 14 8 13 1 7 15 5 11 3 Fitness :200798.0
+
+-------- Iteration 127 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 12 2 9 14 8 13 1 7 15 5 3 11 Fitness :201057.0
+
+-------- Iteration 128 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 3 2 9 14 8 13 1 7 15 5 12 11 Fitness :199861.0
+
+-------- Iteration 129 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 3 2 9 14 11 13 1 7 15 5 12 8 Fitness :200329.0
+
+-------- Iteration 130 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 12 2 9 14 11 13 1 7 15 5 3 8 Fitness :202605.0
+
+-------- Iteration 131 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 12 2 9 14 11 3 1 7 15 5 13 8 Fitness :200661.0
+
+-------- Iteration 132 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 12 2 13 14 11 3 1 7 15 5 9 8 Fitness :201001.0
+
+-------- Iteration 133 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 7 2 13 14 11 3 1 12 15 5 9 8 Fitness :202174.0
+
+-------- Iteration 134 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 7 2 12 14 11 3 1 13 15 5 9 8 Fitness :201874.0
+
+-------- Iteration 135 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 7 2 3 14 11 12 1 13 15 5 9 8 Fitness :201957.0
+
+-------- Iteration 136 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 7 2 3 1 11 12 14 13 15 5 9 8 Fitness :199283.0
+
+-------- Iteration 137 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 1 2 3 7 11 12 14 13 15 5 9 8 Fitness :200228.0
+
+-------- Iteration 138 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 1 2 3 13 11 12 14 7 15 5 9 8 Fitness :200204.0
+
+-------- Iteration 139 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 1 2 3 7 11 12 14 13 15 5 9 8 Fitness :200228.0
+
+-------- Iteration 140 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 1 2 3 14 11 12 7 13 15 5 9 8 Fitness :200936.0
+
+-------- Iteration 141 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 7 2 3 14 11 12 1 13 15 5 9 8 Fitness :201957.0
+
+-------- Iteration 142 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 12 2 3 14 11 7 1 13 15 5 9 8 Fitness :201048.0
+
+-------- Iteration 143 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 10 4 7 2 3 14 11 12 1 13 15 5 9 8 Fitness :201957.0
+
+-------- Iteration 144 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 10 4 7 2 3 14 11 12 1 13 6 5 9 8 Fitness :203088.0
+
+-------- Iteration 145 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 10 4 7 2 3 14 8 12 1 13 6 5 9 11 Fitness :204118.0
+
+-------- Iteration 146 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 10 4 7 2 9 14 8 12 1 13 6 5 3 11 Fitness :202849.0
+
+-------- Iteration 147 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 10 4 7 2 9 14 8 3 1 13 6 5 12 11 Fitness :202008.0
+
+-------- Iteration 148 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 10 4 15 2 9 14 8 3 1 13 6 5 12 11 Fitness :202140.0
+
+-------- Iteration 149 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 10 4 6 2 9 14 8 3 1 13 15 5 12 11 Fitness :199103.0
+
+-------- Iteration 150 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 10 4 15 2 9 14 8 3 1 13 6 5 12 11 Fitness :202140.0
+
+-------- Iteration 151 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 10 4 15 2 9 14 8 3 7 13 6 5 12 11 Fitness :202708.0
+
+-------- Iteration 152 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 10 6 15 2 9 14 8 3 7 13 4 5 12 11 Fitness :200498.0
+
+-------- Iteration 153 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 9 6 15 2 10 14 8 3 7 13 4 5 12 11 Fitness :198201.0
+
+-------- Iteration 154 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 10 6 15 2 9 14 8 3 7 13 4 5 12 11 Fitness :200498.0
+
+-------- Iteration 155 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 10 6 15 2 12 14 8 3 7 13 4 5 9 11 Fitness :202272.0
+
+-------- Iteration 156 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 9 6 15 2 12 14 8 3 7 13 4 5 10 11 Fitness :200529.0
+
+-------- Iteration 157 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 9 6 15 2 12 7 8 3 14 13 4 5 10 11 Fitness :199552.0
+
+-------- Iteration 158 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 9 6 15 2 12 14 8 3 7 13 4 5 10 11 Fitness :200529.0
+
+-------- Iteration 159 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 10 6 15 2 12 14 8 3 7 13 4 5 9 11 Fitness :202272.0
+
+-------- Iteration 160 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 2 12 14 8 3 7 13 4 5 9 10 Fitness :205492.0
+
+-------- Iteration 161 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 14 12 2 8 3 7 13 4 5 9 10 Fitness :203322.0
+
+-------- Iteration 162 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 10 12 2 8 3 7 13 4 5 9 14 Fitness :202045.0
+
+-------- Iteration 163 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 2 8 3 7 13 4 5 10 14 Fitness :202064.0
+
+-------- Iteration 164 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 2 14 3 7 13 4 5 10 8 Fitness :200727.0
+
+-------- Iteration 165 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 2 7 3 14 13 4 5 10 8 Fitness :198951.0
+
+-------- Iteration 166 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 2 14 3 7 13 4 5 10 8 Fitness :200727.0
+
+-------- Iteration 167 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 2 8 3 7 13 4 5 10 14 Fitness :202064.0
+
+-------- Iteration 168 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 2 8 3 14 13 4 5 10 7 Fitness :201341.0
+
+-------- Iteration 169 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 7 8 3 14 13 4 5 10 2 Fitness :201565.0
+
+-------- Iteration 170 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 3 12 7 8 9 14 13 4 5 10 2 Fitness :199923.0
+
+-------- Iteration 171 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 3 12 7 8 9 2 13 4 5 10 14 Fitness :199725.0
+
+-------- Iteration 172 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 13 4 5 1 14 Fitness :199190.0
+
+-------- Iteration 173 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 1 4 5 13 14 Fitness :198394.0
+
+-------- Iteration 174 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 175 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 3 11 6 15 9 12 7 8 10 2 1 4 5 13 14 Fitness :199458.0
+
+-------- Iteration 176 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 3 11 6 15 9 13 7 8 10 2 1 4 5 12 14 Fitness :200000.0
+
+-------- Iteration 177 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 3 11 6 15 9 10 7 8 13 2 1 4 5 12 14 Fitness :198605.0
+
+-------- Iteration 178 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 3 11 6 15 9 13 7 8 10 2 1 4 5 12 14 Fitness :200000.0
+
+-------- Iteration 179 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 1 4 5 12 14 Fitness :202138.0
+
+-------- Iteration 180 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 12 4 5 1 14 Fitness :199641.0
+
+-------- Iteration 181 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 182 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 7 8 3 2 13 4 5 10 14 Fitness :201231.0
+
+-------- Iteration 183 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 10 12 7 8 3 2 13 4 5 9 14 Fitness :201227.0
+
+-------- Iteration 184 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 7 8 3 2 13 4 5 10 14 Fitness :201231.0
+
+-------- Iteration 185 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 9 12 7 8 3 14 13 4 5 10 2 Fitness :201565.0
+
+-------- Iteration 186 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 12 9 7 8 3 14 13 4 5 10 2 Fitness :200900.0
+
+-------- Iteration 187 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 15 4 9 7 8 3 14 13 12 5 10 2 Fitness :199071.0
+
+-------- Iteration 188 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 4 9 7 8 3 14 13 12 15 10 2 Fitness :200002.0
+
+-------- Iteration 189 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 4 9 7 2 3 14 13 12 15 10 8 Fitness :199110.0
+
+-------- Iteration 190 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 4 9 7 8 3 14 13 12 15 10 2 Fitness :200002.0
+
+-------- Iteration 191 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 4 12 7 8 3 14 13 9 15 10 2 Fitness :200158.0
+
+-------- Iteration 192 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 4 12 7 8 13 14 3 9 15 10 2 Fitness :200818.0
+
+-------- Iteration 193 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 13 12 7 8 4 14 3 9 15 10 2 Fitness :202639.0
+
+-------- Iteration 194 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 3 12 7 8 4 14 13 9 15 10 2 Fitness :201357.0
+
+-------- Iteration 195 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 5 13 12 7 8 4 14 3 9 15 10 2 Fitness :202639.0
+
+-------- Iteration 196 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 3 13 12 7 8 4 14 5 9 15 10 2 Fitness :202877.0
+
+-------- Iteration 197 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 3 13 12 8 7 4 14 5 9 15 10 2 Fitness :203873.0
+
+-------- Iteration 198 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 1 11 6 3 12 13 8 7 4 14 5 9 15 10 2 Fitness :205181.0
+
+-------- Iteration 199 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 11 6 3 12 13 8 1 4 14 5 9 15 10 2 Fitness :206153.0
+
+-------- Iteration 200 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 11 6 3 12 13 14 1 4 8 5 9 15 10 2 Fitness :207722.0
+
+-------- Iteration 201 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 11 6 3 12 13 7 1 4 8 5 9 15 10 2 Fitness :207340.0
+
+-------- Iteration 202 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 11 6 2 12 13 7 1 4 8 5 9 15 10 3 Fitness :207341.0
+
+-------- Iteration 203 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 11 6 2 12 13 7 1 4 8 5 3 15 10 9 Fitness :202843.0
+
+-------- Iteration 204 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 11 6 2 12 13 14 1 4 8 5 3 15 10 9 Fitness :206165.0
+
+-------- Iteration 205 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 9 11 6 2 12 13 14 1 4 8 5 3 15 10 7 Fitness :205449.0
+
+-------- Iteration 206 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 11 6 2 12 13 14 1 4 8 5 3 15 10 9 Fitness :206165.0
+
+-------- Iteration 207 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 2 12 13 14 1 4 8 5 3 15 7 9 Fitness :208685.0
+
+-------- Iteration 208 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 2 12 13 7 1 4 8 5 3 15 14 9 Fitness :206656.0
+
+-------- Iteration 209 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 2 12 4 7 1 13 8 5 3 15 14 9 Fitness :204863.0
+
+-------- Iteration 210 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 2 9 4 7 1 13 8 5 3 15 14 12 Fitness :204738.0
+
+-------- Iteration 211 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 2 12 4 7 1 13 8 5 3 15 14 9 Fitness :204863.0
+
+-------- Iteration 212 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 5 12 4 7 1 13 8 2 3 15 14 9 Fitness :204328.0
+
+-------- Iteration 213 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 5 12 4 7 1 13 8 9 3 15 14 2 Fitness :203789.0
+
+-------- Iteration 214 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 5 12 4 7 1 13 8 2 3 15 14 9 Fitness :204328.0
+
+-------- Iteration 215 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 5 13 4 7 1 12 8 2 3 15 14 9 Fitness :204355.0
+
+-------- Iteration 216 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 5 13 4 7 14 12 8 2 3 15 1 9 Fitness :202016.0
+
+-------- Iteration 217 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 5 13 4 7 14 12 8 2 9 15 1 3 Fitness :201686.0
+
+-------- Iteration 218 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 11 6 5 13 4 7 14 12 8 2 3 15 1 9 Fitness :202016.0
+
+-------- Iteration 219 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 6 5 13 4 7 14 12 8 2 3 15 11 9 Fitness :203876.0
+
+-------- Iteration 220 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 6 2 13 4 7 14 12 8 5 3 15 11 9 Fitness :205435.0
+
+-------- Iteration 221 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 6 2 13 4 7 14 9 8 5 3 15 11 12 Fitness :204733.0
+
+-------- Iteration 222 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 6 2 13 4 7 14 12 8 5 3 15 11 9 Fitness :205435.0
+
+-------- Iteration 223 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 6 2 13 4 7 14 15 8 5 3 12 11 9 Fitness :206050.0
+
+-------- Iteration 224 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 6 2 13 4 7 14 15 8 5 3 9 11 12 Fitness :206981.0
+
+-------- Iteration 225 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 6 2 9 4 7 14 15 8 5 3 13 11 12 Fitness :208451.0
+
+-------- Iteration 226 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 9 2 6 4 7 14 15 8 5 3 13 11 12 Fitness :202419.0
+
+-------- Iteration 227 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 7 1 9 2 6 4 10 14 15 8 5 3 13 11 12 Fitness :201465.0
+
+-------- Iteration 228 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 1 9 2 6 4 7 14 15 8 5 3 13 11 12 Fitness :202419.0
+
+-------- Iteration 229 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 2 6 4 7 10 15 8 5 3 13 11 12 Fitness :203832.0
+
+-------- Iteration 230 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 2 6 13 7 10 15 8 5 3 4 11 12 Fitness :204359.0
+
+-------- Iteration 231 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 2 15 13 7 10 6 8 5 3 4 11 12 Fitness :205785.0
+
+-------- Iteration 232 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 2 15 13 10 7 6 8 5 3 4 11 12 Fitness :206121.0
+
+-------- Iteration 233 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 5 15 13 10 7 6 8 2 3 4 11 12 Fitness :207698.0
+
+-------- Iteration 234 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 5 15 13 12 7 6 8 2 3 4 11 10 Fitness :205187.0
+
+-------- Iteration 235 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 5 15 13 10 7 6 8 2 3 4 11 12 Fitness :207698.0
+
+-------- Iteration 236 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 12 5 15 13 10 7 6 8 2 3 4 11 9 Fitness :206201.0
+
+-------- Iteration 237 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 5 15 13 10 7 6 8 2 3 4 11 12 Fitness :207698.0
+
+-------- Iteration 238 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 1 9 5 15 13 10 2 6 8 7 3 4 11 12 Fitness :209535.0
+
+-------- Iteration 239 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 15 13 10 2 14 8 7 3 4 11 12 Fitness :205894.0
+
+-------- Iteration 240 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 4 13 10 2 14 8 7 3 15 11 12 Fitness :200586.0
+
+-------- Iteration 241 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 4 14 10 2 13 8 7 3 15 11 12 Fitness :199901.0
+
+-------- Iteration 242 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 2 4 14 10 5 13 8 7 3 15 11 12 Fitness :199741.0
+
+-------- Iteration 243 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 4 14 10 2 13 8 7 3 15 11 12 Fitness :199901.0
+
+-------- Iteration 244 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 4 13 10 2 14 8 7 3 15 11 12 Fitness :200586.0
+
+-------- Iteration 245 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 10 5 4 13 9 2 14 8 7 3 15 11 12 Fitness :200574.0
+
+-------- Iteration 246 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 4 13 10 2 14 8 7 3 15 11 12 Fitness :200586.0
+
+-------- Iteration 247 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 4 13 14 2 10 8 7 3 15 11 12 Fitness :201494.0
+
+-------- Iteration 248 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 9 5 4 13 14 2 12 8 7 3 15 11 10 Fitness :203171.0
+
+-------- Iteration 249 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 5 4 13 14 9 12 8 7 3 15 11 10 Fitness :204086.0
+
+-------- Iteration 250 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 5 4 13 14 10 12 8 7 3 15 11 9 Fitness :202118.0
+
+-------- Iteration 251 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 5 4 13 8 10 12 14 7 3 15 11 9 Fitness :203915.0
+
+-------- Iteration 252 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 9 4 13 8 10 12 14 7 3 15 11 5 Fitness :203820.0
+
+-------- Iteration 253 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 8 4 13 9 10 12 14 7 3 15 11 5 Fitness :201386.0
+
+-------- Iteration 254 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 12 4 13 9 10 8 14 7 3 15 11 5 Fitness :200113.0
+
+-------- Iteration 255 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 12 4 13 9 10 8 14 7 5 15 11 3 Fitness :198677.0
+
+-------- Iteration 256 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 1 2 12 4 11 9 10 8 14 7 5 15 13 3 Fitness :199359.0
+
+-------- Iteration 257 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 12 4 11 9 10 8 14 7 5 15 1 3 Fitness :200157.0
+
+-------- Iteration 258 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 12 8 11 9 10 4 14 7 5 15 1 3 Fitness :200793.0
+
+-------- Iteration 259 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 12 8 11 9 10 15 14 7 5 4 1 3 Fitness :202054.0
+
+-------- Iteration 260 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 12 8 15 9 10 11 14 7 5 4 1 3 Fitness :198688.0
+
+-------- Iteration 261 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 12 8 15 9 10 1 14 7 5 4 11 3 Fitness :197062.0
+
+-------- Iteration 262 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 13 8 15 9 10 1 14 7 5 4 11 3 Fitness :198175.0
+
+-------- Iteration 263 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 13 8 15 9 10 7 14 1 5 4 11 3 Fitness :198828.0
+
+-------- Iteration 264 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 10 8 15 9 13 7 14 1 5 4 11 3 Fitness :202948.0
+
+-------- Iteration 265 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 10 8 15 9 12 7 14 1 5 4 11 3 Fitness :204058.0
+
+-------- Iteration 266 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 3 8 15 9 12 7 14 1 5 4 11 10 Fitness :204961.0
+
+-------- Iteration 267 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 13 2 3 8 15 9 10 7 14 1 5 4 11 12 Fitness :203873.0
+
+-------- Iteration 268 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 3 8 15 9 10 7 14 1 5 4 11 13 Fitness :204267.0
+
+-------- Iteration 269 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 3 8 15 9 13 7 14 1 5 4 11 10 Fitness :204907.0
+
+-------- Iteration 270 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 3 8 15 9 14 7 13 1 5 4 11 10 Fitness :207277.0
+
+-------- Iteration 271 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 3 8 15 9 14 7 10 1 5 4 11 13 Fitness :206466.0
+
+-------- Iteration 272 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 3 8 15 9 14 7 13 1 5 4 11 10 Fitness :207277.0
+
+-------- Iteration 273 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 6 12 2 3 7 15 9 14 8 13 1 5 4 11 10 Fitness :208642.0
+
+-------- Iteration 274 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 3 7 6 9 14 8 13 1 5 4 11 10 Fitness :208680.0
+
+-------- Iteration 275 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 3 7 9 6 14 8 13 1 5 4 11 10 Fitness :209213.0
+
+-------- Iteration 276 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 3 7 11 6 14 8 13 1 5 4 9 10 Fitness :206652.0
+
+-------- Iteration 277 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 14 7 11 6 3 8 13 1 5 4 9 10 Fitness :206149.0
+
+-------- Iteration 278 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 1 7 11 6 3 8 13 14 5 4 9 10 Fitness :205498.0
+
+-------- Iteration 279 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 1 7 11 6 3 8 14 13 5 4 9 10 Fitness :205365.0
+
+-------- Iteration 280 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 1 7 11 6 3 4 14 13 5 8 9 10 Fitness :203994.0
+
+-------- Iteration 281 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 12 2 1 7 9 6 3 4 14 13 5 8 11 10 Fitness :204427.0
+
+-------- Iteration 282 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 11 2 1 7 9 6 3 4 14 13 5 8 12 10 Fitness :206023.0
+
+-------- Iteration 283 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 15 11 2 7 1 9 6 3 4 14 13 5 8 12 10 Fitness :206865.0
+
+-------- Iteration 284 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 7 1 9 6 3 15 14 13 5 8 12 10 Fitness :207562.0
+
+-------- Iteration 285 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 7 1 9 6 10 15 14 13 5 8 12 3 Fitness :205739.0
+
+-------- Iteration 286 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 7 1 9 6 10 15 14 13 3 8 12 5 Fitness :203273.0
+
+-------- Iteration 287 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 7 1 9 13 10 15 14 6 3 8 12 5 Fitness :202129.0
+
+-------- Iteration 288 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 6 1 9 13 10 15 14 7 3 8 12 5 Fitness :203148.0
+
+-------- Iteration 289 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 6 1 9 13 10 8 14 7 3 15 12 5 Fitness :199296.0
+
+-------- Iteration 290 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 6 1 10 13 9 8 14 7 3 15 12 5 Fitness :197662.0
+
+-------- Iteration 291 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 6 1 10 14 9 8 13 7 3 15 12 5 Fitness :196877.0
+
+-------- Iteration 292 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 6 1 10 13 9 8 14 7 3 15 12 5 Fitness :197662.0
+
+-------- Iteration 293 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 11 2 5 1 10 13 9 8 14 7 3 15 12 6 Fitness :198696.0
+
+-------- Iteration 294 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 11 2 5 1 10 4 9 8 14 7 3 15 12 6 Fitness :199400.0
+
+-------- Iteration 295 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 11 2 5 4 10 1 9 8 14 7 3 15 12 6 Fitness :197076.0
+
+-------- Iteration 296 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 11 2 5 1 10 4 9 8 14 7 3 15 12 6 Fitness :199400.0
+
+-------- Iteration 297 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 11 2 5 1 10 4 9 8 6 7 3 15 12 14 Fitness :202466.0
+
+-------- Iteration 298 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 11 2 5 7 10 4 9 8 6 1 3 15 12 14 Fitness :202736.0
+
+-------- Iteration 299 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 10 4 9 8 6 1 3 15 12 14 Fitness :199128.0
+
+-------- Iteration 300 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 12 4 9 8 6 1 3 15 10 14 Fitness :202594.0
+
+-------- Iteration 301 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 14 11 7 12 4 9 8 6 1 3 15 10 2 Fitness :201862.0
+
+-------- Iteration 302 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 12 4 9 8 6 1 3 15 10 14 Fitness :202594.0
+
+-------- Iteration 303 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 12 4 10 8 6 1 3 15 9 14 Fitness :204919.0
+
+-------- Iteration 304 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 10 4 12 8 6 1 3 15 9 14 Fitness :207023.0
+
+-------- Iteration 305 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 10 6 12 8 4 1 3 15 9 14 Fitness :206891.0
+
+-------- Iteration 306 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 10 4 12 8 6 1 3 15 9 14 Fitness :207023.0
+
+-------- Iteration 307 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 2 11 7 10 14 12 8 6 1 3 15 9 4 Fitness :209153.0
+
+-------- Iteration 308 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 7 11 2 10 14 12 8 6 1 3 15 9 4 Fitness :207402.0
+
+-------- Iteration 309 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 6 11 2 10 14 12 8 7 1 3 15 9 4 Fitness :205526.0
+
+-------- Iteration 310 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 2 6 11 5 10 14 12 8 7 1 3 15 9 4 Fitness :204025.0
+
+-------- Iteration 311 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 6 11 2 10 14 12 8 7 1 3 15 9 4 Fitness :205526.0
+
+-------- Iteration 312 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 7 11 2 10 14 12 8 6 1 3 15 9 4 Fitness :207402.0
+
+-------- Iteration 313 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 8 11 2 10 14 12 7 6 1 3 15 9 4 Fitness :208620.0
+
+-------- Iteration 314 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 8 11 2 10 14 12 7 6 1 15 3 9 4 Fitness :207793.0
+
+-------- Iteration 315 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 8 11 2 10 14 15 7 6 1 12 3 9 4 Fitness :205813.0
+
+-------- Iteration 316 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 8 11 2 14 10 15 7 6 1 12 3 9 4 Fitness :205280.0
+
+-------- Iteration 317 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 5 8 11 2 10 14 15 7 6 1 12 3 9 4 Fitness :205813.0
+
+-------- Iteration 318 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 11 2 10 13 15 7 6 1 12 3 9 4 Fitness :206991.0
+
+-------- Iteration 319 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 11 2 10 12 15 7 6 1 13 3 9 4 Fitness :207077.0
+
+-------- Iteration 320 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 11 2 10 9 15 7 6 1 13 3 12 4 Fitness :204903.0
+
+-------- Iteration 321 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 4 2 10 9 15 7 6 1 13 3 12 11 Fitness :204840.0
+
+-------- Iteration 322 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 4 2 10 9 11 7 6 1 13 3 12 15 Fitness :204481.0
+
+-------- Iteration 323 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 4 2 10 9 15 7 6 1 13 3 12 11 Fitness :204840.0
+
+-------- Iteration 324 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 11 2 10 9 15 7 6 1 13 3 12 4 Fitness :204903.0
+
+-------- Iteration 325 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 11 2 12 9 15 7 6 1 13 3 10 4 Fitness :205436.0
+
+-------- Iteration 326 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 11 2 12 10 15 7 6 1 13 3 9 4 Fitness :205641.0
+
+-------- Iteration 327 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 15 2 12 10 11 7 6 1 13 3 9 4 Fitness :207009.0
+
+-------- Iteration 328 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 8 15 2 7 10 11 12 6 1 13 3 9 4 Fitness :208319.0
+
+-------- Iteration 329 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 4 15 2 7 10 11 12 6 1 13 3 9 8 Fitness :206197.0
+
+-------- Iteration 330 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 4 15 2 7 10 11 9 6 1 13 3 12 8 Fitness :207525.0
+
+-------- Iteration 331 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 4 15 2 10 7 11 9 6 1 13 3 12 8 Fitness :206657.0
+
+-------- Iteration 332 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 6 15 2 10 7 11 9 4 1 13 3 12 8 Fitness :206070.0
+
+-------- Iteration 333 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 6 15 2 10 7 11 9 8 1 13 3 12 4 Fitness :205636.0
+
+-------- Iteration 334 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 14 5 6 15 2 10 7 11 9 4 1 13 3 12 8 Fitness :206070.0
+
+-------- Iteration 335 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 2 10 7 11 9 14 1 13 3 12 8 Fitness :206554.0
+
+-------- Iteration 336 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 2 7 10 11 9 14 1 13 3 12 8 Fitness :208593.0
+
+-------- Iteration 337 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 2 7 10 8 9 14 1 13 3 12 11 Fitness :207807.0
+
+-------- Iteration 338 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 2 14 10 8 9 7 1 13 3 12 11 Fitness :207052.0
+
+-------- Iteration 339 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 2 7 10 8 9 14 1 13 3 12 11 Fitness :207807.0
+
+-------- Iteration 340 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 2 7 8 10 9 14 1 13 3 12 11 Fitness :208477.0
+
+-------- Iteration 341 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 7 2 8 10 9 14 1 13 3 12 11 Fitness :206615.0
+
+-------- Iteration 342 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 11 7 2 8 10 9 14 1 13 3 12 15 Fitness :206086.0
+
+-------- Iteration 343 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 8 11 7 2 6 10 9 14 1 13 3 12 15 Fitness :205053.0
+
+-------- Iteration 344 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 11 7 2 8 10 9 14 1 13 3 12 15 Fitness :206086.0
+
+-------- Iteration 345 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 11 14 2 8 10 9 7 1 13 3 12 15 Fitness :205978.0
+
+-------- Iteration 346 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 11 7 2 8 10 9 14 1 13 3 12 15 Fitness :206086.0
+
+-------- Iteration 347 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 7 2 8 10 9 14 1 13 3 12 11 Fitness :206615.0
+
+-------- Iteration 348 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 15 7 2 11 10 9 14 1 13 3 12 8 Fitness :207811.0
+
+-------- Iteration 349 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 11 7 2 15 10 9 14 1 13 3 12 8 Fitness :209084.0
+
+-------- Iteration 350 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 5 6 11 15 2 7 10 9 14 1 13 3 12 8 Fitness :208509.0
+
+-------- Iteration 351 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 6 11 15 2 7 10 9 14 1 13 3 12 5 Fitness :204531.0
+
+-------- Iteration 352 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 6 11 15 9 7 10 2 14 1 13 3 12 5 Fitness :200152.0
+
+-------- Iteration 353 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 15 11 6 9 7 10 2 14 1 13 3 12 5 Fitness :197208.0
+
+-------- Iteration 354 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 2 11 6 9 7 10 15 14 1 13 3 12 5 Fitness :196356.0
+
+-------- Iteration 355 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 2 15 6 9 7 10 11 14 1 13 3 12 5 Fitness :196902.0
+
+-------- Iteration 356 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 2 15 6 12 7 10 11 14 1 13 3 9 5 Fitness :198671.0
+
+-------- Iteration 357 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 5 15 6 12 7 10 11 14 1 13 3 9 2 Fitness :199005.0
+
+-------- Iteration 358 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 5 15 6 10 7 12 11 14 1 13 3 9 2 Fitness :198337.0
+
+-------- Iteration 359 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 5 15 6 12 7 10 11 14 1 13 3 9 2 Fitness :199005.0
+
+-------- Iteration 360 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 5 15 6 12 7 10 2 14 1 13 3 9 11 Fitness :201594.0
+
+-------- Iteration 361 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 15 5 6 12 7 10 2 14 1 13 3 9 11 Fitness :200039.0
+
+-------- Iteration 362 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 5 15 6 12 7 10 2 14 1 13 3 9 11 Fitness :201594.0
+
+-------- Iteration 363 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 5 15 6 12 7 10 2 14 1 13 11 9 3 Fitness :202714.0
+
+-------- Iteration 364 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 8 11 15 6 12 7 10 2 14 1 13 5 9 3 Fitness :199937.0
+
+-------- Iteration 365 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 8 11 15 6 12 7 10 2 14 1 4 5 9 3 Fitness :197722.0
+
+-------- Iteration 366 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 8 11 15 6 12 7 14 2 10 1 4 5 9 3 Fitness :197850.0
+
+-------- Iteration 367 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 8 11 6 15 12 7 14 2 10 1 4 5 9 3 Fitness :198164.0
+
+-------- Iteration 368 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 8 11 6 15 12 1 14 2 10 7 4 5 9 3 Fitness :197043.0
+
+-------- Iteration 369 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 8 11 6 15 12 1 14 2 10 7 4 5 3 9 Fitness :197446.0
+
+-------- Iteration 370 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 8 11 6 15 12 7 14 2 10 1 4 5 3 9 Fitness :199745.0
+
+-------- Iteration 371 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 11 6 15 12 7 14 2 10 8 4 5 3 9 Fitness :200828.0
+
+-------- Iteration 372 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 11 6 15 7 12 14 2 10 8 4 5 3 9 Fitness :200047.0
+
+-------- Iteration 373 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 11 6 15 12 7 14 2 10 8 4 5 3 9 Fitness :200828.0
+
+-------- Iteration 374 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 11 6 15 2 7 14 12 10 8 4 5 3 9 Fitness :204243.0
+
+-------- Iteration 375 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 11 6 15 2 7 14 5 10 8 4 12 3 9 Fitness :202120.0
+
+-------- Iteration 376 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 2 6 15 11 7 14 5 10 8 4 12 3 9 Fitness :201091.0
+
+-------- Iteration 377 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 11 6 15 2 7 14 5 10 8 4 12 3 9 Fitness :202120.0
+
+-------- Iteration 378 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 5 6 15 2 7 14 11 10 8 4 12 3 9 Fitness :203310.0
+
+-------- Iteration 379 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 5 6 15 2 7 14 11 12 8 4 10 3 9 Fitness :204057.0
+
+-------- Iteration 380 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 5 6 15 2 12 14 11 7 8 4 10 3 9 Fitness :206642.0
+
+-------- Iteration 381 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 5 15 6 2 12 14 11 7 8 4 10 3 9 Fitness :206918.0
+
+-------- Iteration 382 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 6 15 5 2 12 14 11 7 8 4 10 3 9 Fitness :207369.0
+
+-------- Iteration 383 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 6 15 5 2 12 14 11 7 8 4 9 3 10 Fitness :204690.0
+
+-------- Iteration 384 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 6 15 5 2 12 14 11 10 8 4 9 3 7 Fitness :200813.0
+
+-------- Iteration 385 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 6 15 11 2 12 14 5 10 8 4 9 3 7 Fitness :199079.0
+
+-------- Iteration 386 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 6 15 11 2 7 14 5 10 8 4 9 3 12 Fitness :199918.0
+
+-------- Iteration 387 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 6 15 5 2 7 14 11 10 8 4 9 3 12 Fitness :199674.0
+
+-------- Iteration 388 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 1 6 15 5 2 7 14 11 10 8 4 9 3 13 Fitness :199763.0
+
+-------- Iteration 389 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 1 6 15 11 2 7 14 5 10 8 4 9 3 13 Fitness :199836.0
+
+-------- Iteration 390 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 1 6 15 3 2 7 14 5 10 8 4 9 11 13 Fitness :200013.0
+
+-------- Iteration 391 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 1 6 15 3 2 7 14 11 10 8 4 9 5 13 Fitness :200883.0
+
+-------- Iteration 392 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 6 15 3 2 7 1 11 10 8 4 9 5 13 Fitness :202447.0
+
+-------- Iteration 393 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 6 15 9 2 7 1 11 10 8 4 3 5 13 Fitness :204649.0
+
+-------- Iteration 394 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 10 6 15 9 2 7 1 11 14 8 4 3 5 13 Fitness :206128.0
+
+-------- Iteration 395 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 10 6 15 9 2 7 14 11 1 8 4 3 5 13 Fitness :204813.0
+
+-------- Iteration 396 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 4 10 6 15 9 2 7 14 11 1 8 12 3 5 13 Fitness :204076.0
+
+-------- Iteration 397 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 7 14 4 1 8 12 3 5 13 Fitness :204617.0
+
+-------- Iteration 398 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 7 14 4 1 12 8 3 5 13 Fitness :199802.0
+
+-------- Iteration 399 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 9 6 15 10 2 7 14 4 1 12 8 3 5 13 Fitness :199713.0
+
+-------- Iteration 400 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 7 14 4 1 12 8 3 5 13 Fitness :199802.0
+
+-------- Iteration 401 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 7 14 1 4 12 8 3 5 13 Fitness :200088.0
+
+-------- Iteration 402 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 7 13 1 4 12 8 3 5 14 Fitness :199474.0
+
+-------- Iteration 403 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 7 14 1 4 12 8 3 5 13 Fitness :200088.0
+
+-------- Iteration 404 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 4 14 1 7 12 8 3 5 13 Fitness :200822.0
+
+-------- Iteration 405 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 15 9 2 1 14 4 7 12 8 3 5 13 Fitness :202882.0
+
+-------- Iteration 406 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 13 9 2 1 14 4 7 12 8 3 5 15 Fitness :206304.0
+
+-------- Iteration 407 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 4 13 9 2 1 14 6 7 12 8 3 5 15 Fitness :206171.0
+
+-------- Iteration 408 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 4 13 9 2 1 14 6 7 12 11 3 5 15 Fitness :203497.0
+
+-------- Iteration 409 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 4 13 9 2 1 7 6 14 12 11 3 5 15 Fitness :202733.0
+
+-------- Iteration 410 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 4 13 9 2 1 14 6 7 12 11 3 5 15 Fitness :203497.0
+
+-------- Iteration 411 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 4 13 9 2 1 14 6 7 12 15 3 5 11 Fitness :204862.0
+
+-------- Iteration 412 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 4 13 9 2 1 14 6 7 12 15 3 11 5 Fitness :205558.0
+
+-------- Iteration 413 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 13 4 9 2 1 14 6 7 12 15 3 11 5 Fitness :207211.0
+
+-------- Iteration 414 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 5 4 9 2 1 14 6 7 12 15 3 11 13 Fitness :206670.0
+
+-------- Iteration 415 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 8 10 5 4 9 2 12 14 6 7 1 15 3 11 13 Fitness :203792.0
+
+-------- Iteration 416 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 5 4 9 2 12 14 6 7 1 15 3 8 13 Fitness :204371.0
+
+-------- Iteration 417 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 10 6 4 9 2 12 14 5 7 1 15 3 8 13 Fitness :204619.0
+
+-------- Iteration 418 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 9 6 4 10 2 12 14 5 7 1 15 3 8 13 Fitness :205112.0
+
+-------- Iteration 419 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 9 6 15 10 2 12 14 5 7 1 4 3 8 13 Fitness :204764.0
+
+-------- Iteration 420 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 11 9 6 15 10 2 7 14 5 12 1 4 3 8 13 Fitness :204292.0
+
+-------- Iteration 421 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 10 9 6 15 11 2 7 14 5 12 1 4 3 8 13 Fitness :204601.0
+
+-------- Iteration 422 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 9 6 15 11 2 7 14 5 10 1 4 3 8 13 Fitness :203767.0
+
+-------- Iteration 423 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 9 6 15 11 2 7 14 5 10 8 4 3 1 13 Fitness :201857.0
+
+-------- Iteration 424 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 9 6 15 11 2 7 14 5 1 8 4 3 10 13 Fitness :200239.0
+
+-------- Iteration 425 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 9 6 15 11 2 1 14 5 7 8 4 3 10 13 Fitness :199080.0
+
+-------- Iteration 426 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 9 6 15 11 2 7 14 5 1 8 4 3 10 13 Fitness :200239.0
+
+-------- Iteration 427 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 9 6 15 5 2 7 14 11 1 8 4 3 10 13 Fitness :200785.0
+
+-------- Iteration 428 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 9 6 15 5 2 7 14 11 10 8 4 3 1 13 Fitness :202322.0
+
+-------- Iteration 429 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 3 6 15 5 2 7 14 11 10 8 4 9 1 13 Fitness :201019.0
+
+-------- Iteration 430 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 1 6 15 5 2 7 14 11 10 8 4 9 3 13 Fitness :199763.0
+
+-------- Iteration 431 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 1 6 15 5 2 7 14 11 10 8 4 9 3 12 Fitness :199674.0
+
+-------- Iteration 432 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 1 6 15 5 2 7 14 11 10 8 4 9 3 13 Fitness :199763.0
+
+-------- Iteration 433 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 6 15 5 2 7 1 11 10 8 4 9 3 13 Fitness :199962.0
+
+-------- Iteration 434 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 5 15 6 2 7 1 11 10 8 4 9 3 13 Fitness :200131.0
+
+-------- Iteration 435 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 5 15 6 2 7 1 11 10 8 4 13 3 9 Fitness :201932.0
+
+-------- Iteration 436 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 11 15 6 2 7 1 5 10 8 4 13 3 9 Fitness :199949.0
+
+-------- Iteration 437 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 11 15 6 2 7 1 13 10 8 4 5 3 9 Fitness :200778.0
+
+-------- Iteration 438 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 11 13 6 2 7 1 15 10 8 4 5 3 9 Fitness :202673.0
+
+-------- Iteration 439 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 11 8 6 2 7 1 15 10 13 4 5 3 9 Fitness :203552.0
+
+-------- Iteration 440 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 11 8 6 2 7 1 13 10 15 4 5 3 9 Fitness :205036.0
+
+-------- Iteration 441 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 11 8 6 2 7 9 13 10 15 4 5 3 1 Fitness :207083.0
+
+-------- Iteration 442 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 11 8 6 2 7 9 10 13 15 4 5 3 1 Fitness :202173.0
+
+-------- Iteration 443 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 8 11 6 2 7 9 10 13 15 4 5 3 1 Fitness :204065.0
+
+-------- Iteration 444 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 8 11 6 2 7 9 10 13 1 4 5 3 15 Fitness :201501.0
+
+-------- Iteration 445 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 13 14 8 11 6 2 7 9 10 12 1 4 5 3 15 Fitness :201405.0
+
+-------- Iteration 446 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 12 14 8 11 6 2 7 9 10 13 1 4 5 3 15 Fitness :201501.0
+
+-------- Iteration 447 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 8 11 6 12 7 9 10 13 1 4 5 3 15 Fitness :202755.0
+
+-------- Iteration 448 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 8 3 6 12 7 9 10 13 1 4 5 11 15 Fitness :204194.0
+
+-------- Iteration 449 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 8 3 6 12 7 11 10 13 1 4 5 9 15 Fitness :204181.0
+
+-------- Iteration 450 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 15 3 6 12 7 11 10 13 1 4 5 9 8 Fitness :202545.0
+
+-------- Iteration 451 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 8 3 6 12 7 11 10 13 1 4 5 9 15 Fitness :204181.0
+
+-------- Iteration 452 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 8 3 6 12 7 11 10 9 1 4 5 13 15 Fitness :203468.0
+
+-------- Iteration 453 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 8 3 6 12 7 11 9 10 1 4 5 13 15 Fitness :201947.0
+
+-------- Iteration 454 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 13 3 6 12 7 11 9 10 1 4 5 8 15 Fitness :199903.0
+
+-------- Iteration 455 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 13 3 6 12 7 11 9 10 1 4 5 15 8 Fitness :199158.0
+
+-------- Iteration 456 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 15 3 6 12 7 11 9 10 1 4 5 13 8 Fitness :198673.0
+
+-------- Iteration 457 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 13 3 6 12 7 11 9 10 1 4 5 15 8 Fitness :199158.0
+
+-------- Iteration 458 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 13 3 6 12 7 11 9 10 1 4 5 8 15 Fitness :199903.0
+
+-------- Iteration 459 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 13 5 6 12 7 11 9 10 1 4 3 8 15 Fitness :201270.0
+
+-------- Iteration 460 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 13 6 5 12 7 11 9 10 1 4 3 8 15 Fitness :200749.0
+
+-------- Iteration 461 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 14 13 6 5 12 7 8 9 10 1 4 3 11 15 Fitness :200029.0
+
+-------- Iteration 462 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 1 13 6 5 12 7 8 9 10 14 4 3 11 15 Fitness :200201.0
+
+-------- Iteration 463 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 10 13 6 5 12 7 8 9 1 14 4 3 11 15 Fitness :202138.0
+
+-------- Iteration 464 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 10 13 6 5 12 1 8 9 7 14 4 3 11 15 Fitness :202202.0
+
+-------- Iteration 465 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 10 13 6 5 12 1 8 9 14 7 4 3 11 15 Fitness :202137.0
+
+-------- Iteration 466 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 10 4 6 5 12 1 8 9 14 7 13 3 11 15 Fitness :199605.0
+
+-------- Iteration 467 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 10 4 6 5 12 1 11 9 14 7 13 3 8 15 Fitness :201380.0
+
+-------- Iteration 468 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 10 4 15 5 12 1 11 9 14 7 13 3 8 6 Fitness :202038.0
+
+-------- Iteration 469 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 2 10 4 13 5 12 1 11 9 14 7 15 3 8 6 Fitness :199540.0
+
+-------- Iteration 470 -------- 
+Solution min : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+Solution opt : 5 10 4 13 2 12 1 11 9 14 7 15 3 8 6 Fitness :200212.0
+
+-------- Iteration 471 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+
+-------- Iteration 472 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 13 2 9 1 11 12 14 7 6 3 8 15 Fitness :196501.0
+
+-------- Iteration 473 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 12 2 9 1 11 13 14 7 6 3 8 15 Fitness :200056.0
+
+-------- Iteration 474 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 12 2 9 1 11 13 14 7 6 3 15 8 Fitness :203067.0
+
+-------- Iteration 475 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 7 2 9 1 11 13 14 12 6 3 15 8 Fitness :203529.0
+
+-------- Iteration 476 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 7 2 9 1 11 12 14 13 6 3 15 8 Fitness :199758.0
+
+-------- Iteration 477 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 7 2 9 1 11 12 14 13 15 3 6 8 Fitness :201808.0
+
+-------- Iteration 478 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 7 2 9 1 11 12 14 13 15 3 5 8 Fitness :202302.0
+
+-------- Iteration 479 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 7 2 9 1 11 12 14 13 15 5 3 8 Fitness :197150.0
+
+-------- Iteration 480 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 7 2 9 1 11 3 14 13 15 5 12 8 Fitness :194435.0
+
+-------- Iteration 481 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 7 2 9 1 11 12 14 13 15 5 3 8 Fitness :197150.0
+
+-------- Iteration 482 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 1 2 9 7 11 12 14 13 15 5 3 8 Fitness :199025.0
+
+-------- Iteration 483 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 7 11 12 14 13 15 5 3 1 Fitness :199044.0
+
+-------- Iteration 484 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 13 11 12 14 7 15 5 3 1 Fitness :200397.0
+
+-------- Iteration 485 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 13 11 7 14 12 15 5 3 1 Fitness :201315.0
+
+-------- Iteration 486 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 13 1 7 14 12 15 5 3 11 Fitness :202673.0
+
+-------- Iteration 487 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 1 13 7 14 12 15 5 3 11 Fitness :199660.0
+
+-------- Iteration 488 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 1 3 7 14 12 15 5 13 11 Fitness :199158.0
+
+-------- Iteration 489 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 1 3 7 14 13 15 5 12 11 Fitness :196381.0
+
+-------- Iteration 490 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 1 3 7 14 12 15 5 13 11 Fitness :199158.0
+
+-------- Iteration 491 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 1 13 7 14 12 15 5 3 11 Fitness :199660.0
+
+-------- Iteration 492 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 8 2 9 1 12 7 14 13 15 5 3 11 Fitness :199598.0
+
+-------- Iteration 493 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 12 2 9 1 8 7 14 13 15 5 3 11 Fitness :199199.0
+
+-------- Iteration 494 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 7 2 9 1 8 12 14 13 15 5 3 11 Fitness :199589.0
+
+-------- Iteration 495 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 13 2 9 1 8 12 14 7 15 5 3 11 Fitness :198703.0
+
+-------- Iteration 496 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 13 2 9 1 8 12 14 7 15 5 11 3 Fitness :198026.0
+
+-------- Iteration 497 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 13 2 9 1 8 12 14 7 15 3 11 5 Fitness :198015.0
+
+-------- Iteration 498 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 13 2 9 1 8 12 14 7 15 3 11 6 Fitness :195173.0
+
+-------- Iteration 499 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 13 2 9 1 8 12 14 7 6 3 11 15 Fitness :195295.0
+
+-------- Iteration 500 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 13 2 9 14 8 12 1 7 6 3 11 15 Fitness :197133.0
+
+-------- Iteration 501 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 6 2 9 14 8 12 1 7 13 3 11 15 Fitness :200531.0
+
+-------- Iteration 502 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 15 2 9 14 8 12 1 7 13 3 11 6 Fitness :202867.0
+
+-------- Iteration 503 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 4 15 2 9 14 8 12 7 1 13 3 11 6 Fitness :204251.0
+
+-------- Iteration 504 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 10 6 15 2 9 14 8 12 7 1 13 3 11 4 Fitness :199124.0
+
+-------- Iteration 505 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 6 15 2 10 14 8 12 7 1 13 3 11 4 Fitness :201073.0
+
+-------- Iteration 506 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 6 15 2 10 14 13 12 7 1 8 3 11 4 Fitness :201832.0
+
+-------- Iteration 507 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 6 13 2 10 14 15 12 7 1 8 3 11 4 Fitness :200636.0
+
+-------- Iteration 508 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 6 13 2 10 14 12 15 7 1 8 3 11 4 Fitness :201370.0
+
+-------- Iteration 509 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 15 13 2 10 14 12 6 7 1 8 3 11 4 Fitness :202472.0
+
+-------- Iteration 510 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 15 13 2 10 14 12 6 7 1 11 3 8 4 Fitness :203835.0
+
+-------- Iteration 511 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 15 13 2 8 14 12 6 7 1 11 3 10 4 Fitness :205568.0
+
+-------- Iteration 512 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 15 13 2 11 14 12 6 7 1 8 3 10 4 Fitness :204885.0
+
+-------- Iteration 513 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 15 13 2 8 14 12 6 7 1 11 3 10 4 Fitness :205568.0
+
+-------- Iteration 514 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 5 9 15 13 2 8 7 12 6 14 1 11 3 10 4 Fitness :205133.0
+
+-------- Iteration 515 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 9 15 13 5 8 7 12 6 14 1 11 3 10 4 Fitness :203714.0
+
+-------- Iteration 516 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 9 15 13 3 8 7 12 6 14 1 11 5 10 4 Fitness :203554.0
+
+-------- Iteration 517 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 9 15 13 5 8 7 12 6 14 1 11 3 10 4 Fitness :203714.0
+
+-------- Iteration 518 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 9 15 13 6 8 7 12 5 14 1 11 3 10 4 Fitness :203573.0
+
+-------- Iteration 519 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 15 13 6 8 7 12 5 14 1 11 3 9 4 Fitness :201013.0
+
+-------- Iteration 520 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 8 7 12 5 14 1 11 3 9 15 Fitness :202291.0
+
+-------- Iteration 521 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 8 7 9 5 14 1 11 3 12 15 Fitness :202107.0
+
+-------- Iteration 522 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 9 6 8 7 13 5 14 1 11 3 12 15 Fitness :201600.0
+
+-------- Iteration 523 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 8 7 9 5 14 1 11 3 12 15 Fitness :202107.0
+
+-------- Iteration 524 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 8 7 12 5 14 1 11 3 9 15 Fitness :202291.0
+
+-------- Iteration 525 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 8 7 12 5 14 1 15 3 9 11 Fitness :203943.0
+
+-------- Iteration 526 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 12 7 8 5 14 1 15 3 9 11 Fitness :202481.0
+
+-------- Iteration 527 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 12 7 11 5 14 1 15 3 9 8 Fitness :202704.0
+
+-------- Iteration 528 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 13 6 12 7 11 3 14 1 15 5 9 8 Fitness :202762.0
+
+-------- Iteration 529 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 1 6 12 7 11 3 14 13 15 5 9 8 Fitness :198104.0
+
+-------- Iteration 530 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 15 1 6 12 7 11 3 14 13 4 5 9 8 Fitness :200759.0
+
+-------- Iteration 531 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 15 12 7 11 3 14 13 4 5 9 8 Fitness :202503.0
+
+-------- Iteration 532 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 12 7 11 3 14 13 4 5 15 8 Fitness :199134.0
+
+-------- Iteration 533 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 15 12 7 11 3 14 13 4 5 9 8 Fitness :202503.0
+
+-------- Iteration 534 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 15 9 7 11 3 14 13 4 5 12 8 Fitness :205081.0
+
+-------- Iteration 535 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 15 7 11 3 14 13 4 5 12 8 Fitness :205329.0
+
+-------- Iteration 536 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 15 7 4 3 14 13 11 5 12 8 Fitness :204757.0
+
+-------- Iteration 537 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 11 7 4 3 14 13 15 5 12 8 Fitness :202858.0
+
+-------- Iteration 538 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 4 9 11 7 1 3 14 13 15 5 12 8 Fitness :202576.0
+
+-------- Iteration 539 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 11 7 4 3 14 13 15 5 12 8 Fitness :202858.0
+
+-------- Iteration 540 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 15 7 4 3 14 13 11 5 12 8 Fitness :204757.0
+
+-------- Iteration 541 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 8 7 4 3 14 13 11 5 12 15 Fitness :204735.0
+
+-------- Iteration 542 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 8 7 4 3 14 13 11 5 15 12 Fitness :204414.0
+
+-------- Iteration 543 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 8 7 4 3 14 13 11 5 12 15 Fitness :204735.0
+
+-------- Iteration 544 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 15 7 4 3 14 13 11 5 12 8 Fitness :204757.0
+
+-------- Iteration 545 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 6 1 9 15 7 11 3 14 13 4 5 12 8 Fitness :205329.0
+
+-------- Iteration 546 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 1 9 15 7 11 3 14 13 6 5 12 8 Fitness :205481.0
+
+-------- Iteration 547 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 7 9 15 1 11 3 14 13 6 5 12 8 Fitness :203698.0
+
+-------- Iteration 548 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 7 9 15 1 8 3 14 13 6 5 12 11 Fitness :204635.0
+
+-------- Iteration 549 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 10 4 7 9 15 14 8 3 1 13 6 5 12 11 Fitness :205539.0
+
+-------- Iteration 550 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 10 4 7 2 15 14 8 3 1 13 6 5 12 11 Fitness :205006.0
+
+-------- Iteration 551 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 15 10 4 7 2 9 14 8 3 1 13 6 5 12 11 Fitness :202008.0
+
+-------- Iteration 552 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 7 2 9 14 8 3 1 13 15 5 12 11 Fitness :198809.0
+
+-------- Iteration 553 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 13 2 9 14 8 3 1 7 15 5 12 11 Fitness :197813.0
+
+-------- Iteration 554 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 6 10 4 7 2 9 14 8 3 1 13 15 5 12 11 Fitness :198809.0
+
+-------- Iteration 555 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 10 4 6 2 9 14 8 3 1 13 15 5 12 11 Fitness :199103.0
+
+-------- Iteration 556 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 10 4 15 2 9 14 8 3 1 13 6 5 12 11 Fitness :202140.0
+
+-------- Iteration 557 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 10 4 15 2 9 14 8 3 7 13 6 5 12 11 Fitness :202708.0
+
+-------- Iteration 558 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 10 4 15 2 9 14 8 3 7 13 11 5 12 6 Fitness :204805.0
+
+-------- Iteration 559 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 10 6 15 2 9 14 8 3 7 13 11 5 12 4 Fitness :205612.0
+
+-------- Iteration 560 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 9 6 15 2 10 14 8 3 7 13 11 5 12 4 Fitness :204800.0
+
+-------- Iteration 561 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 9 6 15 2 10 14 11 3 7 13 8 5 12 4 Fitness :201820.0
+
+-------- Iteration 562 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 9 6 15 2 10 14 12 3 7 13 8 5 11 4 Fitness :198548.0
+
+-------- Iteration 563 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 9 6 15 2 11 14 12 3 7 13 8 5 10 4 Fitness :200866.0
+
+-------- Iteration 564 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 10 6 15 2 11 14 12 3 7 13 8 5 9 4 Fitness :203121.0
+
+-------- Iteration 565 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 2 10 14 12 3 7 13 8 5 9 4 Fitness :204795.0
+
+-------- Iteration 566 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 10 14 12 3 7 13 8 5 9 2 Fitness :201993.0
+
+-------- Iteration 567 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 10 7 12 3 14 13 8 5 9 2 Fitness :200364.0
+
+-------- Iteration 568 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 10 7 8 3 14 13 12 5 9 2 Fitness :201380.0
+
+-------- Iteration 569 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 12 7 8 3 14 13 10 5 9 2 Fitness :198791.0
+
+-------- Iteration 570 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 571 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 4 14 13 12 5 9 2 Fitness :202450.0
+
+-------- Iteration 572 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 12 14 13 4 5 9 2 Fitness :203629.0
+
+-------- Iteration 573 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 14 13 4 5 12 2 Fitness :204927.0
+
+-------- Iteration 574 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 575 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 576 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 577 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 11 6 15 3 13 7 8 10 2 1 4 5 12 14 Fitness :199713.0
+
+-------- Iteration 578 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 13 7 8 9 2 1 4 5 12 14 Fitness :198552.0
+
+-------- Iteration 579 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 13 7 8 9 2 1 4 5 12 14 Fitness :198393.0
+
+-------- Iteration 580 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 10 7 8 9 2 1 4 5 12 14 Fitness :196492.0
+
+-------- Iteration 581 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 582 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 13 12 7 8 9 2 1 4 5 3 14 Fitness :196933.0
+
+-------- Iteration 583 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 584 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 585 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 1 4 5 13 14 Fitness :198394.0
+
+-------- Iteration 586 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 587 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 9 12 7 8 10 2 1 4 5 13 14 Fitness :199458.0
+
+-------- Iteration 588 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 589 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 590 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 12 4 5 1 14 Fitness :199641.0
+
+-------- Iteration 591 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 592 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 593 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 13 2 1 4 5 3 14 Fitness :200480.0
+
+-------- Iteration 594 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 595 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 1 3 2 8 4 5 13 14 Fitness :202767.0
+
+-------- Iteration 596 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 1 3 2 8 4 5 12 14 Fitness :201259.0
+
+-------- Iteration 597 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 8 9 13 7 1 3 2 15 4 5 12 14 Fitness :200622.0
+
+-------- Iteration 598 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 9 13 7 1 3 2 15 4 5 12 14 Fitness :201187.0
+
+-------- Iteration 599 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 15 13 7 1 3 2 9 4 5 12 14 Fitness :201360.0
+
+-------- Iteration 600 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 15 6 11 8 13 7 1 3 2 9 4 5 12 14 Fitness :203256.0
+
+-------- Iteration 601 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 8 13 7 1 3 2 10 4 5 12 14 Fitness :203963.0
+
+-------- Iteration 602 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 14 13 7 1 3 2 10 4 5 12 8 Fitness :204364.0
+
+-------- Iteration 603 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 2 13 7 1 3 14 10 4 5 12 8 Fitness :203506.0
+
+-------- Iteration 604 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 605 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 14 1 3 7 10 4 5 12 15 Fitness :201138.0
+
+-------- Iteration 606 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 607 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 13 7 1 3 14 10 4 5 12 15 Fitness :202859.0
+
+-------- Iteration 608 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 12 7 1 3 14 10 4 5 13 15 Fitness :202453.0
+
+-------- Iteration 609 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 15 9 12 7 1 3 14 10 4 5 13 11 Fitness :202649.0
+
+-------- Iteration 610 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 12 7 1 3 14 10 4 5 13 8 Fitness :198976.0
+
+-------- Iteration 611 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 13 7 1 3 14 10 4 5 12 8 Fitness :199532.0
+
+-------- Iteration 612 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 10 7 1 3 14 13 4 5 12 8 Fitness :200285.0
+
+-------- Iteration 613 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 614 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 14 7 1 3 2 13 4 5 12 8 Fitness :200448.0
+
+-------- Iteration 615 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 616 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 11 6 15 9 10 14 1 3 2 13 4 5 12 8 Fitness :201078.0
+
+-------- Iteration 617 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 7 3 2 13 4 5 12 8 Fitness :199317.0
+
+-------- Iteration 618 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 8 3 2 13 4 5 12 7 Fitness :201020.0
+
+-------- Iteration 619 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 7 8 3 2 13 4 5 12 14 Fitness :198015.0
+
+-------- Iteration 620 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 621 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 622 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 623 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 624 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 14 2 13 4 5 12 10 Fitness :200268.0
+
+-------- Iteration 625 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 626 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 4 13 5 12 14 Fitness :202273.0
+
+-------- Iteration 627 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 628 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 14 5 12 10 Fitness :200656.0
+
+-------- Iteration 629 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 630 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 13 2 4 10 5 9 14 Fitness :202092.0
+
+-------- Iteration 631 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 13 7 4 10 5 9 14 Fitness :203295.0
+
+-------- Iteration 632 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 633 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 634 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 7 4 14 13 10 5 9 8 Fitness :202496.0
+
+-------- Iteration 635 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 636 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 637 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 14 13 10 5 9 7 Fitness :204648.0
+
+-------- Iteration 638 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 639 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 12 7 8 3 14 13 10 5 9 2 Fitness :198791.0
+
+-------- Iteration 640 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 641 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 4 14 13 12 5 9 2 Fitness :202450.0
+
+-------- Iteration 642 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 12 14 13 4 5 9 2 Fitness :203629.0
+
+-------- Iteration 643 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 14 13 4 5 12 2 Fitness :204927.0
+
+-------- Iteration 644 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 645 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 646 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 647 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 11 6 15 3 13 7 8 10 2 1 4 5 12 14 Fitness :199713.0
+
+-------- Iteration 648 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 13 7 8 9 2 1 4 5 12 14 Fitness :198552.0
+
+-------- Iteration 649 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 13 7 8 9 2 1 4 5 12 14 Fitness :198393.0
+
+-------- Iteration 650 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 10 7 8 9 2 1 4 5 12 14 Fitness :196492.0
+
+-------- Iteration 651 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 652 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 13 12 7 8 9 2 1 4 5 3 14 Fitness :196933.0
+
+-------- Iteration 653 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 654 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 655 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 1 4 5 13 14 Fitness :198394.0
+
+-------- Iteration 656 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 657 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 9 12 7 8 10 2 1 4 5 13 14 Fitness :199458.0
+
+-------- Iteration 658 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 659 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 660 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 12 4 5 1 14 Fitness :199641.0
+
+-------- Iteration 661 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 662 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 663 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 13 2 1 4 5 3 14 Fitness :200480.0
+
+-------- Iteration 664 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 665 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 1 3 2 8 4 5 13 14 Fitness :202767.0
+
+-------- Iteration 666 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 1 3 2 8 4 5 12 14 Fitness :201259.0
+
+-------- Iteration 667 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 8 9 13 7 1 3 2 15 4 5 12 14 Fitness :200622.0
+
+-------- Iteration 668 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 9 13 7 1 3 2 15 4 5 12 14 Fitness :201187.0
+
+-------- Iteration 669 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 15 13 7 1 3 2 9 4 5 12 14 Fitness :201360.0
+
+-------- Iteration 670 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 15 6 11 8 13 7 1 3 2 9 4 5 12 14 Fitness :203256.0
+
+-------- Iteration 671 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 8 13 7 1 3 2 10 4 5 12 14 Fitness :203963.0
+
+-------- Iteration 672 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 14 13 7 1 3 2 10 4 5 12 8 Fitness :204364.0
+
+-------- Iteration 673 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 2 13 7 1 3 14 10 4 5 12 8 Fitness :203506.0
+
+-------- Iteration 674 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 675 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 14 1 3 7 10 4 5 12 15 Fitness :201138.0
+
+-------- Iteration 676 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 677 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 13 7 1 3 14 10 4 5 12 15 Fitness :202859.0
+
+-------- Iteration 678 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 12 7 1 3 14 10 4 5 13 15 Fitness :202453.0
+
+-------- Iteration 679 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 15 9 12 7 1 3 14 10 4 5 13 11 Fitness :202649.0
+
+-------- Iteration 680 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 12 7 1 3 14 10 4 5 13 8 Fitness :198976.0
+
+-------- Iteration 681 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 13 7 1 3 14 10 4 5 12 8 Fitness :199532.0
+
+-------- Iteration 682 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 10 7 1 3 14 13 4 5 12 8 Fitness :200285.0
+
+-------- Iteration 683 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 684 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 14 7 1 3 2 13 4 5 12 8 Fitness :200448.0
+
+-------- Iteration 685 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 686 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 11 6 15 9 10 14 1 3 2 13 4 5 12 8 Fitness :201078.0
+
+-------- Iteration 687 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 7 3 2 13 4 5 12 8 Fitness :199317.0
+
+-------- Iteration 688 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 8 3 2 13 4 5 12 7 Fitness :201020.0
+
+-------- Iteration 689 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 7 8 3 2 13 4 5 12 14 Fitness :198015.0
+
+-------- Iteration 690 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 691 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 692 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 693 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 694 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 14 2 13 4 5 12 10 Fitness :200268.0
+
+-------- Iteration 695 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 696 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 4 13 5 12 14 Fitness :202273.0
+
+-------- Iteration 697 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 698 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 14 5 12 10 Fitness :200656.0
+
+-------- Iteration 699 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 700 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 13 2 4 10 5 9 14 Fitness :202092.0
+
+-------- Iteration 701 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 13 7 4 10 5 9 14 Fitness :203295.0
+
+-------- Iteration 702 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 703 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 704 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 7 4 14 13 10 5 9 8 Fitness :202496.0
+
+-------- Iteration 705 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 706 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 707 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 14 13 10 5 9 7 Fitness :204648.0
+
+-------- Iteration 708 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 709 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 12 7 8 3 14 13 10 5 9 2 Fitness :198791.0
+
+-------- Iteration 710 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 711 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 4 14 13 12 5 9 2 Fitness :202450.0
+
+-------- Iteration 712 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 12 14 13 4 5 9 2 Fitness :203629.0
+
+-------- Iteration 713 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 14 13 4 5 12 2 Fitness :204927.0
+
+-------- Iteration 714 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 715 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 716 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 717 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 11 6 15 3 13 7 8 10 2 1 4 5 12 14 Fitness :199713.0
+
+-------- Iteration 718 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 13 7 8 9 2 1 4 5 12 14 Fitness :198552.0
+
+-------- Iteration 719 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 13 7 8 9 2 1 4 5 12 14 Fitness :198393.0
+
+-------- Iteration 720 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 10 7 8 9 2 1 4 5 12 14 Fitness :196492.0
+
+-------- Iteration 721 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 722 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 13 12 7 8 9 2 1 4 5 3 14 Fitness :196933.0
+
+-------- Iteration 723 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 724 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 725 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 1 4 5 13 14 Fitness :198394.0
+
+-------- Iteration 726 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 727 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 9 12 7 8 10 2 1 4 5 13 14 Fitness :199458.0
+
+-------- Iteration 728 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 729 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 730 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 12 4 5 1 14 Fitness :199641.0
+
+-------- Iteration 731 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 732 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 733 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 13 2 1 4 5 3 14 Fitness :200480.0
+
+-------- Iteration 734 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 735 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 1 3 2 8 4 5 13 14 Fitness :202767.0
+
+-------- Iteration 736 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 1 3 2 8 4 5 12 14 Fitness :201259.0
+
+-------- Iteration 737 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 8 9 13 7 1 3 2 15 4 5 12 14 Fitness :200622.0
+
+-------- Iteration 738 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 9 13 7 1 3 2 15 4 5 12 14 Fitness :201187.0
+
+-------- Iteration 739 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 15 13 7 1 3 2 9 4 5 12 14 Fitness :201360.0
+
+-------- Iteration 740 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 15 6 11 8 13 7 1 3 2 9 4 5 12 14 Fitness :203256.0
+
+-------- Iteration 741 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 8 13 7 1 3 2 10 4 5 12 14 Fitness :203963.0
+
+-------- Iteration 742 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 14 13 7 1 3 2 10 4 5 12 8 Fitness :204364.0
+
+-------- Iteration 743 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 2 13 7 1 3 14 10 4 5 12 8 Fitness :203506.0
+
+-------- Iteration 744 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 745 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 14 1 3 7 10 4 5 12 15 Fitness :201138.0
+
+-------- Iteration 746 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 747 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 13 7 1 3 14 10 4 5 12 15 Fitness :202859.0
+
+-------- Iteration 748 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 12 7 1 3 14 10 4 5 13 15 Fitness :202453.0
+
+-------- Iteration 749 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 15 9 12 7 1 3 14 10 4 5 13 11 Fitness :202649.0
+
+-------- Iteration 750 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 12 7 1 3 14 10 4 5 13 8 Fitness :198976.0
+
+-------- Iteration 751 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 13 7 1 3 14 10 4 5 12 8 Fitness :199532.0
+
+-------- Iteration 752 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 10 7 1 3 14 13 4 5 12 8 Fitness :200285.0
+
+-------- Iteration 753 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 754 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 14 7 1 3 2 13 4 5 12 8 Fitness :200448.0
+
+-------- Iteration 755 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 756 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 11 6 15 9 10 14 1 3 2 13 4 5 12 8 Fitness :201078.0
+
+-------- Iteration 757 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 7 3 2 13 4 5 12 8 Fitness :199317.0
+
+-------- Iteration 758 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 8 3 2 13 4 5 12 7 Fitness :201020.0
+
+-------- Iteration 759 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 7 8 3 2 13 4 5 12 14 Fitness :198015.0
+
+-------- Iteration 760 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 761 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 762 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 763 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 764 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 14 2 13 4 5 12 10 Fitness :200268.0
+
+-------- Iteration 765 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 766 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 4 13 5 12 14 Fitness :202273.0
+
+-------- Iteration 767 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 768 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 14 5 12 10 Fitness :200656.0
+
+-------- Iteration 769 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 770 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 13 2 4 10 5 9 14 Fitness :202092.0
+
+-------- Iteration 771 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 13 7 4 10 5 9 14 Fitness :203295.0
+
+-------- Iteration 772 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 773 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 774 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 7 4 14 13 10 5 9 8 Fitness :202496.0
+
+-------- Iteration 775 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 776 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 777 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 14 13 10 5 9 7 Fitness :204648.0
+
+-------- Iteration 778 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 779 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 12 7 8 3 14 13 10 5 9 2 Fitness :198791.0
+
+-------- Iteration 780 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 781 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 4 14 13 12 5 9 2 Fitness :202450.0
+
+-------- Iteration 782 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 12 14 13 4 5 9 2 Fitness :203629.0
+
+-------- Iteration 783 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 14 13 4 5 12 2 Fitness :204927.0
+
+-------- Iteration 784 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 785 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 786 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 787 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 11 6 15 3 13 7 8 10 2 1 4 5 12 14 Fitness :199713.0
+
+-------- Iteration 788 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 13 7 8 9 2 1 4 5 12 14 Fitness :198552.0
+
+-------- Iteration 789 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 13 7 8 9 2 1 4 5 12 14 Fitness :198393.0
+
+-------- Iteration 790 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 10 7 8 9 2 1 4 5 12 14 Fitness :196492.0
+
+-------- Iteration 791 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 792 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 13 12 7 8 9 2 1 4 5 3 14 Fitness :196933.0
+
+-------- Iteration 793 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 794 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 795 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 1 4 5 13 14 Fitness :198394.0
+
+-------- Iteration 796 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 797 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 9 12 7 8 10 2 1 4 5 13 14 Fitness :199458.0
+
+-------- Iteration 798 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 799 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 800 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 12 4 5 1 14 Fitness :199641.0
+
+-------- Iteration 801 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 802 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 803 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 13 2 1 4 5 3 14 Fitness :200480.0
+
+-------- Iteration 804 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 805 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 1 3 2 8 4 5 13 14 Fitness :202767.0
+
+-------- Iteration 806 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 1 3 2 8 4 5 12 14 Fitness :201259.0
+
+-------- Iteration 807 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 8 9 13 7 1 3 2 15 4 5 12 14 Fitness :200622.0
+
+-------- Iteration 808 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 9 13 7 1 3 2 15 4 5 12 14 Fitness :201187.0
+
+-------- Iteration 809 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 15 13 7 1 3 2 9 4 5 12 14 Fitness :201360.0
+
+-------- Iteration 810 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 15 6 11 8 13 7 1 3 2 9 4 5 12 14 Fitness :203256.0
+
+-------- Iteration 811 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 8 13 7 1 3 2 10 4 5 12 14 Fitness :203963.0
+
+-------- Iteration 812 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 14 13 7 1 3 2 10 4 5 12 8 Fitness :204364.0
+
+-------- Iteration 813 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 2 13 7 1 3 14 10 4 5 12 8 Fitness :203506.0
+
+-------- Iteration 814 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 815 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 14 1 3 7 10 4 5 12 15 Fitness :201138.0
+
+-------- Iteration 816 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 817 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 13 7 1 3 14 10 4 5 12 15 Fitness :202859.0
+
+-------- Iteration 818 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 12 7 1 3 14 10 4 5 13 15 Fitness :202453.0
+
+-------- Iteration 819 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 15 9 12 7 1 3 14 10 4 5 13 11 Fitness :202649.0
+
+-------- Iteration 820 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 12 7 1 3 14 10 4 5 13 8 Fitness :198976.0
+
+-------- Iteration 821 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 13 7 1 3 14 10 4 5 12 8 Fitness :199532.0
+
+-------- Iteration 822 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 10 7 1 3 14 13 4 5 12 8 Fitness :200285.0
+
+-------- Iteration 823 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 824 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 14 7 1 3 2 13 4 5 12 8 Fitness :200448.0
+
+-------- Iteration 825 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 826 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 11 6 15 9 10 14 1 3 2 13 4 5 12 8 Fitness :201078.0
+
+-------- Iteration 827 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 7 3 2 13 4 5 12 8 Fitness :199317.0
+
+-------- Iteration 828 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 8 3 2 13 4 5 12 7 Fitness :201020.0
+
+-------- Iteration 829 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 7 8 3 2 13 4 5 12 14 Fitness :198015.0
+
+-------- Iteration 830 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 831 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 832 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 833 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 834 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 14 2 13 4 5 12 10 Fitness :200268.0
+
+-------- Iteration 835 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 836 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 4 13 5 12 14 Fitness :202273.0
+
+-------- Iteration 837 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 838 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 14 5 12 10 Fitness :200656.0
+
+-------- Iteration 839 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 840 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 13 2 4 10 5 9 14 Fitness :202092.0
+
+-------- Iteration 841 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 13 7 4 10 5 9 14 Fitness :203295.0
+
+-------- Iteration 842 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 843 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 844 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 7 4 14 13 10 5 9 8 Fitness :202496.0
+
+-------- Iteration 845 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 846 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 847 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 14 13 10 5 9 7 Fitness :204648.0
+
+-------- Iteration 848 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 849 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 12 7 8 3 14 13 10 5 9 2 Fitness :198791.0
+
+-------- Iteration 850 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 851 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 4 14 13 12 5 9 2 Fitness :202450.0
+
+-------- Iteration 852 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 12 14 13 4 5 9 2 Fitness :203629.0
+
+-------- Iteration 853 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 14 13 4 5 12 2 Fitness :204927.0
+
+-------- Iteration 854 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 855 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 856 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 857 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 11 6 15 3 13 7 8 10 2 1 4 5 12 14 Fitness :199713.0
+
+-------- Iteration 858 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 13 7 8 9 2 1 4 5 12 14 Fitness :198552.0
+
+-------- Iteration 859 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 13 7 8 9 2 1 4 5 12 14 Fitness :198393.0
+
+-------- Iteration 860 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 10 7 8 9 2 1 4 5 12 14 Fitness :196492.0
+
+-------- Iteration 861 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 862 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 13 12 7 8 9 2 1 4 5 3 14 Fitness :196933.0
+
+-------- Iteration 863 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 864 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 865 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 1 4 5 13 14 Fitness :198394.0
+
+-------- Iteration 866 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 867 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 9 12 7 8 10 2 1 4 5 13 14 Fitness :199458.0
+
+-------- Iteration 868 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 869 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 870 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 12 4 5 1 14 Fitness :199641.0
+
+-------- Iteration 871 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 872 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 873 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 13 2 1 4 5 3 14 Fitness :200480.0
+
+-------- Iteration 874 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 875 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 1 3 2 8 4 5 13 14 Fitness :202767.0
+
+-------- Iteration 876 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 1 3 2 8 4 5 12 14 Fitness :201259.0
+
+-------- Iteration 877 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 8 9 13 7 1 3 2 15 4 5 12 14 Fitness :200622.0
+
+-------- Iteration 878 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 9 13 7 1 3 2 15 4 5 12 14 Fitness :201187.0
+
+-------- Iteration 879 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 15 13 7 1 3 2 9 4 5 12 14 Fitness :201360.0
+
+-------- Iteration 880 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 15 6 11 8 13 7 1 3 2 9 4 5 12 14 Fitness :203256.0
+
+-------- Iteration 881 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 8 13 7 1 3 2 10 4 5 12 14 Fitness :203963.0
+
+-------- Iteration 882 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 14 13 7 1 3 2 10 4 5 12 8 Fitness :204364.0
+
+-------- Iteration 883 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 2 13 7 1 3 14 10 4 5 12 8 Fitness :203506.0
+
+-------- Iteration 884 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 885 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 14 1 3 7 10 4 5 12 15 Fitness :201138.0
+
+-------- Iteration 886 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 887 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 13 7 1 3 14 10 4 5 12 15 Fitness :202859.0
+
+-------- Iteration 888 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 12 7 1 3 14 10 4 5 13 15 Fitness :202453.0
+
+-------- Iteration 889 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 15 9 12 7 1 3 14 10 4 5 13 11 Fitness :202649.0
+
+-------- Iteration 890 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 12 7 1 3 14 10 4 5 13 8 Fitness :198976.0
+
+-------- Iteration 891 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 13 7 1 3 14 10 4 5 12 8 Fitness :199532.0
+
+-------- Iteration 892 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 10 7 1 3 14 13 4 5 12 8 Fitness :200285.0
+
+-------- Iteration 893 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 894 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 14 7 1 3 2 13 4 5 12 8 Fitness :200448.0
+
+-------- Iteration 895 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 896 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 11 6 15 9 10 14 1 3 2 13 4 5 12 8 Fitness :201078.0
+
+-------- Iteration 897 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 7 3 2 13 4 5 12 8 Fitness :199317.0
+
+-------- Iteration 898 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 8 3 2 13 4 5 12 7 Fitness :201020.0
+
+-------- Iteration 899 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 7 8 3 2 13 4 5 12 14 Fitness :198015.0
+
+-------- Iteration 900 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 901 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 902 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 903 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 904 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 14 2 13 4 5 12 10 Fitness :200268.0
+
+-------- Iteration 905 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 906 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 4 13 5 12 14 Fitness :202273.0
+
+-------- Iteration 907 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 908 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 14 5 12 10 Fitness :200656.0
+
+-------- Iteration 909 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 910 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 13 2 4 10 5 9 14 Fitness :202092.0
+
+-------- Iteration 911 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 13 7 4 10 5 9 14 Fitness :203295.0
+
+-------- Iteration 912 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 913 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 914 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 7 4 14 13 10 5 9 8 Fitness :202496.0
+
+-------- Iteration 915 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 916 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 917 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 14 13 10 5 9 7 Fitness :204648.0
+
+-------- Iteration 918 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 919 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 12 7 8 3 14 13 10 5 9 2 Fitness :198791.0
+
+-------- Iteration 920 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 921 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 4 14 13 12 5 9 2 Fitness :202450.0
+
+-------- Iteration 922 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 12 14 13 4 5 9 2 Fitness :203629.0
+
+-------- Iteration 923 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 14 13 4 5 12 2 Fitness :204927.0
+
+-------- Iteration 924 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 925 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 926 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 927 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 11 6 15 3 13 7 8 10 2 1 4 5 12 14 Fitness :199713.0
+
+-------- Iteration 928 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 13 7 8 9 2 1 4 5 12 14 Fitness :198552.0
+
+-------- Iteration 929 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 13 7 8 9 2 1 4 5 12 14 Fitness :198393.0
+
+-------- Iteration 930 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 10 7 8 9 2 1 4 5 12 14 Fitness :196492.0
+
+-------- Iteration 931 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 932 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 13 12 7 8 9 2 1 4 5 3 14 Fitness :196933.0
+
+-------- Iteration 933 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 13 12 7 8 9 2 1 4 5 10 14 Fitness :198268.0
+
+-------- Iteration 934 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 935 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 12 7 8 9 2 1 4 5 13 14 Fitness :198394.0
+
+-------- Iteration 936 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 12 7 8 9 2 1 4 5 13 14 Fitness :198587.0
+
+-------- Iteration 937 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 9 12 7 8 10 2 1 4 5 13 14 Fitness :199458.0
+
+-------- Iteration 938 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 939 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 940 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 8 3 2 12 4 5 1 14 Fitness :199641.0
+
+-------- Iteration 941 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 13 4 5 1 14 Fitness :199892.0
+
+-------- Iteration 942 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 943 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 13 2 1 4 5 3 14 Fitness :200480.0
+
+-------- Iteration 944 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 8 3 2 1 4 5 13 14 Fitness :201756.0
+
+-------- Iteration 945 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 12 7 1 3 2 8 4 5 13 14 Fitness :202767.0
+
+-------- Iteration 946 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 13 7 1 3 2 8 4 5 12 14 Fitness :201259.0
+
+-------- Iteration 947 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 8 9 13 7 1 3 2 15 4 5 12 14 Fitness :200622.0
+
+-------- Iteration 948 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 9 13 7 1 3 2 15 4 5 12 14 Fitness :201187.0
+
+-------- Iteration 949 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 8 6 11 15 13 7 1 3 2 9 4 5 12 14 Fitness :201360.0
+
+-------- Iteration 950 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 15 6 11 8 13 7 1 3 2 9 4 5 12 14 Fitness :203256.0
+
+-------- Iteration 951 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 8 13 7 1 3 2 10 4 5 12 14 Fitness :203963.0
+
+-------- Iteration 952 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 14 13 7 1 3 2 10 4 5 12 8 Fitness :204364.0
+
+-------- Iteration 953 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 15 6 11 2 13 7 1 3 14 10 4 5 12 8 Fitness :203506.0
+
+-------- Iteration 954 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 955 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 14 1 3 7 10 4 5 12 15 Fitness :201138.0
+
+-------- Iteration 956 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 8 6 11 2 13 7 1 3 14 10 4 5 12 15 Fitness :202303.0
+
+-------- Iteration 957 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 13 7 1 3 14 10 4 5 12 15 Fitness :202859.0
+
+-------- Iteration 958 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 11 9 12 7 1 3 14 10 4 5 13 15 Fitness :202453.0
+
+-------- Iteration 959 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 8 6 15 9 12 7 1 3 14 10 4 5 13 11 Fitness :202649.0
+
+-------- Iteration 960 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 12 7 1 3 14 10 4 5 13 8 Fitness :198976.0
+
+-------- Iteration 961 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 13 7 1 3 14 10 4 5 12 8 Fitness :199532.0
+
+-------- Iteration 962 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 2 11 6 15 9 10 7 1 3 14 13 4 5 12 8 Fitness :200285.0
+
+-------- Iteration 963 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 964 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 9 14 7 1 3 2 13 4 5 12 8 Fitness :200448.0
+
+-------- Iteration 965 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 14 11 6 15 9 10 7 1 3 2 13 4 5 12 8 Fitness :202244.0
+
+-------- Iteration 966 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 7 11 6 15 9 10 14 1 3 2 13 4 5 12 8 Fitness :201078.0
+
+-------- Iteration 967 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 7 3 2 13 4 5 12 8 Fitness :199317.0
+
+-------- Iteration 968 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 14 8 3 2 13 4 5 12 7 Fitness :201020.0
+
+-------- Iteration 969 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 9 10 7 8 3 2 13 4 5 12 14 Fitness :198015.0
+
+-------- Iteration 970 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 971 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 972 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 973 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 974 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 14 2 13 4 5 12 10 Fitness :200268.0
+
+-------- Iteration 975 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 976 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 4 13 5 12 14 Fitness :202273.0
+
+-------- Iteration 977 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 978 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 14 5 12 10 Fitness :200656.0
+
+-------- Iteration 979 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 13 2 4 10 5 12 14 Fitness :200709.0
+
+-------- Iteration 980 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 13 2 4 10 5 9 14 Fitness :202092.0
+
+-------- Iteration 981 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 13 7 4 10 5 9 14 Fitness :203295.0
+
+-------- Iteration 982 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 983 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 984 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 7 4 14 13 10 5 9 8 Fitness :202496.0
+
+-------- Iteration 985 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 14 4 7 13 10 5 9 8 Fitness :203831.0
+
+-------- Iteration 986 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 7 13 10 5 9 14 Fitness :204935.0
+
+-------- Iteration 987 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 2 8 4 14 13 10 5 9 7 Fitness :204648.0
+
+-------- Iteration 988 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 989 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 4 12 7 8 3 14 13 10 5 9 2 Fitness :198791.0
+
+-------- Iteration 990 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 12 7 8 4 14 13 10 5 9 2 Fitness :199885.0
+
+-------- Iteration 991 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 4 14 13 12 5 9 2 Fitness :202450.0
+
+-------- Iteration 992 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 12 14 13 4 5 9 2 Fitness :203629.0
+
+-------- Iteration 993 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 14 13 4 5 12 2 Fitness :204927.0
+
+-------- Iteration 994 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 10 7 8 9 2 13 4 5 12 14 Fitness :198333.0
+
+-------- Iteration 995 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 1 11 6 15 3 9 7 8 10 2 13 4 5 12 14 Fitness :200505.0
+
+-------- Iteration 996 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 13 11 6 15 3 9 7 8 10 2 1 4 5 12 14 Fitness :199550.0
+
+-------- Iteration 997 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 9 11 6 15 3 13 7 8 10 2 1 4 5 12 14 Fitness :199713.0
+
+-------- Iteration 998 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 10 11 6 15 3 13 7 8 9 2 1 4 5 12 14 Fitness :198552.0
+
+-------- Iteration 999 -------- 
+Solution min : 5 10 4 13 2 9 1 11 12 14 7 15 3 8 6 Fitness :194107.0
+Solution opt : 3 11 6 15 10 13 7 8 9 2 1 4 5 12 14 Fitness :198393.0
+
