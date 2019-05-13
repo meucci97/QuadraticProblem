@@ -20,10 +20,10 @@ public class main {
         });
         */
 
-        Quadratic q2 = new Quadratic("tai15a.dat");
+        Quadratic q2 = new Quadratic("tai12a.dat");
         q2.affiche();
         Solution s2 = new Solution();
-        int[] i= {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13,14,15};
+        int[] i= {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
 
         //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
         s2.setSolution(i);

@@ -93,7 +93,7 @@ public class Quadratic {
                 if(i != j){
                         Solution s = new Solution(this.solution);
                         s.setPermutation(i,j);
-                        s.setFitness(calculateSolutionFitness(s));
+                        s.setFitness(calculateSolutionFitnessOpti(s, this.solution.getFitness()));
                         possibleSolution.add(s);
                 }
             }
@@ -109,9 +109,28 @@ public class Quadratic {
                 int solutionValue = s.getSolutionValue(i)-1;
                 int solutionValue2 = s.getSolutionValue(j)-1;
 
-                fitness += this.connectionsTab[solutionValue][solutionValue2]* this.distancesTab[i][j];
+                fitness += this.connectionsTab[solutionValue][solutionValue2] * this.distancesTab[i][j];
             }
         }
         return fitness;
+    }
+
+    public double calculateSolutionFitnessOpti(Solution s, double oldFitness){
+        int fitness = 0;
+        
+        int p1 = s.getPermutation()[0];
+        int p2 = s.getPermutation()[1];
+        for(int i=0; i<s.getSolution().length;i++){
+            if(i != p1 && i !=p2){
+                int solutionValue = s.getSolutionValue(p1)-1;
+                int solutionValue2 = s.getSolutionValue(p2)-1;
+                int solutionValueK = s.getSolutionValue(i)-1;
+                // b[i][j] r s                                            a[i][j]
+                fitness += (this.connectionsTab[solutionValue][solutionValueK] - this.connectionsTab[solutionValue2][solutionValueK]) * (this.distancesTab[p1][i] - this.distancesTab[p2][i]);
+
+            }
+        }
+
+        return oldFitness + fitness;
     }
 }
