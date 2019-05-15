@@ -28,7 +28,7 @@ public class Solution {
         permutation = new int[2];
     }
 
-    public double  getFitness() {
+    public double getFitness() {
         return fitness;
     }
 
