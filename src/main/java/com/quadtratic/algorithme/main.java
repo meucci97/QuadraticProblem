@@ -43,11 +43,11 @@ public class main {
         q3.affiche();
         Solution s3 = new Solution();
 
-        int[] i= {4, 3, 2, 1, 5};
+        int[] i= {1, 3, 4, 5, 2};
         s3.setSolution(i);
 
         RecuitSimule r = new RecuitSimule(q3, false, 0.1, 1000, 100);
-        Solution solutionRecuit = r.recuitSimuleSearch(s3, 17.3124);
+        Solution solutionRecuit = r.recuitSimuleSearch(s3, 18);
 
         System.out.println("Fitness : " + solutionRecuit.getFitness());
         for(int x=0; x < solutionRecuit.getSolution().length;x++){
