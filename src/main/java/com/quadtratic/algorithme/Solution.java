@@ -14,7 +14,15 @@ public class Solution {
     public void setSolution(int[] solution) {
         this.solution = solution;
     }
+    public Solution(int size) {
+        permutation = new int[2];
 
+        this.solution = new int[size];
+        for(int i = 1 ; i<= size ; i++){
+            this.solution[i-1] = i;
+        }
+
+    }
     public Solution() {
         permutation = new int[2];
     }
