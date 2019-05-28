@@ -3,7 +3,11 @@ package com.quadtratic.algorithme;
 public class main {
     public static void main (String[] args) {
 
+        long timeLaunch = System.currentTimeMillis();
         launchRecuitSimule();
+        long timeToExecute = System.currentTimeMillis() - timeLaunch;
+
+        System.out.println("\nTemps d'éxecution : " + timeToExecute + " ms");
     }
 
     private static void launchTabou() {
