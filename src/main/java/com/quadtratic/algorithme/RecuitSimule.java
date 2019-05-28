@@ -13,11 +13,11 @@ public class RecuitSimule {
     private int changesOfTemp;
     private int movesAtTemp;
 
-    public RecuitSimule(Quadratic q, boolean log, double temperatureDecreaseCoeff, int changesOfTemp, int movesAtTemp) {
+    public RecuitSimule(Quadratic q, boolean log, double temperatureDecreaseCoeff, int movesAtTemp, int changesOfTemp) {
         this.q = q;
         this.temperatureDecreaseCoeff = temperatureDecreaseCoeff;
-        this.changesOfTemp = changesOfTemp;
         this.movesAtTemp = movesAtTemp;
+        this.changesOfTemp = changesOfTemp;
         this.log = log;
         this.logger = new Logger(q.getFileName());
     }
