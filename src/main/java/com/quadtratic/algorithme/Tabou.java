@@ -28,7 +28,7 @@ public class Tabou {
         this.tabouListSize = tabouListSize;
         this.tabouList = new ArrayList();
         this.log = log;
-        this.logger = new Logger(q.getFileName());
+        this.logger = new Logger(q.getFileName(), "tabou");
     }
 
     public Solution tabuSearch(Solution solutionInitial) {
@@ -58,9 +58,9 @@ public class Tabou {
 
             if(log) {
                 // On écrit les logs dans un fichier
-                this.logger.writeLogInFile(solutionMin, q.getSolution(), i);
+                this.logger.writeLogInFileTabou(solutionMin, q.getSolution(), i);
             } else {
-                System.out.println("-------- Iteration "+ i  +"-------- ");
+                System.out.println("-------- Iteration " + i + "--------");
                 System.out.print("Solution min : ");
                 solutionMin.affiche();
                 System.out.print("Solution opt : ");

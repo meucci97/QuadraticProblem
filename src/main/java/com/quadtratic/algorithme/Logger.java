@@ -10,35 +10,50 @@ public class Logger {
     private FileWriter fileWriter;
     private File logFile;
 
-    public Logger(String filename) {
+    public Logger(String filename, String algo) {
         this.filename = filename;
 
         try {
             String file = this.filename + ".txt";
-            logFile = new File("./src/main/resources/logs/" + file);
+            logFile = new File("./src/main/resources/logs/" + algo + "/" + file);
             fileWriter = new FileWriter(logFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public void writeLogInFile(Solution solutionMin, Solution solutionOptimale, int iteration) {
-        try {
-            fileWriter.write("-------- Iteration " + iteration + " -------- \n");
+    public void writeLogInFile(Solution solutionMin, Solution solutionOptimale) throws IOException {
 
-            fileWriter.write("Solution min : ");
+            fileWriter.write("\nSolution min : ");
             for (int i = 0; i < solutionMin.getSolution().length; i++) {
                 fileWriter.write(solutionMin.getSolutionValue(i) + " ");
             }
-            fileWriter.write("Fitness :"+ solutionMin.getFitness() + "\n");
+            fileWriter.write("Fitness : " + solutionMin.getFitness() + "\n");
 
             fileWriter.write("Solution opt : ");
             for (int j = 0; j < solutionOptimale.getSolution().length; j++) {
                 fileWriter.write(solutionOptimale.getSolutionValue(j) + " ");
             }
-            fileWriter.write("Fitness :"+ solutionOptimale.getFitness() + "\n\n");
+            fileWriter.write("Fitness : " + solutionOptimale.getFitness() + "\n\n");
 
             fileWriter.flush();
+    }
+
+    public void writeLogInFileTabou(Solution solutionMin, Solution solutionOptimale, int iteration) {
+        try {
+            fileWriter.write("-------- Iteration " + iteration + " -------- \n");
+            this.writeLogInFile(solutionMin, solutionOptimale);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void writeLogInFileRecuitSimule(Solution solutionMin, Solution solutionOptimale, int temp, int move) {
+        try {
+            fileWriter.write("-------- Temp = " + temp + ", move = " + move + "--------\n");
+
+            this.writeLogInFile(solutionMin, solutionOptimale);
         } catch (IOException e) {
             e.printStackTrace();
         }

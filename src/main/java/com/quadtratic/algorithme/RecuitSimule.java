@@ -19,7 +19,7 @@ public class RecuitSimule {
         this.movesAtTemp = movesAtTemp;
         this.changesOfTemp = changesOfTemp;
         this.log = log;
-        this.logger = new Logger(q.getFileName());
+        this.logger = new Logger(q.getFileName(), "recuit");
     }
 
     public Solution recuitSimuleSearch(Solution solutionInitiale, double initialTemperature) {
@@ -56,6 +56,17 @@ public class RecuitSimule {
                     System.out.println(p);
                     if(p <= Math.exp(-deltaFitness / temperature)) {
                         q.setSolution(randomSolution);
+
+                        if(log) {
+                            // On écrit les logs dans un fichier
+                            this.logger.writeLogInFileRecuitSimule(solutionMin, q.getSolution(), k, l);
+                        } else {
+                            System.out.println("-------- Temp = " + k + ", move = " + l + "-------- ");
+                            System.out.println("Solution min : ");
+                            solutionMin.affiche();
+                            System.out.println("Solution opt : ");
+                            q.getSolution().affiche();
+                        }
                     }
                 }
 

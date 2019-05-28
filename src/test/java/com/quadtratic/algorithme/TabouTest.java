@@ -50,7 +50,7 @@ class TabouTest {
 
         Solution s3 = new Solution();
         s3.setSolution(solutions);
-        
+
         Tabou t3 = new Tabou(quadratic, 2000, 9, true);
 
         Solution optimale3 = t3.tabuSearch(s3);
