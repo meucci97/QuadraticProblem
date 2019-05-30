@@ -70,6 +70,7 @@ public class Tabou {
         }
 
         this.logger.closeFile();
+
         return solutionMin;
     }
     private ArrayList<Solution> removeExistingPermutation(ArrayList<Solution> solutions){

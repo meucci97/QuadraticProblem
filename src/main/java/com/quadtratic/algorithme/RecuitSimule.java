@@ -75,6 +75,8 @@ public class RecuitSimule {
             temperature *= this.temperatureDecreaseCoeff;
         }
 
+        this.logger.closeFile();
+
         return solutionMin;
     }
 }
