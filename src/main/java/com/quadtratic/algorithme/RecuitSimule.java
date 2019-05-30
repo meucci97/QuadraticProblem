@@ -3,29 +3,33 @@ package com.quadtratic.algorithme;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class RecuitSimule {
+public class RecuitSimule extends Algorithm {
 
-    private Quadratic q;
-    private Solution solutionMin;
-    private boolean log;
-    private Logger logger;
     private double temperatureDecreaseCoeff;
     private int changesOfTemp;
     private int movesAtTemp;
+    private double initialTemperature;
 
-    public RecuitSimule(Quadratic q, boolean log, double temperatureDecreaseCoeff, int movesAtTemp, int changesOfTemp) {
-        this.q = q;
+    public RecuitSimule(Quadratic quadratic, Solution solutionInitiale, double temperatureDecreaseCoeff, int movesAtTemp,
+                        int changesOfTemp, double initialTemperature) {
+        super(quadratic, solutionInitiale);
         this.temperatureDecreaseCoeff = temperatureDecreaseCoeff;
         this.movesAtTemp = movesAtTemp;
         this.changesOfTemp = changesOfTemp;
-        this.log = log;
-        this.logger = new Logger(q.getFileName(), "recuit");
+        this.initialTemperature = initialTemperature;
+
+        if(log) {
+            this.logger = new Logger(quadratic.getFileName(), "recuit");
+        } else {
+            this.logger = null;
+        }
     }
 
-    public Solution recuitSimuleSearch(Solution solutionInitiale, double initialTemperature) {
-        solutionInitiale.setFitness(q.calculateSolutionFitness(solutionInitiale));
-        solutionMin = solutionInitiale;
-        q.setSolution(solutionInitiale);
+    @Override
+    public Solution evaluateSolution() {
+        solutionInitiale.setFitness(this.quadratic.calculateSolutionFitness(solutionInitiale));
+        Solution solutionMin = solutionInitiale;
+        this.quadratic.setSolution(solutionInitiale);
 
         double temperature = initialTemperature;
 
@@ -38,16 +42,16 @@ public class RecuitSimule {
             for(int l = 1; l <= this.movesAtTemp; l++) {
 
                 // On récupère les solutions possibles
-                solutionsPossibles = q.getPossibleSolutions();
+                solutionsPossibles = this.quadratic.getPossibleSolutions();
 
                 // Selection d'une permutation au hasard
                 randomSolution = solutionsPossibles.get(random.nextInt(solutionsPossibles.size()));
 
                 // Delta de la fitness
-                double deltaFitness = randomSolution.getFitness() - q.getSolution().getFitness();
+                double deltaFitness = randomSolution.getFitness() - this.quadratic.getSolution().getFitness();
 
                 if(deltaFitness <= 0) {
-                    q.setSolution(randomSolution);
+                    this.quadratic.setSolution(randomSolution);
                     if(randomSolution.getFitness() < solutionMin.getFitness()) {
                         solutionMin = randomSolution;
                     }
@@ -55,17 +59,17 @@ public class RecuitSimule {
                     double p = random.nextDouble();
                     System.out.println(p);
                     if(p <= Math.exp(-deltaFitness / temperature)) {
-                        q.setSolution(randomSolution);
+                        this.quadratic.setSolution(randomSolution);
 
                         if(log) {
                             // On écrit les logs dans un fichier
-                            this.logger.writeLogInFileRecuitSimule(solutionMin, q.getSolution(), k, l);
+                            this.logger.writeLogInFileRecuitSimule(solutionMin, this.quadratic.getSolution(), k, l);
                         } else {
                             System.out.println("-------- Temp = " + k + ", move = " + l + "-------- ");
                             System.out.println("Solution min : ");
                             solutionMin.affiche();
                             System.out.println("Solution opt : ");
-                            q.getSolution().affiche();
+                            this.quadratic.getSolution().affiche();
                         }
                     }
                 }
@@ -75,7 +79,9 @@ public class RecuitSimule {
             temperature *= this.temperatureDecreaseCoeff;
         }
 
-        this.logger.closeFile();
+        if(log) {
+            this.logger.closeFile();
+        }
 
         return solutionMin;
     }

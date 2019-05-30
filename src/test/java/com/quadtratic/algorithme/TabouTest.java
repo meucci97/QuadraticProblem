@@ -21,8 +21,8 @@ class TabouTest {
         Solution s1 = new Solution();
         s1.setSolution(solutions);
 
-        Tabou t = new Tabou(quadratic, 193, 9, true);
-        Solution optimale1 = t.tabuSearch(s1);
+        Tabou t = new Tabou(quadratic, s1, 193, 9);
+        Solution optimale1 = t.evaluateSolution();
 
         int[] expectedSolution1 = {8, 1, 6, 2, 11, 10, 3, 5, 9, 7, 12, 4};
 
@@ -36,9 +36,9 @@ class TabouTest {
         Solution s2 = new Solution();
         s2.setSolution(solutions);
 
-        Tabou t2 = new Tabou(quadratic, 7, 9, true);
+        Tabou t2 = new Tabou(quadratic, s2, 7, 9);
 
-        Solution optimale2 = t2.tabuSearch(s2);
+        Solution optimale2 = t2.evaluateSolution();
         int[] expectedSolution2 = {10, 12, 2, 6, 4, 5, 7, 9, 8, 1, 11, 3};
 
         Assertions.assertEquals(129268.0, optimale2.getFitness());
@@ -51,9 +51,9 @@ class TabouTest {
         Solution s3 = new Solution();
         s3.setSolution(solutions);
 
-        Tabou t3 = new Tabou(quadratic, 2000, 9, true);
+        Tabou t3 = new Tabou(quadratic, s3, 2000, 9);
 
-        Solution optimale3 = t3.tabuSearch(s3);
+        Solution optimale3 = t3.evaluateSolution();
         int[] expectedSolution3 = {8, 1, 6, 2, 11, 10, 3, 5, 9, 7, 12, 4};
 
         Assertions.assertEquals(112208.0, optimale3.getFitness());
