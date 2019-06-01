@@ -4,7 +4,7 @@ public class main {
     public static void main (String[] args) {
 
         long timeLaunch = System.currentTimeMillis();
-        launchRecuitSimule();
+        launchTabou();
         long timeToExecute = System.currentTimeMillis() - timeLaunch;
 
         System.out.println("\nTemps d'éxecution : " + timeToExecute + " ms");
@@ -19,7 +19,7 @@ public class main {
         //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
         s2.setSolution(i);
 
-        Tabou t = new Tabou(q2, s2, 1000, 9);
+        Tabou t = new Tabou(q2, s2, true, 1000, 9);
         Solution solutionTabou = t.evaluateSolution();
 
         System.out.println("Fitness: " + solutionTabou.getFitness() * 2);
@@ -35,7 +35,7 @@ public class main {
         int[] i= {1, 3, 4, 5, 2};
         s3.setSolution(i);
 
-        RecuitSimule r = new RecuitSimule(q3, s3, 0.1, 1000, 100, 18);
+        RecuitSimule r = new RecuitSimule(q3, s3, true, 0.1, 1000, 100, 18);
         Solution solutionRecuit = r.evaluateSolution();
 
         results(solutionRecuit);

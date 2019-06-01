@@ -11,8 +11,8 @@ public class Tabou extends Algorithm {
     private List<String> tabouList;
     private int tabouListSize;
 
-    public Tabou(Quadratic quadratic, Solution solutionInitiale, int maxIter, int tabouListSize) {
-        super(quadratic, solutionInitiale);
+    public Tabou(Quadratic quadratic, Solution solutionInitiale, boolean log, int maxIter, int tabouListSize) {
+        super(quadratic, solutionInitiale, log);
         this.maxIter = maxIter;
         this.tabouListSize = tabouListSize;
         this.tabouList = new ArrayList<>();

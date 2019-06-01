@@ -10,9 +10,9 @@ public class RecuitSimule extends Algorithm {
     private int movesAtTemp;
     private double initialTemperature;
 
-    public RecuitSimule(Quadratic quadratic, Solution solutionInitiale, double temperatureDecreaseCoeff, int movesAtTemp,
-                        int changesOfTemp, double initialTemperature) {
-        super(quadratic, solutionInitiale);
+    public RecuitSimule(Quadratic quadratic, Solution solutionInitiale, boolean log, double temperatureDecreaseCoeff,
+                        int movesAtTemp, int changesOfTemp, double initialTemperature) {
+        super(quadratic, solutionInitiale, log);
         this.temperatureDecreaseCoeff = temperatureDecreaseCoeff;
         this.movesAtTemp = movesAtTemp;
         this.changesOfTemp = changesOfTemp;
