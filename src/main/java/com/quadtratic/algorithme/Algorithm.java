@@ -6,10 +6,12 @@ public abstract class Algorithm {
     protected Solution solutionInitiale;
     protected Logger logger;
     protected boolean log;
+    protected Solution solutionMin;
 
     public Algorithm(Quadratic quadratic, Solution solutionInitiale, boolean log) {
         this.quadratic = quadratic;
         this.solutionInitiale = solutionInitiale;
+        this.solutionMin = solutionInitiale;
         this.log = log;
     }
 

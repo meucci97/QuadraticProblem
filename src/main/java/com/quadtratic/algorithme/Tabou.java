@@ -27,7 +27,6 @@ public class Tabou extends Algorithm {
     @Override
     public Solution evaluateSolution() {
         solutionInitiale.setFitness(this.quadratic.calculateSolutionFitness(solutionInitiale));
-        Solution solutionMin = solutionInitiale;
         this.quadratic.setSolution(solutionInitiale);
 
         for (int i = 0; i < this.maxIter; i++) {
@@ -45,18 +44,18 @@ public class Tabou extends Algorithm {
             }
 
             // 6. Si f(xi+1) < fMin alors xMin = xi+1 et fMin = f(xi+1)
-            if(sOptimale.getFitness() < solutionMin.getFitness()) {
-                solutionMin = sOptimale;
+            if(sOptimale.getFitness() < this.solutionMin.getFitness()) {
+                this.solutionMin = sOptimale;
             }
             this.quadratic.setSolution(sOptimale);
 
             if(log) {
                 // On écrit les logs dans un fichier
-                this.logger.writeLogInFileTabou(solutionMin, this.quadratic.getSolution(), i);
+                this.logger.writeLogInFileTabou(this.solutionMin, this.quadratic.getSolution(), i);
             } else {
                 System.out.println("-------- Iteration " + i + "--------");
                 System.out.print("Solution min : ");
-                solutionMin.affiche();
+                this.solutionMin.affiche();
                 System.out.print("Solution opt : ");
                 this.quadratic.getSolution().affiche();
             }

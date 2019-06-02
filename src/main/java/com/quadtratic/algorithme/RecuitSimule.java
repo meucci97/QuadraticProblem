@@ -28,7 +28,6 @@ public class RecuitSimule extends Algorithm {
     @Override
     public Solution evaluateSolution() {
         solutionInitiale.setFitness(this.quadratic.calculateSolutionFitness(solutionInitiale));
-        Solution solutionMin = solutionInitiale;
         this.quadratic.setSolution(solutionInitiale);
 
         double temperature = initialTemperature;
@@ -52,8 +51,8 @@ public class RecuitSimule extends Algorithm {
 
                 if(deltaFitness <= 0) {
                     this.quadratic.setSolution(randomSolution);
-                    if(randomSolution.getFitness() < solutionMin.getFitness()) {
-                        solutionMin = randomSolution;
+                    if(randomSolution.getFitness() < this.solutionMin.getFitness()) {
+                        this.solutionMin = randomSolution;
                     }
                 } else {
                     double p = random.nextDouble();
@@ -63,7 +62,7 @@ public class RecuitSimule extends Algorithm {
 
                         if(log) {
                             // On écrit les logs dans un fichier
-                            this.logger.writeLogInFileRecuitSimule(solutionMin, this.quadratic.getSolution(), k, l);
+                            this.logger.writeLogInFileRecuitSimule(this.solutionMin, this.quadratic.getSolution(), k, l);
                         } else {
                             System.out.println("-------- Temp = " + k + ", move = " + l + "-------- ");
                             System.out.println("Solution min : ");
