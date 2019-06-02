@@ -17,12 +17,11 @@ public class Tabou extends Algorithm {
         this.tabouListSize = tabouListSize;
         this.tabouList = new ArrayList<>();
 
-        String filename = "tabou" + "_" + quadratic.getSize()+ "_" + maxIter + "_" + tabouListSize;
-        this.loggerResults = new Logger(filename, "tabou", "results");
+        this.loggerResults = new Logger(quadratic, maxIter, tabouListSize);
         this.loggerResults.initializeFirstLineResultsTabou();
 
         if(log) {
-            this.logger = new Logger(quadratic.getFileName(), "tabou", "log");
+            this.logger = new Logger(quadratic.getFileName(), "tabou");
         } else {
             this.logger = null;
         }

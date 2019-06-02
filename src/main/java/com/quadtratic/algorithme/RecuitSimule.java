@@ -18,13 +18,11 @@ public class RecuitSimule extends Algorithm {
         this.changesOfTemp = changesOfTemp;
         this.initialTemperature = initialTemperature;
 
-        String filename = "recuit" + "_" + quadratic.getSize()+ "_" + temperatureDecreaseCoeff + "_" +
-                changesOfTemp + "_" + movesAtTemp + "_" + initialTemperature;
-        this.loggerResults = new Logger(filename, "tabou", "results");
+        this.loggerResults = new Logger(quadratic, temperatureDecreaseCoeff, changesOfTemp, movesAtTemp, initialTemperature);
         this.loggerResults.initializeFirstLineResultsRecuitSimule();
 
         if(log) {
-            this.logger = new Logger(quadratic.getFileName(), "recuit", "log");
+            this.logger = new Logger(quadratic.getFileName(), "recuit");
         } else {
             this.logger = null;
         }

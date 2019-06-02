@@ -9,21 +9,44 @@ public class Logger {
     private String filename;
     private FileWriter fileWriter;
     private File logFile;
+    private File resultsFile;
 
-    public Logger(String filename, String algo, String logType) {
+    public Logger(String filename, String algo) {
         this.filename = filename;
 
         try {
-
-            if("log".equals(logType)) {
-                String file = this.filename + ".txt";
-                logFile = new File("./src/main/resources/logs/" + algo + "/" + file);
-            } else {
-                String file = this.filename + ".csv";
-                logFile = new File("./src/main/resources/results/" + algo + "/" + file);
-            }
+            String file = this.filename + ".txt";
+            logFile = new File("./src/main/resources/logs/" + algo + "/" + file);
 
             fileWriter = new FileWriter(logFile);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public Logger(Quadratic quadratic, int maxIter, int tabouListSize) {
+        this.filename = "tabou_" + quadratic.getSize() + "_" + maxIter + "_" + tabouListSize;
+
+        try {
+            String file = this.filename + ".csv";
+            resultsFile = new File("./src/main/resources/results/tabou/" + file);
+
+            fileWriter = new FileWriter(resultsFile);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public Logger(Quadratic quadratic, double temperatureDecreaseCoeff, int changesOfTemp, int movesAtTemp,
+                  double initialTemperature) {
+        this.filename = "recuit_" + quadratic.getSize()+ "_" + temperatureDecreaseCoeff + "_" +
+                changesOfTemp + "_" + movesAtTemp + "_" + initialTemperature;
+
+        try {
+            String file = this.filename + ".csv";
+            resultsFile = new File("./src/main/resources/results/recuit/" + file);
+
+            fileWriter = new FileWriter(resultsFile);
         } catch (IOException e) {
             e.printStackTrace();
         }
