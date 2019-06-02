@@ -40,8 +40,6 @@ public class RecuitSimule extends Algorithm {
         Random random = new Random();
         Solution randomSolution;
 
-        int id = 1;
-
         for(int k = 0; k < this.changesOfTemp; k++) {
             for(int l = 1; l <= this.movesAtTemp; l++) {
 
@@ -65,7 +63,7 @@ public class RecuitSimule extends Algorithm {
                     if(p <= Math.exp(-deltaFitness / temperature)) {
                         this.quadratic.setSolution(randomSolution);
 
-                        this.loggerResults.writeResultsInFileRecuitSimule(id, loggerResults.getFilename(),
+                        this.loggerResults.writeResultsInFileRecuitSimule(loggerResults.getFilename(),
                                 temperatureDecreaseCoeff, temperature, changesOfTemp, k, movesAtTemp, l,
                                 initialTemperature, solutionMin.getFitness(), quadratic.getSolution().getFitness());
 
@@ -81,7 +79,6 @@ public class RecuitSimule extends Algorithm {
                         }
                     }
                 }
-                id++;
             }
 
             temperature *= this.temperatureDecreaseCoeff;
