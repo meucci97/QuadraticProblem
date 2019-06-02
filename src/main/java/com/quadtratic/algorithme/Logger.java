@@ -122,7 +122,7 @@ public class Logger {
 
     public void initializeFirstLineResultsRecuitSimule() {
         try {
-            fileWriter.write("nom_fichier;coefficient_temp;changement_temp;mouvements_temp;temperature_initiale;fitnessMin;fitness");
+            fileWriter.write("nom_fichier;coefficient_temp_init;coefficient_temp;changement_temp_init;changement_temp;mouvements_temp_init;mouvement_temp;temperature_initiale;fitnessMin;fitness");
         } catch (IOException e) {
             e.printStackTrace();
         }

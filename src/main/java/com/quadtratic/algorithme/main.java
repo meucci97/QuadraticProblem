@@ -9,7 +9,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 public class main {
-    public final static int MAX_ITER = 2000;
+    public final static int MAX_ITER = 20000;
 
     public static void main (String[] args) {
         int maxIter;
