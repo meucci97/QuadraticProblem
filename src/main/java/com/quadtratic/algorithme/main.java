@@ -20,7 +20,8 @@ public class main {
 
     public static void main (String[] args) {
 
-
+        launchAllTailTabouParallel();
+        /*
         Scanner sc = new Scanner(System.in);
         System.out.println("Choisir Type d'algo (0 -> Tabou, 1->Recuit)");
 
@@ -32,7 +33,7 @@ public class main {
             launchParallelTabou(taiSize);
         else
             launchParallelRecuit(taiSize);
-
+*/
         return ;
     }
 
@@ -86,12 +87,12 @@ public class main {
         ExecutorService myService = Executors.newFixedThreadPool(processors);
         try {
             List<Future<Solution>> solutions = myService.invokeAll(tasks);
-            System.out.println("Tabou Done for " + tailFileName);
+            //System.out.println("Tabou Done for " + tailFileName);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
         long timeToExecute = System.currentTimeMillis() - timeLaunch;
-        System.out.println("Total execution time: " + timeToExecute + " ms");
+        System.out.println("Tabou Done for " + tailFileName+ " - Total execution time: " + timeToExecute + " ms");
     }
 
     private static void launchParallelRecuit(int taiSize){
@@ -140,5 +141,14 @@ public class main {
             System.out.print(solution.getSolutionValue(x) + " ");
         }
     }
-    
+
+
+    private static void launchAllTailTabouParallel(){
+        int[] i = {10,12,15,17,20,25,30,35,40,50,80,100};
+
+        for(int j=0 ; j<i.length;j++){
+            launchParallelTabou(i[j]);
+            System.out.println("-----------------------------");
+        }
+    }
 }
