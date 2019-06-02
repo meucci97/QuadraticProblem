@@ -7,6 +7,7 @@ public abstract class Algorithm {
     protected Logger logger;
     protected boolean log;
     protected Solution solutionMin;
+    protected Logger loggerResults;
 
     public Algorithm(Quadratic quadratic, Solution solutionInitiale, boolean log) {
         this.quadratic = quadratic;

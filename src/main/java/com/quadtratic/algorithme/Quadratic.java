@@ -17,6 +17,10 @@ public class Quadratic {
         return fileName;
     }
 
+    public int getSize() {
+        return size;
+    }
+
     public Quadratic(String fileName){
         try{
             this.fileName=fileName;

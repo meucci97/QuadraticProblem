@@ -18,8 +18,13 @@ public class RecuitSimule extends Algorithm {
         this.changesOfTemp = changesOfTemp;
         this.initialTemperature = initialTemperature;
 
+        String filename = "recuit" + "_" + quadratic.getSize()+ "_" + temperatureDecreaseCoeff + "_" +
+                changesOfTemp + "_" + movesAtTemp + "_" + initialTemperature;
+        this.loggerResults = new Logger(filename, "tabou", "results");
+        this.loggerResults.initializeFirstLineResultsRecuitSimule();
+
         if(log) {
-            this.logger = new Logger(quadratic.getFileName(), "recuit");
+            this.logger = new Logger(quadratic.getFileName(), "recuit", "log");
         } else {
             this.logger = null;
         }
@@ -60,6 +65,8 @@ public class RecuitSimule extends Algorithm {
                     if(p <= Math.exp(-deltaFitness / temperature)) {
                         this.quadratic.setSolution(randomSolution);
 
+                        this.loggerResults.writeResultsInFileRecuitSimule();
+
                         if(log) {
                             // On écrit les logs dans un fichier
                             this.logger.writeLogInFileRecuitSimule(this.solutionMin, this.quadratic.getSolution(), k, l);
@@ -81,6 +88,8 @@ public class RecuitSimule extends Algorithm {
         if(log) {
             this.logger.closeFile();
         }
+
+        this.loggerResults.closeFile();
 
         return solutionMin;
     }

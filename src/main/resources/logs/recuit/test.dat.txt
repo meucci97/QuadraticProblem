@@ -1,2030 +1,1935 @@
--------- Temp = 0, move = 4--------
+-------- Temp = 0, move = 3--------
 
-Solution min : 4 3 5 2 1 Fitness : 58.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
+Solution min : 4 1 3 5 2 Fitness : 65.0
+Solution opt : 4 1 2 5 3 Fitness : 69.0
 
--------- Temp = 0, move = 6--------
+-------- Temp = 0, move = 9--------
 
-Solution min : 4 3 5 2 1 Fitness : 58.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
-
--------- Temp = 0, move = 8--------
-
-Solution min : 4 3 5 2 1 Fitness : 58.0
-Solution opt : 5 4 2 1 3 Fitness : 61.0
+Solution min : 2 4 1 5 3 Fitness : 52.0
+Solution opt : 3 4 1 5 2 Fitness : 55.0
 
 -------- Temp = 0, move = 10--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 2 4 1 5 3 Fitness : 52.0
+Solution opt : 3 4 1 2 5 Fitness : 58.0
 
--------- Temp = 0, move = 11--------
+-------- Temp = 0, move = 12--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 5 1 4 3 2 Fitness : 62.0
-
--------- Temp = 0, move = 13--------
-
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 5 4 2 3 1 Fitness : 75.0
+Solution min : 2 4 1 5 3 Fitness : 52.0
+Solution opt : 5 4 1 3 2 Fitness : 57.0
 
 -------- Temp = 0, move = 16--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 3 5 2 4 1 Fitness : 59.0
+Solution min : 2 4 1 5 3 Fitness : 52.0
+Solution opt : 2 3 1 5 4 Fitness : 61.0
 
--------- Temp = 0, move = 17--------
+-------- Temp = 0, move = 18--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
+Solution min : 2 4 1 5 3 Fitness : 52.0
+Solution opt : 1 4 2 5 3 Fitness : 65.0
 
 -------- Temp = 0, move = 19--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
+Solution min : 2 4 1 5 3 Fitness : 52.0
+Solution opt : 1 4 3 5 2 Fitness : 69.0
 
--------- Temp = 0, move = 21--------
+-------- Temp = 0, move = 23--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 4 1 5 3 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 3 1 2 Fitness : 47.0
 
 -------- Temp = 0, move = 24--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 3 2 5 4 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 1 3 2 Fitness : 57.0
 
 -------- Temp = 0, move = 26--------
 
-Solution min : 5 3 2 1 4 Fitness : 54.0
-Solution opt : 3 1 5 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
 
--------- Temp = 0, move = 31--------
+-------- Temp = 0, move = 27--------
 
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 3 2 5 4 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 1 4 2 Fitness : 59.0
+
+-------- Temp = 0, move = 30--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 3 5 Fitness : 72.0
+
+-------- Temp = 0, move = 32--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 3 5 Fitness : 72.0
 
 -------- Temp = 0, move = 33--------
 
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 3 2 5 4 1 Fitness : 58.0
-
--------- Temp = 0, move = 34--------
-
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 1 2 5 4 3 Fitness : 68.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 4 5 Fitness : 76.0
 
 -------- Temp = 0, move = 35--------
 
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 1 2 3 4 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 5 4 Fitness : 61.0
 
 -------- Temp = 0, move = 36--------
 
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 1 2 4 3 5 Fitness : 77.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 5 2 Fitness : 69.0
 
 -------- Temp = 0, move = 38--------
 
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 2 5 4 3 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 3 5 Fitness : 72.0
 
--------- Temp = 0, move = 42--------
+-------- Temp = 0, move = 43--------
 
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 4 5 2 3 1 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
 -------- Temp = 0, move = 44--------
 
-Solution min : 3 2 5 1 4 Fitness : 53.0
-Solution opt : 4 1 2 3 5 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 4 2 Fitness : 63.0
 
--------- Temp = 0, move = 46--------
+-------- Temp = 0, move = 48--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 4 1 Fitness : 74.0
 
--------- Temp = 0, move = 47--------
+-------- Temp = 0, move = 52--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 5 2 Fitness : 69.0
-
--------- Temp = 0, move = 50--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 3 2 Fitness : 75.0
-
--------- Temp = 0, move = 53--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 3 5 4 Fitness : 61.0
 
 -------- Temp = 0, move = 54--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 1 4 5 Fitness : 76.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 2 5 1 Fitness : 55.0
 
--------- Temp = 0, move = 58--------
+-------- Temp = 0, move = 55--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 4 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 5 2 Fitness : 69.0
 
--------- Temp = 0, move = 59--------
+-------- Temp = 0, move = 60--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 3 4 1 Fitness : 74.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 5 2 1 Fitness : 58.0
 
--------- Temp = 0, move = 62--------
+-------- Temp = 0, move = 61--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 5 4 Fitness : 61.0
-
--------- Temp = 0, move = 64--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 5 2 4 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 5 2 3 Fitness : 72.0
 
 -------- Temp = 0, move = 65--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 5 2 3 Fitness : 66.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 5 3 2 Fitness : 69.0
 
 -------- Temp = 0, move = 66--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 2 3 Fitness : 72.0
-
--------- Temp = 0, move = 69--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 1 3 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 5 3 4 Fitness : 77.0
 
 -------- Temp = 0, move = 71--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 1 3 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
--------- Temp = 0, move = 72--------
+-------- Temp = 0, move = 73--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 1 4 5 Fitness : 76.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 4 2 3 Fitness : 63.0
 
--------- Temp = 0, move = 75--------
+-------- Temp = 0, move = 74--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 4 2 5 Fitness : 65.0
 
--------- Temp = 0, move = 79--------
+-------- Temp = 0, move = 77--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 3 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 4 2 5 Fitness : 61.0
 
--------- Temp = 0, move = 80--------
+-------- Temp = 0, move = 78--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 3 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 4 2 3 Fitness : 65.0
 
--------- Temp = 0, move = 83--------
+-------- Temp = 0, move = 81--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 3 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 4 5 1 Fitness : 61.0
 
--------- Temp = 0, move = 85--------
+-------- Temp = 0, move = 84--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 4 3 5 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 3 5 4 Fitness : 61.0
 
 -------- Temp = 0, move = 86--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 4 2 5 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 1 3 4 Fitness : 65.0
 
--------- Temp = 0, move = 87--------
+-------- Temp = 0, move = 88--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 2 3 Fitness : 65.0
-
--------- Temp = 0, move = 90--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 1 3 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 3 2 4 Fitness : 63.0
 
 -------- Temp = 0, move = 91--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 5 4 Fitness : 61.0
 
--------- Temp = 0, move = 96--------
+-------- Temp = 0, move = 92--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 3 1 2 Fitness : 47.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 5 4 Fitness : 65.0
+
+-------- Temp = 0, move = 93--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 5 3 Fitness : 70.0
+
+-------- Temp = 0, move = 95--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 5 2 3 Fitness : 72.0
+
+-------- Temp = 0, move = 97--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
+
+-------- Temp = 0, move = 100--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 2 5 4 Fitness : 60.0
 
 -------- Temp = 0, move = 101--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 5 4 2 Fitness : 57.0
-
--------- Temp = 0, move = 102--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 4 5 2 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 5 4 Fitness : 61.0
 
 -------- Temp = 0, move = 103--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 4 5 2 Fitness : 78.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 3 4 5 Fitness : 68.0
 
 -------- Temp = 0, move = 107--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 5 4 2 Fitness : 57.0
 
 -------- Temp = 0, move = 110--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 5 3 4 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 4 5 2 Fitness : 60.0
 
--------- Temp = 0, move = 112--------
+-------- Temp = 0, move = 114--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 5 4 3 Fitness : 68.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 4 2 Fitness : 63.0
 
--------- Temp = 0, move = 113--------
+-------- Temp = 0, move = 116--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 3 4 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 5 4 2 Fitness : 71.0
 
--------- Temp = 0, move = 115--------
+-------- Temp = 0, move = 118--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 3 4 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 5 4 1 Fitness : 76.0
 
--------- Temp = 0, move = 119--------
+-------- Temp = 0, move = 122--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 2 1 5 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 3 4 1 Fitness : 60.0
 
--------- Temp = 0, move = 125--------
+-------- Temp = 0, move = 124--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 1 3 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 3 1 Fitness : 67.0
 
 -------- Temp = 0, move = 126--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 1 5 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 4 1 Fitness : 63.0
 
 -------- Temp = 0, move = 128--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 1 3 2 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
 
 -------- Temp = 0, move = 129--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 3 2 Fitness : 75.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 4 5 Fitness : 76.0
 
--------- Temp = 0, move = 130--------
+-------- Temp = 0, move = 131--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 4 3 2 Fitness : 78.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 1 5 Fitness : 59.0
 
--------- Temp = 0, move = 133--------
+-------- Temp = 0, move = 134--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 3 2 Fitness : 75.0
-
--------- Temp = 0, move = 135--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 3 2 Fitness : 75.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 5 1 Fitness : 69.0
 
 -------- Temp = 0, move = 137--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 4 2 3 Fitness : 63.0
-
--------- Temp = 0, move = 139--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 1 3 Fitness : 58.0
-
--------- Temp = 0, move = 140--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 2 3 5 Fitness : 69.0
 
 -------- Temp = 0, move = 141--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 5 4 3 Fitness : 68.0
-
--------- Temp = 0, move = 142--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 3 4 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
 -------- Temp = 0, move = 143--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 3 5 Fitness : 77.0
-
--------- Temp = 0, move = 148--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 5 2 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 5 1 3 Fitness : 58.0
 
 -------- Temp = 0, move = 149--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 5 1 2 Fitness : 59.0
 
 -------- Temp = 0, move = 152--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 5 2 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 5 4 2 Fitness : 57.0
 
 -------- Temp = 0, move = 153--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 5 2 4 Fitness : 65.0
 
--------- Temp = 0, move = 155--------
+-------- Temp = 0, move = 156--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 3 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 5 1 Fitness : 69.0
 
 -------- Temp = 0, move = 158--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 3 1 Fitness : 65.0
-
--------- Temp = 0, move = 160--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 2 3 5 Fitness : 67.0
-
--------- Temp = 0, move = 161--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 1 3 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 5 2 1 Fitness : 58.0
 
 -------- Temp = 0, move = 163--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 1 2 5 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 1 4 Fitness : 54.0
+
+-------- Temp = 0, move = 164--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 2 5 4 Fitness : 60.0
+
+-------- Temp = 0, move = 165--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 2 3 4 Fitness : 62.0
+
+-------- Temp = 0, move = 166--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 2 4 Fitness : 65.0
 
 -------- Temp = 0, move = 167--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 1 3 2 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 3 2 5 Fitness : 72.0
 
--------- Temp = 0, move = 168--------
+-------- Temp = 0, move = 172--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 1 3 4 Fitness : 65.0
-
--------- Temp = 0, move = 169--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 1 4 3 Fitness : 74.0
-
--------- Temp = 0, move = 173--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 3 2 4 Fitness : 63.0
-
--------- Temp = 0, move = 175--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 3 2 4 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 2 3 5 Fitness : 69.0
 
 -------- Temp = 0, move = 176--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 3 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
 
--------- Temp = 0, move = 178--------
+-------- Temp = 0, move = 179--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 5 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 5 2 Fitness : 69.0
+
+-------- Temp = 0, move = 180--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 5 3 Fitness : 70.0
 
 -------- Temp = 0, move = 185--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 1 3 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 4 1 5 Fitness : 67.0
 
--------- Temp = 0, move = 186--------
+-------- Temp = 0, move = 187--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 2 1 3 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 5 3 4 Fitness : 59.0
 
 -------- Temp = 0, move = 188--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 1 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 1 3 4 Fitness : 65.0
 
 -------- Temp = 0, move = 191--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 3 1 4 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 1 4 2 Fitness : 59.0
 
--------- Temp = 0, move = 197--------
+-------- Temp = 0, move = 193--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 2 3 5 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 1 4 2 Fitness : 59.0
 
--------- Temp = 0, move = 201--------
+-------- Temp = 0, move = 194--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 2 3 5 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 5 2 Fitness : 69.0
+
+-------- Temp = 0, move = 198--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 3 5 Fitness : 72.0
+
+-------- Temp = 0, move = 200--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
 
 -------- Temp = 0, move = 203--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 4 5 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 4 5 1 Fitness : 65.0
 
--------- Temp = 0, move = 207--------
+-------- Temp = 0, move = 205--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 2 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 4 1 2 Fitness : 56.0
 
--------- Temp = 0, move = 208--------
+-------- Temp = 0, move = 211--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 4 1 Fitness : 76.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 3 1 4 Fitness : 55.0
 
--------- Temp = 0, move = 215--------
+-------- Temp = 0, move = 213--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 1 5 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 3 4 1 Fitness : 60.0
+
+-------- Temp = 0, move = 217--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 3 2 4 Fitness : 63.0
 
 -------- Temp = 0, move = 218--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 3 4 2 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 2 4 Fitness : 65.0
 
 -------- Temp = 0, move = 219--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 3 2 Fitness : 62.0
-
--------- Temp = 0, move = 220--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 4 3 2 Fitness : 78.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 1 4 Fitness : 71.0
 
 -------- Temp = 0, move = 222--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 2 3 5 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
--------- Temp = 0, move = 223--------
+-------- Temp = 0, move = 227--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 2 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 4 2 5 Fitness : 61.0
 
--------- Temp = 0, move = 226--------
+-------- Temp = 0, move = 228--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 5 3 Fitness : 75.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
 -------- Temp = 0, move = 229--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 3 2 Fitness : 62.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 5 2 3 Fitness : 72.0
 
--------- Temp = 0, move = 231--------
+-------- Temp = 0, move = 235--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 2 3 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 4 1 5 Fitness : 67.0
 
--------- Temp = 0, move = 232--------
+-------- Temp = 0, move = 237--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 2 4 3 Fitness : 73.0
-
--------- Temp = 0, move = 236--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
-
--------- Temp = 0, move = 239--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 4 3 5 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
 -------- Temp = 0, move = 240--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 3 4 5 Fitness : 68.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 5 2 Fitness : 69.0
 
--------- Temp = 0, move = 243--------
+-------- Temp = 0, move = 244--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 2 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 5 4 Fitness : 65.0
+
+-------- Temp = 0, move = 245--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 5 3 Fitness : 70.0
 
 -------- Temp = 0, move = 246--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 3 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 4 5 3 Fitness : 75.0
 
--------- Temp = 0, move = 248--------
+-------- Temp = 0, move = 251--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 2 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 5 1 3 Fitness : 58.0
 
--------- Temp = 0, move = 249--------
+-------- Temp = 0, move = 252--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 1 5 3 Fitness : 70.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 5 3 1 Fitness : 72.0
 
 -------- Temp = 0, move = 253--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 2 1 3 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 2 3 1 Fitness : 75.0
+
+-------- Temp = 0, move = 256--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 4 5 Fitness : 71.0
 
 -------- Temp = 0, move = 257--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 2 4 3 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
 
--------- Temp = 0, move = 259--------
+-------- Temp = 0, move = 262--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 4 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
 -------- Temp = 0, move = 263--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 2 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 4 5 3 Fitness : 61.0
 
 -------- Temp = 0, move = 265--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 3 2 Fitness : 75.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
--------- Temp = 0, move = 269--------
+-------- Temp = 0, move = 271--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 2 1 4 Fitness : 54.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 2 3 5 Fitness : 69.0
 
--------- Temp = 0, move = 270--------
+-------- Temp = 0, move = 272--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
-
--------- Temp = 0, move = 273--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 1 5 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 3 2 5 Fitness : 72.0
 
 -------- Temp = 0, move = 276--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 1 5 2 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 2 5 Fitness : 58.0
+
+-------- Temp = 0, move = 281--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 4 5 3 Fitness : 61.0
 
 -------- Temp = 0, move = 283--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 5 4 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 3 1 Fitness : 65.0
 
--------- Temp = 0, move = 284--------
+-------- Temp = 0, move = 285--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 1 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 2 4 Fitness : 55.0
 
 -------- Temp = 0, move = 286--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 1 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 4 2 Fitness : 63.0
+
+-------- Temp = 0, move = 289--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 5 2 1 Fitness : 56.0
 
 -------- Temp = 0, move = 291--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 4 5 3 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 5 2 3 Fitness : 66.0
 
 -------- Temp = 0, move = 294--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 4 2 5 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 4 2 3 Fitness : 63.0
 
--------- Temp = 0, move = 295--------
+-------- Temp = 0, move = 301--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 5 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 5 2 Fitness : 55.0
+
+-------- Temp = 0, move = 303--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 5 2 Fitness : 55.0
 
 -------- Temp = 0, move = 304--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 1 3 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 5 1 Fitness : 69.0
 
--------- Temp = 0, move = 308--------
+-------- Temp = 0, move = 307--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 4 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 4 1 Fitness : 59.0
 
 -------- Temp = 0, move = 310--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 3 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 4 5 Fitness : 71.0
 
--------- Temp = 0, move = 312--------
+-------- Temp = 0, move = 320--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 3 2 Fitness : 62.0
-
--------- Temp = 0, move = 318--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
-
--------- Temp = 0, move = 322--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 1 2 5 Fitness : 58.0
-
--------- Temp = 0, move = 324--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 4 5 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 3 1 Fitness : 57.0
 
 -------- Temp = 0, move = 326--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 5 4 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
 
--------- Temp = 0, move = 333--------
+-------- Temp = 0, move = 329--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 2 4 5 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 2 5 3 Fitness : 69.0
+
+-------- Temp = 0, move = 330--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
 
 -------- Temp = 0, move = 334--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
-
--------- Temp = 0, move = 337--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 4 1 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 3 4 5 Fitness : 68.0
 
 -------- Temp = 0, move = 339--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 2 4 1 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 4 1 5 Fitness : 53.0
 
--------- Temp = 0, move = 344--------
+-------- Temp = 0, move = 341--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 4 2 3 1 5 Fitness : 58.0
+
+-------- Temp = 0, move = 343--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 3 1 5 Fitness : 58.0
+
+-------- Temp = 0, move = 347--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 5 4 Fitness : 65.0
 
 -------- Temp = 0, move = 348--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 2 4 5 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
 
--------- Temp = 0, move = 349--------
+-------- Temp = 0, move = 352--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 4 5 Fitness : 58.0
-
--------- Temp = 0, move = 350--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 4 1 Fitness : 76.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 5 3 Fitness : 70.0
 
 -------- Temp = 0, move = 353--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 1 4 3 Fitness : 74.0
 
 -------- Temp = 0, move = 356--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 3 1 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 5 3 Fitness : 70.0
 
--------- Temp = 0, move = 358--------
+-------- Temp = 0, move = 360--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 3 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 5 2 4 Fitness : 61.0
 
 -------- Temp = 0, move = 362--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 2 1 Fitness : 55.0
-
--------- Temp = 0, move = 365--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 1 4 2 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 5 2 4 Fitness : 61.0
 
 -------- Temp = 0, move = 366--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 1 4 2 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 3 1 Fitness : 57.0
 
 -------- Temp = 0, move = 368--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 3 1 2 Fitness : 61.0
-
--------- Temp = 0, move = 369--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 4 5 1 3 2 Fitness : 75.0
 
--------- Temp = 0, move = 375--------
+-------- Temp = 0, move = 370--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 2 1 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 1 4 Fitness : 71.0
 
--------- Temp = 0, move = 376--------
+-------- Temp = 0, move = 373--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 3 1 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 3 1 5 Fitness : 60.0
 
--------- Temp = 0, move = 377--------
+-------- Temp = 0, move = 382--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 1 4 Fitness : 54.0
 
--------- Temp = 0, move = 380--------
+-------- Temp = 0, move = 386--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 4 2 5 Fitness : 65.0
-
--------- Temp = 0, move = 383--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 4 5 1 Fitness : 65.0
-
--------- Temp = 0, move = 389--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 3 5 1 2 4 Fitness : 55.0
 
 -------- Temp = 0, move = 390--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 1 2 5 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 4 1 2 Fitness : 54.0
+
+-------- Temp = 0, move = 391--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 1 4 Fitness : 56.0
 
 -------- Temp = 0, move = 397--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 5 3 2 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 2 5 Fitness : 56.0
 
 -------- Temp = 0, move = 398--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 5 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
 -------- Temp = 0, move = 401--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 5 4 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 2 5 Fitness : 56.0
 
 -------- Temp = 0, move = 403--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 1 5 2 Fitness : 55.0
-
--------- Temp = 0, move = 404--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 5 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 3 2 4 Fitness : 63.0
 
 -------- Temp = 0, move = 407--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 5 4 Fitness : 61.0
-
--------- Temp = 0, move = 409--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 2 5 3 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 3 4 5 Fitness : 68.0
 
 -------- Temp = 0, move = 410--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 2 5 1 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 3 4 5 Fitness : 72.0
 
 -------- Temp = 0, move = 415--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 1 3 Fitness : 58.0
-
--------- Temp = 0, move = 418--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 5 4 Fitness : 61.0
 
 -------- Temp = 0, move = 419--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 5 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
 
--------- Temp = 0, move = 422--------
+-------- Temp = 0, move = 426--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 5 4 2 Fitness : 71.0
-
--------- Temp = 0, move = 424--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 4 1 5 Fitness : 67.0
 
 -------- Temp = 0, move = 427--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 5 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 1 3 Fitness : 71.0
 
--------- Temp = 0, move = 431--------
+-------- Temp = 0, move = 428--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 4 5 3 Fitness : 75.0
 
--------- Temp = 0, move = 438--------
+-------- Temp = 0, move = 433--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 2 4 5 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 5 1 3 Fitness : 58.0
 
--------- Temp = 0, move = 442--------
+-------- Temp = 0, move = 436--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 1 3 Fitness : 47.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 5 2 Fitness : 55.0
+
+-------- Temp = 0, move = 439--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 3 1 2 Fitness : 47.0
+
+-------- Temp = 0, move = 443--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 2 1 3 Fitness : 61.0
 
 -------- Temp = 0, move = 444--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 3 1 2 Fitness : 61.0
-
--------- Temp = 0, move = 446--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 3 4 1 Fitness : 74.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 2 5 3 Fitness : 65.0
 
 -------- Temp = 0, move = 447--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 4 1 Fitness : 76.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 1 3 5 Fitness : 56.0
+
+-------- Temp = 0, move = 448--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 2 5 Fitness : 58.0
 
 -------- Temp = 0, move = 452--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
-
--------- Temp = 0, move = 454--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 3 4 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 2 1 3 Fitness : 61.0
 
 -------- Temp = 0, move = 456--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 3 2 1 Fitness : 60.0
 
--------- Temp = 0, move = 457--------
+-------- Temp = 0, move = 458--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 2 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 4 1 Fitness : 74.0
 
--------- Temp = 0, move = 460--------
+-------- Temp = 0, move = 461--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 3 2 4 Fitness : 65.0
-
--------- Temp = 0, move = 463--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 2 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 3 2 Fitness : 75.0
 
 -------- Temp = 0, move = 466--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 5 2 Fitness : 69.0
 
--------- Temp = 0, move = 468--------
+-------- Temp = 0, move = 469--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 1 3 2 Fitness : 57.0
 
--------- Temp = 0, move = 472--------
+-------- Temp = 0, move = 473--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 3 1 Fitness : 67.0
-
--------- Temp = 0, move = 475--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 1 5 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 2 1 3 Fitness : 61.0
 
 -------- Temp = 0, move = 477--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 3 1 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 2 4 Fitness : 55.0
 
 -------- Temp = 0, move = 478--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 5 4 Fitness : 65.0
 
--------- Temp = 0, move = 479--------
+-------- Temp = 0, move = 483--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 1 4 3 Fitness : 74.0
-
--------- Temp = 0, move = 482--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 2 4 1 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 1 3 5 Fitness : 56.0
 
 -------- Temp = 0, move = 485--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 3 4 5 Fitness : 68.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 2 5 Fitness : 58.0
 
--------- Temp = 0, move = 487--------
+-------- Temp = 0, move = 488--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 3 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
--------- Temp = 0, move = 490--------
+-------- Temp = 0, move = 489--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 4 1 2 Fitness : 54.0
-
--------- Temp = 0, move = 491--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 1 4 3 Fitness : 74.0
 
 -------- Temp = 0, move = 493--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 2 4 1 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 3 1 5 Fitness : 60.0
 
--------- Temp = 0, move = 495--------
+-------- Temp = 0, move = 496--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 2 4 1 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
--------- Temp = 0, move = 498--------
+-------- Temp = 0, move = 497--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 2 1 4 Fitness : 54.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 1 4 3 Fitness : 74.0
+
+-------- Temp = 0, move = 501--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 3 1 5 Fitness : 58.0
 
 -------- Temp = 0, move = 502--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 3 1 5 Fitness : 60.0
 
--------- Temp = 0, move = 510--------
+-------- Temp = 0, move = 503--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 5 1 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 1 4 Fitness : 71.0
 
--------- Temp = 0, move = 514--------
+-------- Temp = 0, move = 508--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 2 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 2 5 Fitness : 58.0
+
+-------- Temp = 0, move = 509--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 1 5 Fitness : 59.0
+
+-------- Temp = 0, move = 511--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 1 4 Fitness : 54.0
+
+-------- Temp = 0, move = 512--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 4 1 Fitness : 63.0
 
 -------- Temp = 0, move = 515--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 5 2 4 Fitness : 61.0
-
--------- Temp = 0, move = 516--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 5 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 3 4 5 Fitness : 72.0
 
 -------- Temp = 0, move = 517--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 5 4 Fitness : 78.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 4 1 Fitness : 63.0
 
--------- Temp = 0, move = 519--------
+-------- Temp = 0, move = 518--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 2 3 4 Fitness : 62.0
-
--------- Temp = 0, move = 522--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 5 3 4 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 2 3 1 Fitness : 75.0
 
 -------- Temp = 0, move = 523--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 2 3 4 Fitness : 62.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 4 2 3 Fitness : 63.0
 
--------- Temp = 0, move = 525--------
+-------- Temp = 0, move = 524--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 5 4 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 5 2 3 Fitness : 66.0
 
--------- Temp = 0, move = 529--------
+-------- Temp = 0, move = 527--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 4 2 5 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 5 4 1 Fitness : 58.0
 
--------- Temp = 0, move = 530--------
+-------- Temp = 0, move = 528--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 3 5 Fitness : 77.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 4 5 Fitness : 76.0
 
--------- Temp = 0, move = 532--------
+-------- Temp = 0, move = 531--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 4 2 5 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 4 2 Fitness : 63.0
 
--------- Temp = 0, move = 535--------
+-------- Temp = 0, move = 534--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 5 2 1 Fitness : 56.0
-
--------- Temp = 0, move = 536--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 2 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 4 1 Fitness : 59.0
 
 -------- Temp = 0, move = 537--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 4 1 2 Fitness : 54.0
 
--------- Temp = 0, move = 538--------
+-------- Temp = 0, move = 539--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 4 2 Fitness : 63.0
 
--------- Temp = 0, move = 543--------
+-------- Temp = 0, move = 540--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 1 3 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 4 2 Fitness : 73.0
 
--------- Temp = 0, move = 546--------
+-------- Temp = 0, move = 544--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 1 4 Fitness : 56.0
+
+-------- Temp = 0, move = 545--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 4 1 Fitness : 59.0
+
+-------- Temp = 0, move = 547--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 1 5 Fitness : 59.0
+
+-------- Temp = 0, move = 550--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 5 1 Fitness : 69.0
+
+-------- Temp = 0, move = 552--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 4 1 Fitness : 63.0
 
 -------- Temp = 0, move = 554--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 1 4 2 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 1 5 2 Fitness : 69.0
 
--------- Temp = 0, move = 561--------
+-------- Temp = 0, move = 556--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 5 1 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 2 5 4 Fitness : 60.0
+
+-------- Temp = 0, move = 557--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 2 3 4 Fitness : 62.0
+
+-------- Temp = 0, move = 558--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 2 4 Fitness : 65.0
+
+-------- Temp = 0, move = 559--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 3 2 5 Fitness : 72.0
 
 -------- Temp = 0, move = 562--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 4 5 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 3 2 1 Fitness : 60.0
 
 -------- Temp = 0, move = 564--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 1 3 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
 -------- Temp = 0, move = 568--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
 -------- Temp = 0, move = 570--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 1 4 2 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 4 2 3 Fitness : 65.0
 
--------- Temp = 0, move = 574--------
+-------- Temp = 0, move = 571--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 1 4 2 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 1 3 Fitness : 71.0
 
--------- Temp = 0, move = 575--------
+-------- Temp = 0, move = 573--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 5 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 1 3 Fitness : 71.0
 
--------- Temp = 0, move = 576--------
+-------- Temp = 0, move = 577--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 1 5 3 Fitness : 70.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
 
--------- Temp = 0, move = 578--------
+-------- Temp = 0, move = 579--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 4 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 2 3 Fitness : 60.0
 
 -------- Temp = 0, move = 581--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 5 1 Fitness : 70.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 5 2 4 Fitness : 65.0
 
--------- Temp = 0, move = 585--------
+-------- Temp = 0, move = 583--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 4 2 3 Fitness : 65.0
+
+-------- Temp = 0, move = 584--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 2 4 3 Fitness : 73.0
+
+-------- Temp = 0, move = 589--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 4 2 Fitness : 73.0
+
+-------- Temp = 0, move = 592--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 2 5 1 4 3 Fitness : 60.0
 
--------- Temp = 0, move = 590--------
+-------- Temp = 0, move = 597--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 2 4 5 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 3 5 4 Fitness : 61.0
 
--------- Temp = 0, move = 593--------
+-------- Temp = 0, move = 599--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 2 4 5 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 2 3 4 Fitness : 62.0
 
--------- Temp = 0, move = 594--------
+-------- Temp = 0, move = 601--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 4 2 5 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 2 3 4 Fitness : 78.0
 
--------- Temp = 0, move = 595--------
+-------- Temp = 0, move = 609--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 2 5 Fitness : 72.0
-
--------- Temp = 0, move = 598--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
-
--------- Temp = 0, move = 603--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 3 1 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 3 2 1 Fitness : 56.0
 
 -------- Temp = 0, move = 610--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 5 1 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 2 4 Fitness : 65.0
 
 -------- Temp = 0, move = 612--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 3 1 5 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 5 2 4 Fitness : 65.0
 
--------- Temp = 0, move = 614--------
+-------- Temp = 0, move = 613--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 1 3 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
 
--------- Temp = 0, move = 617--------
+-------- Temp = 0, move = 616--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 2 5 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 5 4 1 Fitness : 58.0
 
--------- Temp = 0, move = 618--------
+-------- Temp = 0, move = 619--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 2 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 5 2 Fitness : 55.0
 
 -------- Temp = 0, move = 622--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 3 1 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 5 2 Fitness : 55.0
+
+-------- Temp = 0, move = 623--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 2 5 Fitness : 58.0
+
+-------- Temp = 0, move = 625--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
+
+-------- Temp = 0, move = 627--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
 -------- Temp = 0, move = 629--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 5 4 3 Fitness : 68.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 4 1 Fitness : 74.0
 
--------- Temp = 0, move = 633--------
+-------- Temp = 0, move = 631--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 5 1 Fitness : 61.0
-
--------- Temp = 0, move = 635--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 1 2 4 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 4 1 Fitness : 74.0
 
 -------- Temp = 0, move = 636--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 2 5 4 Fitness : 60.0
 
 -------- Temp = 0, move = 638--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 2 1 5 Fitness : 59.0
-
--------- Temp = 0, move = 643--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 2 5 Fitness : 56.0
-
--------- Temp = 0, move = 644--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 1 2 5 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 4 1 2 Fitness : 56.0
 
 -------- Temp = 0, move = 646--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 1 4 2 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 1 2 3 Fitness : 56.0
 
--------- Temp = 0, move = 648--------
+-------- Temp = 0, move = 647--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 1 4 5 Fitness : 76.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 5 2 3 Fitness : 66.0
 
--------- Temp = 0, move = 651--------
+-------- Temp = 0, move = 649--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 1 4 3 5 2 Fitness : 69.0
-
--------- Temp = 0, move = 653--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
 
 -------- Temp = 0, move = 658--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 3 2 Fitness : 62.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 4 2 5 Fitness : 61.0
 
--------- Temp = 0, move = 660--------
+-------- Temp = 0, move = 663--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 3 2 Fitness : 69.0
-
--------- Temp = 0, move = 662--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 3 1 2 Fitness : 61.0
-
--------- Temp = 0, move = 664--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 5 2 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 5 4 2 Fitness : 71.0
 
 -------- Temp = 0, move = 665--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 5 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 4 2 5 Fitness : 65.0
 
--------- Temp = 0, move = 667--------
+-------- Temp = 0, move = 671--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 3 2 Fitness : 75.0
-
--------- Temp = 0, move = 670--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 5 2 1 Fitness : 56.0
 
 -------- Temp = 0, move = 675--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 3 4 2 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 5 1 4 Fitness : 53.0
+
+-------- Temp = 0, move = 676--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 5 1 3 Fitness : 60.0
 
 -------- Temp = 0, move = 677--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 1 3 Fitness : 71.0
 
--------- Temp = 0, move = 678--------
+-------- Temp = 0, move = 680--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
--------- Temp = 0, move = 679--------
+-------- Temp = 0, move = 683--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 3 1 2 Fitness : 61.0
 
--------- Temp = 0, move = 685--------
+-------- Temp = 0, move = 684--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 2 3 Fitness : 60.0
-
--------- Temp = 0, move = 687--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 3 1 Fitness : 57.0
-
--------- Temp = 0, move = 688--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 3 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 3 2 Fitness : 75.0
 
 -------- Temp = 0, move = 689--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 3 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 5 2 1 Fitness : 58.0
 
--------- Temp = 0, move = 691--------
+-------- Temp = 0, move = 690--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 3 1 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 5 2 3 Fitness : 72.0
 
--------- Temp = 0, move = 692--------
+-------- Temp = 0, move = 693--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 1 4 5 Fitness : 58.0
+
+-------- Temp = 0, move = 694--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
 -------- Temp = 0, move = 695--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 1 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 1 4 2 Fitness : 63.0
 
 -------- Temp = 0, move = 696--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 3 1 4 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 4 2 Fitness : 73.0
 
--------- Temp = 0, move = 698--------
+-------- Temp = 0, move = 700--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 3 4 5 Fitness : 68.0
-
--------- Temp = 0, move = 699--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 3 1 2 Fitness : 61.0
 
 -------- Temp = 0, move = 701--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 2 4 1 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 5 2 Fitness : 65.0
 
 -------- Temp = 0, move = 702--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 2 4 3 Fitness : 73.0
-
--------- Temp = 0, move = 705--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 2 5 4 Fitness : 60.0
-
--------- Temp = 0, move = 706--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 2 3 4 Fitness : 62.0
-
--------- Temp = 0, move = 712--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 3 1 5 Fitness : 58.0
-
--------- Temp = 0, move = 715--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 3 1 4 Fitness : 55.0
-
--------- Temp = 0, move = 719--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 1 4 Fitness : 67.0
-
--------- Temp = 0, move = 720--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 3 1 4 Fitness : 71.0
-
--------- Temp = 0, move = 723--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 4 1 3 2 5 Fitness : 66.0
 
--------- Temp = 0, move = 725--------
+-------- Temp = 0, move = 703--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 5 2 3 Fitness : 72.0
+
+-------- Temp = 0, move = 708--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 1 4 Fitness : 54.0
+
+-------- Temp = 0, move = 711--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 2 1 4 Fitness : 54.0
+
+-------- Temp = 0, move = 713--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 4 2 1 Fitness : 55.0
+
+-------- Temp = 0, move = 714--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 4 3 5 2 1 Fitness : 58.0
 
--------- Temp = 0, move = 726--------
+-------- Temp = 0, move = 717--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 3 2 1 Fitness : 60.0
 
--------- Temp = 0, move = 727--------
+-------- Temp = 0, move = 722--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
-
--------- Temp = 0, move = 728--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 2 3 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 4 5 1 Fitness : 61.0
 
 -------- Temp = 0, move = 730--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 2 3 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 3 4 1 Fitness : 60.0
 
--------- Temp = 0, move = 732--------
+-------- Temp = 0, move = 735--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 1 2 Fitness : 59.0
-
--------- Temp = 0, move = 733--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
-
--------- Temp = 0, move = 736--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
-
--------- Temp = 0, move = 738--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 3 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 5 4 3 Fitness : 72.0
 
 -------- Temp = 0, move = 739--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 1 3 2 Fitness : 75.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 5 1 4 Fitness : 53.0
+
+-------- Temp = 0, move = 740--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 5 4 1 Fitness : 58.0
+
+-------- Temp = 0, move = 741--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 3 4 1 Fitness : 60.0
+
+-------- Temp = 0, move = 742--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 3 4 5 Fitness : 72.0
 
 -------- Temp = 0, move = 744--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 3 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 3 1 5 Fitness : 60.0
 
--------- Temp = 0, move = 748--------
+-------- Temp = 0, move = 745--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 4 1 2 Fitness : 54.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 1 4 Fitness : 71.0
 
--------- Temp = 0, move = 749--------
+-------- Temp = 0, move = 747--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 3 1 2 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 3 4 1 Fitness : 60.0
 
 -------- Temp = 0, move = 750--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 3 4 2 Fitness : 73.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 3 5 4 Fitness : 61.0
 
--------- Temp = 0, move = 754--------
+-------- Temp = 0, move = 752--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 5 3 2 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 5 4 3 Fitness : 68.0
+
+-------- Temp = 0, move = 753--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 5 4 3 Fitness : 72.0
 
 -------- Temp = 0, move = 755--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 5 4 2 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 5 4 3 Fitness : 72.0
 
--------- Temp = 0, move = 760--------
+-------- Temp = 0, move = 756--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 1 3 Fitness : 47.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 5 4 1 Fitness : 76.0
+
+-------- Temp = 0, move = 759--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 4 2 5 Fitness : 65.0
 
 -------- Temp = 0, move = 761--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 3 1 2 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 3 1 Fitness : 67.0
 
--------- Temp = 0, move = 763--------
+-------- Temp = 0, move = 764--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 3 1 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 4 1 Fitness : 59.0
 
--------- Temp = 0, move = 765--------
+-------- Temp = 0, move = 767--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 2 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 2 3 Fitness : 60.0
 
 -------- Temp = 0, move = 768--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 3 1 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 5 3 Fitness : 70.0
 
 -------- Temp = 0, move = 769--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 4 5 3 Fitness : 75.0
 
--------- Temp = 0, move = 774--------
+-------- Temp = 0, move = 773--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 4 1 2 Fitness : 54.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 4 5 3 Fitness : 75.0
 
--------- Temp = 0, move = 775--------
+-------- Temp = 0, move = 776--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 4 2 3 Fitness : 63.0
 
 -------- Temp = 0, move = 777--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 4 5 2 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 2 4 Fitness : 65.0
 
--------- Temp = 0, move = 779--------
+-------- Temp = 0, move = 780--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 5 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 1 4 Fitness : 56.0
 
--------- Temp = 0, move = 784--------
+-------- Temp = 0, move = 782--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 2 1 3 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 4 1 2 Fitness : 56.0
 
--------- Temp = 0, move = 786--------
+-------- Temp = 0, move = 785--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 1 5 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
 -------- Temp = 0, move = 787--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 5 1 Fitness : 70.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
--------- Temp = 0, move = 790--------
+-------- Temp = 0, move = 795--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 2 5 1 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 2 4 3 Fitness : 55.0
 
--------- Temp = 0, move = 791--------
+-------- Temp = 0, move = 796--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 5 1 Fitness : 70.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 2 4 3 Fitness : 73.0
 
--------- Temp = 0, move = 792--------
+-------- Temp = 0, move = 801--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 3 1 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 3 1 5 Fitness : 60.0
 
--------- Temp = 0, move = 793--------
+-------- Temp = 0, move = 804--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 5 3 4 Fitness : 77.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 1 3 2 5 Fitness : 66.0
 
--------- Temp = 0, move = 802--------
+-------- Temp = 0, move = 809--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 5 1 Fitness : 61.0
-
--------- Temp = 0, move = 803--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 2 5 1 Fitness : 69.0
-
--------- Temp = 0, move = 806--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 5 1 Fitness : 70.0
-
--------- Temp = 0, move = 807--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 3 5 4 Fitness : 75.0
-
--------- Temp = 0, move = 808--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 5 3 4 Fitness : 77.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 1 4 Fitness : 56.0
 
 -------- Temp = 0, move = 811--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 4 5 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 5 3 4 Fitness : 59.0
+
+-------- Temp = 0, move = 812--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 5 2 4 Fitness : 61.0
 
 -------- Temp = 0, move = 813--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 3 2 1 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 4 2 5 Fitness : 65.0
 
--------- Temp = 0, move = 814--------
+-------- Temp = 0, move = 815--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 3 2 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
 -------- Temp = 0, move = 816--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 4 5 3 2 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 3 1 Fitness : 65.0
 
--------- Temp = 0, move = 818--------
+-------- Temp = 0, move = 819--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 3 5 4 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 4 5 3 Fitness : 61.0
 
--------- Temp = 0, move = 821--------
+-------- Temp = 0, move = 823--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 2 3 4 Fitness : 62.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 4 3 Fitness : 60.0
 
--------- Temp = 0, move = 825--------
+-------- Temp = 0, move = 828--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 2 3 4 Fitness : 62.0
-
--------- Temp = 0, move = 826--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 1 3 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
 -------- Temp = 0, move = 829--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 5 1 4 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 5 1 3 Fitness : 58.0
 
--------- Temp = 0, move = 830--------
+-------- Temp = 0, move = 831--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 5 3 4 Fitness : 77.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 5 1 3 Fitness : 60.0
 
--------- Temp = 0, move = 832--------
+-------- Temp = 0, move = 833--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 4 3 1 Fitness : 65.0
-
--------- Temp = 0, move = 835--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 3 2 1 Fitness : 56.0
-
--------- Temp = 0, move = 836--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 3 1 Fitness : 57.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
 -------- Temp = 0, move = 837--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 2 3 5 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 2 1 4 Fitness : 56.0
 
--------- Temp = 0, move = 838--------
+-------- Temp = 0, move = 842--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 2 3 4 Fitness : 78.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 1 5 2 Fitness : 55.0
 
--------- Temp = 0, move = 843--------
+-------- Temp = 0, move = 844--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 5 2 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 5 1 Fitness : 69.0
 
--------- Temp = 0, move = 846--------
+-------- Temp = 0, move = 845--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 3 1 2 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
+
+-------- Temp = 0, move = 847--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
 
 -------- Temp = 0, move = 849--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
 
--------- Temp = 0, move = 851--------
+-------- Temp = 0, move = 853--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
-
--------- Temp = 0, move = 852--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 5 3 1 4 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 5 4 2 Fitness : 57.0
 
 -------- Temp = 0, move = 854--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 5 4 3 Fitness : 72.0
 
--------- Temp = 0, move = 855--------
+-------- Temp = 0, move = 858--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 1 4 3 Fitness : 74.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 3 1 Fitness : 57.0
 
--------- Temp = 0, move = 862--------
+-------- Temp = 0, move = 859--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 1 3 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 3 1 Fitness : 65.0
 
--------- Temp = 0, move = 865--------
+-------- Temp = 0, move = 864--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 3 2 4 Fitness : 63.0
-
--------- Temp = 0, move = 866--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 5 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 5 4 1 2 Fitness : 54.0
 
 -------- Temp = 0, move = 868--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 4 1 5 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 2 1 5 Fitness : 59.0
 
--------- Temp = 0, move = 870--------
+-------- Temp = 0, move = 871--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 2 4 5 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 2 4 5 Fitness : 57.0
 
--------- Temp = 0, move = 872--------
+-------- Temp = 0, move = 874--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 3 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 2 4 3 Fitness : 73.0
 
--------- Temp = 0, move = 876--------
+-------- Temp = 0, move = 879--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 1 5 4 2 Fitness : 57.0
-
--------- Temp = 0, move = 877--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 5 4 1 Fitness : 58.0
-
--------- Temp = 0, move = 878--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 5 4 3 Fitness : 68.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 4 1 2 Fitness : 56.0
 
 -------- Temp = 0, move = 881--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 4 2 3 Fitness : 63.0
-
--------- Temp = 0, move = 883--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 2 3 4 Fitness : 62.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 3 4 1 2 Fitness : 56.0
 
 -------- Temp = 0, move = 884--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 3 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 3 1 Fitness : 65.0
 
--------- Temp = 0, move = 886--------
+-------- Temp = 0, move = 885--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 3 2 4 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 4 1 Fitness : 74.0
 
--------- Temp = 0, move = 893--------
+-------- Temp = 0, move = 890--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 2 1 4 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 5 1 3 Fitness : 58.0
 
--------- Temp = 0, move = 895--------
+-------- Temp = 0, move = 897--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 2 1 5 Fitness : 59.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 4 3 5 Fitness : 59.0
 
--------- Temp = 0, move = 900--------
+-------- Temp = 0, move = 901--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 4 1 5 2 Fitness : 55.0
-
--------- Temp = 0, move = 902--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 1 2 3 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
 
 -------- Temp = 0, move = 904--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 4 5 3 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 4 1 5 Fitness : 53.0
 
--------- Temp = 0, move = 909--------
+-------- Temp = 0, move = 905--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 4 5 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 4 1 5 Fitness : 67.0
+
+-------- Temp = 0, move = 910--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 4 1 3 5 Fitness : 56.0
 
 -------- Temp = 0, move = 911--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 4 2 5 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 1 4 3 5 Fitness : 59.0
 
--------- Temp = 0, move = 913--------
+-------- Temp = 0, move = 912--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 3 1 Fitness : 65.0
 
--------- Temp = 0, move = 916--------
+-------- Temp = 0, move = 915--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 1 4 Fitness : 71.0
 
--------- Temp = 0, move = 918--------
+-------- Temp = 0, move = 917--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 3 2 1 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 2 5 4 Fitness : 78.0
+
+-------- Temp = 0, move = 920--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 2 3 Fitness : 60.0
 
 -------- Temp = 0, move = 922--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 4 3 2 1 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 2 3 Fitness : 60.0
 
--------- Temp = 0, move = 925--------
+-------- Temp = 0, move = 924--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 3 4 1 2 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 1 3 4 Fitness : 67.0
 
--------- Temp = 0, move = 927--------
+-------- Temp = 0, move = 926--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 3 1 4 Fitness : 71.0
 
--------- Temp = 0, move = 931--------
+-------- Temp = 0, move = 928--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 5 4 1 Fitness : 58.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 3 2 Fitness : 75.0
+
+-------- Temp = 0, move = 930--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 4 3 5 Fitness : 77.0
 
 -------- Temp = 0, move = 932--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 5 4 3 Fitness : 68.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 4 3 5 Fitness : 77.0
 
--------- Temp = 0, move = 935--------
+-------- Temp = 0, move = 936--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 2 1 Fitness : 58.0
-
--------- Temp = 0, move = 937--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 3 2 5 Fitness : 66.0
-
--------- Temp = 0, move = 938--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 2 3 5 Fitness : 67.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 1 4 2 5 Fitness : 61.0
 
 -------- Temp = 0, move = 942--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 2 5 1 Fitness : 55.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 3 1 2 Fitness : 61.0
 
--------- Temp = 0, move = 943--------
+-------- Temp = 0, move = 946--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 5 2 1 Fitness : 58.0
-
--------- Temp = 0, move = 945--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 3 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 
 -------- Temp = 0, move = 947--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 5 1 4 2 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 1 3 Fitness : 71.0
 
--------- Temp = 0, move = 953--------
+-------- Temp = 0, move = 949--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 4 3 2 Fitness : 78.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 2 4 1 3 Fitness : 71.0
+
+-------- Temp = 0, move = 952--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 1 3 2 Fitness : 57.0
+
+-------- Temp = 0, move = 954--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 3 5 2 Fitness : 69.0
 
 -------- Temp = 0, move = 955--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 1 5 3 2 Fitness : 69.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 5 3 4 2 Fitness : 73.0
 
 -------- Temp = 0, move = 959--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 3 2 Fitness : 62.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 3 2 5 Fitness : 72.0
 
--------- Temp = 0, move = 962--------
+-------- Temp = 0, move = 964--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 4 5 3 Fitness : 61.0
-
--------- Temp = 0, move = 963--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 5 3 Fitness : 75.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 5 2 4 Fitness : 61.0
 
 -------- Temp = 0, move = 965--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 5 3 Fitness : 75.0
-
--------- Temp = 0, move = 968--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 2 4 1 3 Fitness : 71.0
-
--------- Temp = 0, move = 969--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 5 3 Fitness : 75.0
-
--------- Temp = 0, move = 972--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 5 4 2 3 Fitness : 63.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 4 2 5 Fitness : 65.0
 
 -------- Temp = 0, move = 973--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 5 1 4 2 3 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 1 3 2 Fitness : 57.0
 
--------- Temp = 0, move = 978--------
+-------- Temp = 0, move = 975--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 4 5 3 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 3 2 1 Fitness : 60.0
+
+-------- Temp = 0, move = 976--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 1 3 2 4 Fitness : 63.0
 
 -------- Temp = 0, move = 979--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 4 5 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 1 2 3 Fitness : 56.0
 
 -------- Temp = 0, move = 980--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 3 5 1 Fitness : 70.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 5 4 1 3 2 Fitness : 57.0
 
--------- Temp = 0, move = 981--------
+-------- Temp = 0, move = 982--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 5 3 1 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 4 3 5 2 Fitness : 69.0
 
--------- Temp = 0, move = 983--------
+-------- Temp = 0, move = 984--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 1 3 5 4 Fitness : 75.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 3 5 4 2 Fitness : 71.0
 
--------- Temp = 0, move = 986--------
+-------- Temp = 0, move = 988--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 4 1 3 5 Fitness : 56.0
-
--------- Temp = 0, move = 989--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 1 3 5 Fitness : 72.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 4 1 5 Fitness : 53.0
 
 -------- Temp = 0, move = 990--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 3 2 1 4 5 Fitness : 76.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 4 1 5 Fitness : 67.0
 
--------- Temp = 0, move = 994--------
+-------- Temp = 0, move = 993--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 1 5 4 Fitness : 61.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 2 1 5 4 Fitness : 65.0
 
 -------- Temp = 0, move = 995--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 2 3 4 5 1 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 5 3 Fitness : 70.0
+
+-------- Temp = 0, move = 996--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 2 1 3 5 Fitness : 72.0
 
 -------- Temp = 0, move = 997--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 3 4 2 5 Fitness : 65.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 1 3 2 Fitness : 75.0
 
--------- Temp = 0, move = 998--------
+-------- Temp = 1, move = 28--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 3 5 Fitness : 77.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 3 4 5 2 1 Fitness : 56.0
 
--------- Temp = 0, move = 1000--------
+-------- Temp = 1, move = 34--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 1 2 4 3 5 Fitness : 77.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 5 2 1 Fitness : 58.0
 
--------- Temp = 1, move = 336--------
+-------- Temp = 1, move = 38--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 1 3 Fitness : 47.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 1 2 5 3 4 Fitness : 59.0
 
--------- Temp = 1, move = 473--------
+-------- Temp = 1, move = 56--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 1 3 Fitness : 47.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 3 2 1 Fitness : 56.0
 
--------- Temp = 1, move = 509--------
+-------- Temp = 1, move = 68--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 1 3 Fitness : 47.0
-
--------- Temp = 1, move = 537--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 5 2 1 3 Fitness : 47.0
-
--------- Temp = 1, move = 646--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 2 5 1 Fitness : 55.0
-
--------- Temp = 1, move = 693--------
-
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 4 2 5 3 1 Fitness : 56.0
 
--------- Temp = 1, move = 694--------
+-------- Temp = 1, move = 76--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 2 5 1 3 Fitness : 60.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 2 5 1 Fitness : 55.0
 
--------- Temp = 1, move = 841--------
+-------- Temp = 1, move = 89--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
-Solution opt : 4 3 1 2 5 Fitness : 56.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 3 2 1 Fitness : 56.0
 
--------- Temp = 1, move = 908--------
+-------- Temp = 1, move = 92--------
 
-Solution min : 4 3 2 1 5 Fitness : 43.0
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 3 1 Fitness : 57.0
+
+-------- Temp = 1, move = 95--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 3 2 5 1 Fitness : 55.0
+
+-------- Temp = 1, move = 104--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 3 1 Fitness : 57.0
+
+-------- Temp = 1, move = 206--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
 Solution opt : 4 5 2 1 3 Fitness : 47.0
+
+-------- Temp = 1, move = 268--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
+
+-------- Temp = 1, move = 408--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
+
+-------- Temp = 1, move = 548--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
+
+-------- Temp = 1, move = 581--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
+
+-------- Temp = 1, move = 717--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
+
+-------- Temp = 1, move = 798--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 4 5 2 1 3 Fitness : 47.0
+
+-------- Temp = 1, move = 984--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 3 4 1 5 Fitness : 53.0
+
+-------- Temp = 1, move = 987--------
+
+Solution min : 3 4 5 1 2 Fitness : 43.0
+Solution opt : 2 5 4 1 3 Fitness : 55.0
 

@@ -4,7 +4,7 @@ public class main {
     public static void main (String[] args) {
 
         long timeLaunch = System.currentTimeMillis();
-        launchTabou();
+        launchRecuitSimule();
         long timeToExecute = System.currentTimeMillis() - timeLaunch;
 
         System.out.println("\nTemps d'éxecution : " + timeToExecute + " ms");

@@ -10,12 +10,19 @@ public class Logger {
     private FileWriter fileWriter;
     private File logFile;
 
-    public Logger(String filename, String algo) {
+    public Logger(String filename, String algo, String logType) {
         this.filename = filename;
 
         try {
-            String file = this.filename + ".txt";
-            logFile = new File("./src/main/resources/logs/" + algo + "/" + file);
+
+            if("log".equals(logType)) {
+                String file = this.filename + ".txt";
+                logFile = new File("./src/main/resources/logs/" + algo + "/" + file);
+            } else {
+                String file = this.filename + ".csv";
+                logFile = new File("./src/main/resources/results/" + algo + "/" + file);
+            }
+
             fileWriter = new FileWriter(logFile);
         } catch (IOException e) {
             e.printStackTrace();
@@ -54,6 +61,30 @@ public class Logger {
             fileWriter.write("-------- Temp = " + temp + ", move = " + move + "--------\n");
 
             this.writeLogInFile(solutionMin, solutionOptimale);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void writeResultsInFileTabou() {
+
+    }
+
+    public void writeResultsInFileRecuitSimule() {
+
+    }
+
+    public void initializeFirstLineResultsTabou() {
+        try {
+            fileWriter.write("Id; nom_fichier; taille_tabou; iteration; fitness; fitness_optimisee\n");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void initializeFirstLineResultsRecuitSimule() {
+        try {
+            fileWriter.write("Id; nom_fichier; coefficient_temp; changement_temp; mouvements_temp; temperature_initiale; fitness; fitness_optimisee\n");
         } catch (IOException e) {
             e.printStackTrace();
         }

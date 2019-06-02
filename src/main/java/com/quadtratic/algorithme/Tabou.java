@@ -17,8 +17,12 @@ public class Tabou extends Algorithm {
         this.tabouListSize = tabouListSize;
         this.tabouList = new ArrayList<>();
 
+        String filename = "tabou" + "_" + quadratic.getSize()+ "_" + maxIter + "_" + tabouListSize;
+        this.loggerResults = new Logger(filename, "tabou", "results");
+        this.loggerResults.initializeFirstLineResultsTabou();
+
         if(log) {
-            this.logger = new Logger(quadratic.getFileName(), "tabou");
+            this.logger = new Logger(quadratic.getFileName(), "tabou", "log");
         } else {
             this.logger = null;
         }
@@ -49,6 +53,8 @@ public class Tabou extends Algorithm {
             }
             this.quadratic.setSolution(sOptimale);
 
+            this.loggerResults.writeResultsInFileTabou();
+
             if(log) {
                 // On écrit les logs dans un fichier
                 this.logger.writeLogInFileTabou(this.solutionMin, this.quadratic.getSolution(), i);
@@ -64,6 +70,8 @@ public class Tabou extends Algorithm {
         if(log) {
             this.logger.closeFile();
         }
+
+        this.loggerResults.closeFile();
 
         return solutionMin;
     }
