@@ -52,7 +52,7 @@ public class Tabou extends Algorithm {
             }
             this.quadratic.setSolution(sOptimale);
 
-            this.loggerResults.writeResultsInFileTabou();
+            this.loggerResults.writeResultsInFileTabou(i + 1, loggerResults.getFilename(), tabouListSize, i, solutionMin.getFitness(), quadratic.getSolution().getFitness());
 
             if(log) {
                 // On écrit les logs dans un fichier

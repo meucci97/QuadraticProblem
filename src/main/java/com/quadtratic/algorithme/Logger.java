@@ -11,6 +11,10 @@ public class Logger {
     private File logFile;
     private File resultsFile;
 
+    public String getFilename() {
+        return filename;
+    }
+
     public Logger(String filename, String algo) {
         this.filename = filename;
 
@@ -89,17 +93,28 @@ public class Logger {
         }
     }
 
-    public void writeResultsInFileTabou() {
-
+    public void writeResultsInFileTabou(int id, String filename, int tabouSize, int iteration, double fitness, double fitnessOpt) {
+        try {
+            fileWriter.write("\n" + id + ";" + filename + ";" + tabouSize + ";" + iteration + ";" + fitness + ";" + fitnessOpt);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
-    public void writeResultsInFileRecuitSimule() {
-
+    public void writeResultsInFileRecuitSimule(int id, String filename, double coeffInit, double coeff, int changesOfTemps,
+                                               int temp, int movesAtTemp, int move, double tempInit, double fitness,
+                                               double fitnessOpt) {
+        try {
+            fileWriter.write("\n" + id + ";" + filename + ";" + coeffInit + ";" + coeff + ";" + changesOfTemps + ";" + temp
+                    + ";" + movesAtTemp + ";" + move + ";" + tempInit + ";" + fitness + ";" + fitnessOpt);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public void initializeFirstLineResultsTabou() {
         try {
-            fileWriter.write("Id; nom_fichier; taille_tabou; iteration; fitness; fitness_optimisee\n");
+            fileWriter.write("Id;nom_fichier;taille_tabou;iteration;fitness;fitness_optimisee");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -107,7 +122,7 @@ public class Logger {
 
     public void initializeFirstLineResultsRecuitSimule() {
         try {
-            fileWriter.write("Id; nom_fichier; coefficient_temp; changement_temp; mouvements_temp; temperature_initiale; fitness; fitness_optimisee\n");
+            fileWriter.write("Id;nom_fichier;coefficient_temp;changement_temp;mouvements_temp;temperature_initiale;fitness;fitness_optimisee");
         } catch (IOException e) {
             e.printStackTrace();
         }
