@@ -14,7 +14,7 @@ public abstract class Algorithm implements Callable<Solution> {
         Solution result = this.evaluateSolution();
         long timeToExecute = System.currentTimeMillis() - timeLaunch;
 
-        System.out.println("\nTemps d'éxecution : " + timeToExecute + " ms");
+        System.out.println(this.quadratic.getFileName()+ " with " + this.nbIteration +" - Execution : " + timeToExecute + " ms");
 
         return result;
     }
@@ -24,12 +24,14 @@ public abstract class Algorithm implements Callable<Solution> {
     protected boolean log;
     protected Solution solutionMin;
     protected Logger loggerResults;
+    protected int nbIteration;
 
-    public Algorithm(Quadratic quadratic, Solution solutionInitiale, boolean log) {
+    public Algorithm(Quadratic quadratic, Solution solutionInitiale, boolean log, int nbIteration) {
         this.quadratic = quadratic;
         this.solutionInitiale = solutionInitiale;
         this.solutionMin = solutionInitiale;
         this.log = log;
+        this.nbIteration = nbIteration;
     }
 
     public abstract Solution evaluateSolution();
