@@ -1,13 +1,56 @@
 package com.quadtratic.algorithme;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
+
 public class main {
+    public final static int MAX_ITER = 2000;
+
     public static void main (String[] args) {
+        int maxIter;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Choisir Type d'algo (0 -> Tabou, 1->Recuit)");
+        boolean tabou = sc.nextLine() == "0";
+        System.out.println("Taille du jeu de donnée tai0");
+        int tabouMaxSize =Integer.parseInt(sc.nextLine());
+        String tailFileName = "tai"+tabouMaxSize+"a.dat";
 
         long timeLaunch = System.currentTimeMillis();
-        launchRecuitSimule();
+        ArrayList<Algorithm> tasks = new ArrayList<Algorithm>();
+
+        for (int tabouSize = 1; tabouSize < tabouMaxSize; tabouSize++) {
+            Quadratic q = new Quadratic(tailFileName);
+            Solution s = new Solution(12);
+            //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
+            Tabou t = new Tabou(q, s, true, MAX_ITER, tabouSize);
+            tasks.add(t);
+        }
+
+        int processors = Runtime.getRuntime().availableProcessors();
+
+        ExecutorService myService = Executors.newFixedThreadPool(processors);
+        try {
+            List<Future<Solution>> solutions = myService.invokeAll(tasks);
+            for (Future<Solution> future : solutions) {
+                Solution cc = future.get();
+                cc.affiche();
+            }
+            System.out.println("DONE");
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (ExecutionException e) {
+            e.printStackTrace();
+        }
+
         long timeToExecute = System.currentTimeMillis() - timeLaunch;
 
-        System.out.println("\nTemps d'éxecution : " + timeToExecute + " ms");
+        System.out.println("\nTemps d'éxecution Total: " + timeToExecute + " ms");
+
     }
 
     private static void launchTabou() {
@@ -19,10 +62,10 @@ public class main {
         //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
         s2.setSolution(i);
 
-        Tabou t = new Tabou(q2, s2, true, 1000, 9);
+        Tabou t = new Tabou(q2, s2, true, 2000, 9);
         Solution solutionTabou = t.evaluateSolution();
 
-        System.out.println("Fitness: " + solutionTabou.getFitness() * 2);
+        System.out.println("Fitness: " + solutionTabou.getFitness());
 
         results(solutionTabou);
     }

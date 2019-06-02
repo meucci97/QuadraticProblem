@@ -1,8 +1,24 @@
 package com.quadtratic.algorithme;
 
-public abstract class Algorithm {
+import java.util.concurrent.Callable;
+
+public abstract class Algorithm implements Callable<Solution> {
 
     protected Quadratic quadratic;
+
+    @Override
+    public Solution call() throws Exception {
+
+        long timeLaunch = System.currentTimeMillis();
+
+        Solution result = this.evaluateSolution();
+        long timeToExecute = System.currentTimeMillis() - timeLaunch;
+
+        System.out.println("\nTemps d'éxecution : " + timeToExecute + " ms");
+
+        return result;
+    }
+
     protected Solution solutionInitiale;
     protected Logger logger;
     protected boolean log;
