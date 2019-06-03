@@ -12,13 +12,15 @@ public class main {
 
     // Recuit
     public final static int MOVES_AT_TEMP = 1000;
-    public final static double TEMPREATURE_DECREASE_COEF = 0.1;
-    public final static double INITILIAL_TEMPERATURE = 18;
+    public final static double TEMPERATURE_DECREASE_COEFF = 0.1;
+    public final static double INITIALE_TEMPERATURE = 1000;
     public final static int CHANGE_OF_TEMP = 100;
 
     public static void main (String[] args) {
 
-        launchAllTailTabouParallel();
+        launchAllTailRecuitParallel();
+
+        //launchAllTailTabouParallel();
         /*
         Scanner sc = new Scanner(System.in);
         System.out.println("Choisir Type d'algo (0 -> Tabou, 1->Recuit)");
@@ -44,7 +46,7 @@ public class main {
 //        //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
 //        s2.setSolution(i);
         Solution s = new Solution(80);
-        Tabou t = new Tabou(q2, s, true, 2000, 70);
+        Tabou t = new Tabou(q2, s, false, 2000, 70);
         Solution solutionTabou = t.evaluateSolution();
 
         System.out.println("Fitness: " + solutionTabou.getFitness());
@@ -53,14 +55,14 @@ public class main {
     }
 
     private static void launchRecuitSimule() {
-        Quadratic q3 = new Quadratic("test.dat");
+        Quadratic q3 = new Quadratic("tai12a.dat");
         q3.affiche();
         Solution s3 = new Solution();
 
         int[] i= {1, 3, 4, 5, 2};
         s3.setSolution(i);
 
-        RecuitSimule r = new RecuitSimule(q3, s3, true, 0.1, 1000, 100, 18);
+        RecuitSimule r = new RecuitSimule(q3, s3, true, 0.1, 10, 250, 10);
         Solution solutionRecuit = r.evaluateSolution();
 
         results(solutionRecuit);
@@ -110,12 +112,15 @@ public class main {
 
         long timeLaunch = System.currentTimeMillis();
         ArrayList<Algorithm> tasks = new ArrayList<Algorithm>();
-        for(int changeOfTemp = CHANGE_OF_TEMP; changeOfTemp <= 2000; changeOfTemp= changeOfTemp+100){
-            Quadratic q = new Quadratic(tailFileName);
-            Solution s = new Solution(taiSize);
-            //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
-            RecuitSimule r = new RecuitSimule(q, s, true, TEMPREATURE_DECREASE_COEF, MOVES_AT_TEMP, changeOfTemp, INITILIAL_TEMPERATURE);
-            tasks.add(r);
+        for(double initial_temperature = INITIALE_TEMPERATURE; initial_temperature <= 10000; initial_temperature = initial_temperature + 1500) {
+            for(double coeff = TEMPERATURE_DECREASE_COEFF; coeff < 1.0; coeff = coeff + 0.2) {
+                System.out.println(coeff);
+                Quadratic q = new Quadratic(tailFileName);
+                Solution s = new Solution(taiSize);
+                //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
+                RecuitSimule r = new RecuitSimule(q, s, true, coeff, MOVES_AT_TEMP, CHANGE_OF_TEMP, initial_temperature);
+                tasks.add(r);
+            }
         }
 
         int processors = Runtime.getRuntime().availableProcessors();
@@ -124,7 +129,7 @@ public class main {
 
         try {
             List<Future<Solution>> solutions = myService.invokeAll(tasks);
-            System.out.println("Recui Done for " + tailFileName);
+            System.out.println("Recuit Done for " + tailFileName);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -146,6 +151,15 @@ public class main {
 
         for(int j=0 ; j<i.length;j++){
             launchParallelTabou(i[j]);
+            System.out.println("-----------------------------");
+        }
+    }
+
+    private static void launchAllTailRecuitParallel() {
+        int[] i = {10,12,15,17,20,25,30,35,40,50,80,100};
+
+        for(int j=0 ; j<i.length;j++){
+            launchParallelRecuit(i[j]);
             System.out.println("-----------------------------");
         }
     }
