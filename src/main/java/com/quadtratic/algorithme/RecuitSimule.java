@@ -12,7 +12,7 @@ public class RecuitSimule extends Algorithm {
 
     public RecuitSimule(Quadratic quadratic, Solution solutionInitiale, boolean log, double temperatureDecreaseCoeff,
                         int movesAtTemp, int changesOfTemp, double initialTemperature) {
-        super(quadratic, solutionInitiale, log, changesOfTemp);
+        super(quadratic, solutionInitiale, log, (int) initialTemperature);
         this.temperatureDecreaseCoeff = temperatureDecreaseCoeff;
         this.movesAtTemp = movesAtTemp;
         this.changesOfTemp = changesOfTemp;
@@ -39,7 +39,7 @@ public class RecuitSimule extends Algorithm {
 
         Random random = new Random();
         Solution randomSolution;
-
+        int iteration = 0;
         for(int k = 0; k < this.changesOfTemp; k++) {
             for(int l = 1; l <= this.movesAtTemp; l++) {
 
@@ -54,13 +54,14 @@ public class RecuitSimule extends Algorithm {
 
                 if(deltaFitness <= 0) {
                     this.quadratic.setSolution(randomSolution);
-                    this.loggerResults.writeResultsInFileRecuitSimule(loggerResults.getFilename(),
-                            temperatureDecreaseCoeff, temperature, changesOfTemp, k, movesAtTemp, l,
-                            initialTemperature, solutionMin.getFitness(), quadratic.getSolution().getFitness());
-
                     if(randomSolution.getFitness() < this.solutionMin.getFitness()) {
                         this.solutionMin = randomSolution;
                     }
+                    this.loggerResults.writeResultsInFileRecuitSimule(loggerResults.getFilename(),
+                            temperatureDecreaseCoeff, temperature, changesOfTemp, k, movesAtTemp, l,
+                            initialTemperature,iteration, solutionMin.getFitness(), quadratic.getSolution().getFitness());
+                    iteration++;
+
                 } else {
                     double p = random.nextDouble();
                     //System.out.println(p);
@@ -69,8 +70,9 @@ public class RecuitSimule extends Algorithm {
 
                         this.loggerResults.writeResultsInFileRecuitSimule(loggerResults.getFilename(),
                                 temperatureDecreaseCoeff, temperature, changesOfTemp, k, movesAtTemp, l,
-                                initialTemperature, solutionMin.getFitness(), quadratic.getSolution().getFitness());
+                                initialTemperature,iteration,solutionMin.getFitness(), quadratic.getSolution().getFitness());
 
+                        iteration++;
                         if(log) {
                             // On écrit les logs dans un fichier
                             this.logger.writeLogInFileRecuitSimule(this.solutionMin, this.quadratic.getSolution(), k, l);

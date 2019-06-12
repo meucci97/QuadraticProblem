@@ -32,7 +32,7 @@ public class Logger {
         this.filename = "tabou_" + quadratic.getSize() + "_" + maxIter + "_" + tabouListSize;
 
         try {
-            String file = this.filename + ".csv";
+            String file = this.filename + "_.csv";
             resultsFile = new File("./src/main/resources/results/tabou/" + file);
 
             fileWriter = new FileWriter(resultsFile);
@@ -43,7 +43,7 @@ public class Logger {
 
     public Logger(Quadratic quadratic, double temperatureDecreaseCoeff, int changesOfTemp, int movesAtTemp,
                   double initialTemperature) {
-        this.filename = "recuit_" + quadratic.getSize()+ "_" + temperatureDecreaseCoeff + "_" +
+        this.filename = "recuit_" + quadratic.getSize()+ "_" + String.format("%.2f",temperatureDecreaseCoeff) + "_" +
                 changesOfTemp + "_" + movesAtTemp + "_" + initialTemperature;
 
         try {
@@ -95,18 +95,18 @@ public class Logger {
 
     public void writeResultsInFileTabou(String filename, int tabouSize, int iteration, double fitness, double fitnessOpt) {
         try {
-            fileWriter.write("\n" + filename + ";" + tabouSize + ";" + iteration + ";" + fitness + ";" + fitnessOpt);
+            fileWriter.write("\n" + filename + ";" + tabouSize + ";" + iteration + ";" + String.format("%.3f", fitness) + ";" +String.format("%.3f", fitnessOpt));
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
     public void writeResultsInFileRecuitSimule(String filename, double coeffInit, double coeff, int changesOfTemps,
-                                               int temp, int movesAtTemp, int move, double tempInit, double fitness,
+                                               int temp, int movesAtTemp, int move, double tempInit,int iteration,double fitness,
                                                double fitnessOpt) {
         try {
-            fileWriter.write("\n" + filename + ";" + coeffInit + ";" + coeff + ";" + changesOfTemps + ";" + temp
-                    + ";" + movesAtTemp + ";" + move + ";" + tempInit + ";" + fitness + ";" + fitnessOpt);
+            fileWriter.write("\n'" + filename + "';" +  String.format("%.2f", coeffInit) + ";" + String.format("%.2f",coeff) + ";" + changesOfTemps + ";" + temp
+                    + ";" + movesAtTemp + ";" + move + ";" + String.format("%.2f", tempInit) + ";" + iteration + ";" + String.format("%.0f", fitness) + ";" + String.format("%.0f", fitnessOpt));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -122,7 +122,7 @@ public class Logger {
 
     public void initializeFirstLineResultsRecuitSimule() {
         try {
-            fileWriter.write("nom_fichier;coefficient_temp_init;coefficient_temp;changement_temp_init;changement_temp;mouvements_temp_init;mouvement_temp;temperature_initiale;fitnessMin;fitness");
+            fileWriter.write("nom_fichier;coefficient_temp_init;coefficient_temp;changement_temp_init;changement_temp;mouvements_temp_init;mouvement_temp;temperature_initiale;iteration;fitnessMin;fitness");
         } catch (IOException e) {
             e.printStackTrace();
         }
