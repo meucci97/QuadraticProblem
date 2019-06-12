@@ -21,6 +21,7 @@ public class main {
         launchAllTailRecuitParallel();
 
         //launchAllTailTabouParallel();
+        
         /*
         Scanner sc = new Scanner(System.in);
         System.out.println("Choisir Type d'algo (0 -> Tabou, 1->Recuit)");
@@ -33,7 +34,7 @@ public class main {
             launchParallelTabou(taiSize);
         else
             launchParallelRecuit(taiSize);
-*/
+        */
         return ;
     }
 
@@ -41,10 +42,10 @@ public class main {
         Quadratic q2 = new Quadratic("tai80a.dat");
         q2.affiche();
         Solution s2 = new Solution();
-//        int[] i= {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
-//
-//        //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
-//        s2.setSolution(i);
+    //        int[] i= {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
+    //
+    //        //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
+    //        s2.setSolution(i);
         Solution s = new Solution(80);
         Tabou t = new Tabou(q2, s, false, 2000, 70);
         Solution solutionTabou = t.evaluateSolution();
