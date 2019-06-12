@@ -8,7 +8,7 @@ import java.util.concurrent.Future;
 
 public class main {
     //Tabou
-    public final static int MAX_ITER = 20000;
+    public final static int MAX_ITER = 10000;
 
     // Recuit
     public final static int MOVES_AT_TEMP = 1000;
@@ -114,7 +114,7 @@ public class main {
         ArrayList<Algorithm> tasks = new ArrayList<Algorithm>();
         for(double initial_temperature = INITIALE_TEMPERATURE; initial_temperature <= 10000; initial_temperature = initial_temperature + 1500) {
             for(double coeff = TEMPERATURE_DECREASE_COEFF; coeff < 1.0; coeff = coeff + 0.2) {
-                System.out.println(coeff);
+                //System.out.println(coeff);
                 Quadratic q = new Quadratic(tailFileName);
                 Solution s = new Solution(taiSize);
                 //8,1,6,2,11,10,3,5,9,7,12,4 224416.0
